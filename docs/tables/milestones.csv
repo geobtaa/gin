@@ -1,0 +1,10 @@
+Year,Events,Geoportal development,Members join
+2012,- CIC Center for Library Initiatives conference focused on geospatial,-,-
+2015,- Project kickoff meeting with 9 institutions<br>- 1st project summit,- Environmental scan of available technologies,- 9 institutions sign on<br>- Hired metadata coordinator
+2016,- 1st user testing of BTAA Geoportal,- Launched BTAA Geoportal with GIS data records,- Indiana University<br>- Dedicated application developer joined
+2017,- 2nd in-person project summit,- Added scanned maps records,- University of Chicago<br>- The Ohio State University
+2018,- 2nd user testing of BTAA Geoportal,- Implemented thumbnails and advanced search,-
+2019,- hosted Strategic Leadership Group in-person meeting to discuss expansion and sustainability,"- Upgraded to GeoBlacklight 2.0<br>- Added an Open in ArcGIS button, tooltips, and a citation widget",- University of Nebraska
+2020,- 3rd user testing of BTAA Geoportal (remotely)<br>- hosted 1st BTAA GIS Conference,- Metadata editor development phase 1,-
+2021,- Presented a webinar to WAML<br>- Presented to the BTAA B1G Convening<br>- 2nd BTAA GIS Conference,- Added licensed data to the Geoportal<br>- Metadata editor (GEOMG) put into production<br>- OpenGeoMetadata Aardvark schema implemented,-
+2022,- 3rd BTAA GIS Conference,- Developed and upgraded to GeoBlacklight 4.0<br>- Cloud hosting for Geoportal - moved to AWS,- Rutgers University-New Brunswick

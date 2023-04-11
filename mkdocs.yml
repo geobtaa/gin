@@ -1,0 +1,101 @@
+site_name: Big Ten Academic Alliance Geospatial Information Network
+site_author: Big Ten Academic Alliance Geospatial Information Network
+copyright : "2023"
+
+theme: 
+      name: material
+      highlightjs: true
+      logo: images/btaa-logo-white.png
+      palette:
+          primary: indigo
+      custom_dir: overrides
+      features:
+            - navigation.top
+            - navigation.indexes
+            - navigation.instant
+            - navigation.tabs
+            - navigation.tabs.sticky
+            - navigation.tracking
+            - navigation.sections
+            - navigation.expand
+            - navigation.path
+            - navigation.prune
+            - toc.integrate
+            - toc.follow
+    
+plugins:
+      - table-reader
+      - search
+
+extra_css:
+      - stylesheets/extra.css
+  
+extra_javascript:
+      - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+      - javascripts/tablesort.js
+
+markdown_extensions:
+      - abbr
+      - tables
+      - attr_list
+      - md_in_html
+      - admonition
+      - pymdownx.critic
+      - pymdownx.caret
+      - pymdownx.keys
+      - pymdownx.mark
+      - pymdownx.tilde
+      - pymdownx.details
+      - pymdownx.superfences
+      - pymdownx.snippets
+      - pymdownx.emoji:
+            emoji_index: !!python/name:materialx.emoji.twemoji
+            emoji_generator: !!python/name:materialx.emoji.to_svg
+            options:
+                  custom_icons:
+                        - overrides/.icons
+      - pymdownx.tabbed:
+            alternate_style: true 
+            slugify: !!python/object/apply:pymdownx.slugs.slugify
+                  kwds:
+                        case: lower
+      - toc:
+              toc_depth: 2
+              permalink: true
+
+
+
+
+
+nav:
+- HOME: 'index.md'
+
+- About:
+      - 'About the BTAA-GIN' : 'about.md'
+
+      - Team:
+            - 'Participating institutions' : 'institutions.md'
+            - 'Team members' : 'teamMembers.md'
+            - 'Committees' : 'committees.md'
+            - 'Working Groups' : 'workingGroups.md'
+            - 'Operations Team' : 'operationsTeam.md'
+      - History:
+            - 'Milestones' : 'history.md'
+            - 'Impact Report 2020' : 'impactReport_2022-05.md'
+
+- Technology:
+      - 'BTAA Geoportal' : 'geoportal.md'
+      - 'GEOMG Metadata Toolkit' : 'geomg.md'
+      - 'GeoBTAA Metadata Handbook': 'metadataHandbook.md'
+- Education:
+      - 'Tutorials' : 'tutorials.md'
+      - 'Research Guides' : 'researchGuides.md'
+      - 'Metadata Best Practices' : 'metadataBestPractices.md'
+- Community:
+      - 'BTAA GIS Conference' : 'conferences.md'
+      - 'Land acknowledgement action plan' : 'actionPlan.md'  
+      - 'Open-source community support' : 'openSource.md'
+              
+- News: 'news.md'
+
+

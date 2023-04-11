@@ -1,0 +1,45 @@
+.md-header, .md-tabs, .md-tabs__item { 
+  background-color: #0a4c7b;
+}
+
+.md-tabs__item{
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.md-header{
+  font-size: 16px;
+  }
+  
+  .md-banner{
+/* 
+        display:inline-block:
+        text-align: right;
+ */
+        color: #000
+        background: #fff;
+        padding: 1px;
+        padding-left:0px;
+        box-shadow: -16px 0 0 #FE8020;
+        text-align:center;
+        
+        }
+ .md-banner a:link{
+    color:#FFFFFF;
+}
+
+
+  .responsive-google-slides {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 Ratio */
+    height: 0;
+    overflow: hidden;
+  }
+  .responsive-google-slides iframe {
+    border: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+  }
