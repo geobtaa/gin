@@ -2,6 +2,25 @@
   background-color: #0a4c7b;
 }
 
+.md-header__button.md-logo {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.md-nav__item--section > .md-nav__link[for] {
+    color: inherit;
+}
+
+/* 
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 10%;
+  width: 10%;
+}
+ */
+
 .md-tabs__item{
   color: #ffffff;
   font-weight: bold;
@@ -28,6 +47,10 @@
     color:#FFFFFF;
 }
 
+increase header size and fonts.md-header__topic  {
+  font-size: 1.5em; 
+  line-height: 2em;
+  }
 
   .responsive-google-slides {
     position: relative;

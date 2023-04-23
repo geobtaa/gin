@@ -14,7 +14,7 @@ theme:
             - navigation.indexes
             - navigation.instant
             - navigation.tabs
-            - navigation.tabs.sticky
+#             - navigation.tabs.sticky
             - navigation.tracking
             - navigation.sections
             - navigation.expand
@@ -26,6 +26,15 @@ theme:
 plugins:
       - table-reader
       - search
+      - glightbox
+      - blog:
+            categories: false
+            archive: false
+      - optimize:
+            enabled: !ENV [CI, false]
+#       - pdf-export:
+#             verbose: true
+#             media_type: print
 
 extra_css:
       - stylesheets/extra.css
@@ -46,7 +55,12 @@ markdown_extensions:
       - pymdownx.mark
       - pymdownx.tilde
       - pymdownx.details
-      - pymdownx.superfences
+      - pymdownx.superfences:
+            custom_fences:
+                  - name: mermaid
+                    class: mermaid
+                    format: !!python/name:pymdownx.superfences.fence_code_format
+                    showSequenceNumbers: true
       - pymdownx.snippets
       - pymdownx.emoji:
             emoji_index: !!python/name:materialx.emoji.twemoji
@@ -64,38 +78,66 @@ markdown_extensions:
               permalink: true
 
 
-
-
-
 nav:
-- HOME: 'index.md'
 
-- About:
-      - 'About the BTAA-GIN' : 'about.md'
+- Home: 'index.md'
 
-      - Team:
-            - 'Participating institutions' : 'institutions.md'
-            - 'Team members' : 'teamMembers.md'
-            - 'Committees' : 'committees.md'
-            - 'Working Groups' : 'workingGroups.md'
-            - 'Operations Team' : 'operationsTeam.md'
-      - History:
-            - 'Milestones' : 'history.md'
+- User Resources:
+      - Tutorials:
+            - 'About': 'tutorials/index.md'
+            - 'Types of Geospatial Information': 'tutorials/01_types-of-geospatial-information.md'
+            - 'Find Maps': 'tutorials/02_find-maps.md'
+            - 'Find Geospatial Data': 'tutorials/03_find-geospatial-data.md'
+            - 'Evaluate Geospatial Information': 'tutorials/04_evaluate-geospatial-information.md'
+            - 'Web Services': 'tutorials/05_web-services.md'
+            - 'Link Tabular Data': 'tutorials/06_link-tabular-data.md'
+            - 'Georeference': 'tutorials/07_georeference.md'
+            - 'Create Elevation Surface Models': 'tutorials/09_create-elevation-surface-models.md'
+            - 'Zonal Stats Tool': 'tutorials/10_zonal-stats-tool.md'
+            - 'Story Maps': 'tutorials/11_story-maps.md'
+
+      - Search Guides:
+            - 'Geoportal Search strategies': 'search-strategies.md'
+            - 'Understanding metadata': 'understanding-metadata.md'
+            - 'Licensed data' : 'licensed-data.md'
+            - 'Fire insurance maps'     
+            - 'Public Land Survey System (PLSS) Plats'
+            - 'Census data'
+            - 'Cite data':  'researchGuides.md'
+   
+      
+- BTAA GIS Conference:
+      - 'BTAA GIS Conference' : 'conference/index.md'
+      - 'Past Conferences': 'conference/past-conferences.md'
+                  
+- Documentation:
+      - Program Management:
+            - 'Status Updates': 'blog/index.md'
+            - 'Roadmap' : 'roadmap'
             - 'Impact Report 2020' : 'impactReport_2022-05.md'
+      - Program Guidelines:
+            - 'Land acknowledgement action plan' : 'actionPlan.md' 
+            - 'Collection Development Policy': 'metadata/collection-development-policy.md'
+            - 'Curation Priorities': 'metadata/curation-priorities.md'
+      - Workflows:
+            - 'Metadata Handbook': 'metadataHandbook.md'
+            - 'Harvesting Guide': 'harvesting-guide/index.md'
+      - Publications:
+            - Collections Blog: 'news.md'
+            - Journal Articles: 'journal-articles.md'
+            - Conference Presentations: 'presentations.md'
 
-- Technology:
-      - 'BTAA Geoportal' : 'geoportal.md'
-      - 'GEOMG Metadata Toolkit' : 'geomg.md'
-      - 'GeoBTAA Metadata Handbook': 'metadataHandbook.md'
-- Education:
-      - 'Tutorials' : 'tutorials.md'
-      - 'Research Guides' : 'researchGuides.md'
-      - 'Metadata Best Practices' : 'metadataBestPractices.md'
-- Community:
-      - 'BTAA GIS Conference' : 'conferences.md'
-      - 'Land acknowledgement action plan' : 'actionPlan.md'  
-      - 'Open-source community support' : 'openSource.md'
-              
-- News: 'news.md'
+      
+- About:
+      - 'About the BTAA-GIN' : 'about-btaa-gin.md'
+      - Committees:
+            - 'Executive': 'committees/executive.md'
+            - 'Steering': 'committees/steering.md'
+            - 'Community Engagment & Education': 'committees/cee.md'
+            - 'Metadata': 'committees/metadata.md'
+            - 'Interface': 'committees/interface.md'
+            - 'Collections Development': 'committees/cd.md'
+      - 'Contact': 'contact.md'
+
 
 
