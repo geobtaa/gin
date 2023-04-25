@@ -11,7 +11,7 @@ theme:
       custom_dir: overrides
       features:
             - navigation.top
-            - navigation.indexes
+#             - navigation.indexes
             - navigation.instant
             - navigation.tabs
 #             - navigation.tabs.sticky
@@ -85,16 +85,17 @@ nav:
 - User Resources:
       - Tutorials:
             - 'About': 'tutorials/index.md'
-            - 'Types of Geospatial Information': 'tutorials/01_types-of-geospatial-information.md'
-            - 'Find Maps': 'tutorials/02_find-maps.md'
-            - 'Find Geospatial Data': 'tutorials/03_find-geospatial-data.md'
-            - 'Evaluate Geospatial Information': 'tutorials/04_evaluate-geospatial-information.md'
-            - 'Web Services': 'tutorials/05_web-services.md'
-            - 'Link Tabular Data': 'tutorials/06_link-tabular-data.md'
-            - 'Georeference': 'tutorials/07_georeference.md'
-            - 'Create Elevation Surface Models': 'tutorials/09_create-elevation-surface-models.md'
-            - 'Zonal Stats Tool': 'tutorials/10_zonal-stats-tool.md'
-            - 'Story Maps': 'tutorials/11_story-maps.md'
+            - '1. Types of Geospatial Information': 'tutorials/01_types-of-geospatial-information.md'
+            - '2. Find Maps': 'tutorials/02_find-maps.md'
+            - '3. Find Geospatial Data': 'tutorials/03_find-geospatial-data.md'
+            - '4. Evaluate Geospatial Information': 'tutorials/04_evaluate-geospatial-information.md'
+            - '5. Web Services': 'tutorials/05_web-services.md'
+            - '6. Link Tabular Data': 'tutorials/06_link-tabular-data.md'
+            - '7. Georeference': 'tutorials/07_georeference.md'
+            - '8. Digitize': 'tutorials/08_digitize.md'
+            - '9. Create Elevation Surface Models': 'tutorials/09_create-elevation-surface-models.md'
+            - '10. Zonal Stats Tool': 'tutorials/10_zonal-stats-tool.md'
+            - '11. Story Maps': 'tutorials/11_story-maps.md'
 
       - Search Guides:
             - 'Geoportal Search strategies': 'search-strategies.md'
@@ -104,29 +105,28 @@ nav:
             - 'Public Land Survey System (PLSS) Plats'
             - 'Census data'
             - 'Cite data':  'researchGuides.md'
-   
-      
-- BTAA GIS Conference:
-      - 'BTAA GIS Conference' : 'conference/index.md'
-      - 'Past Conferences': 'conference/past-conferences.md'
                   
 - Documentation:
+      - BTAA Geoportal:
+            - 'About the Geoportal' : 'geoportal.md'
+            - 'Metadata Handbook': 'metadataHandbook.md'
+      - Program Guidelines:
+            - 'Land acknowledgement action plan' : 'actionPlan.md' 
+            - 'Collection Development Policy': 'collection-development-policy.md'
+            - 'Curation Priorities': 'curation-priorities.md'
       - Program Management:
             - 'Status Updates': 'blog/index.md'
             - 'Roadmap' : 'roadmap'
             - 'Impact Report 2020' : 'impactReport_2022-05.md'
-      - Program Guidelines:
-            - 'Land acknowledgement action plan' : 'actionPlan.md' 
-            - 'Collection Development Policy': 'metadata/collection-development-policy.md'
-            - 'Curation Priorities': 'metadata/curation-priorities.md'
-      - Workflows:
-            - 'Metadata Handbook': 'metadataHandbook.md'
-            - 'Harvesting Guide': 'harvesting-guide/index.md'
-      - Publications:
-            - Collections Blog: 'news.md'
-            - Journal Articles: 'journal-articles.md'
-            - Conference Presentations: 'presentations.md'
 
+- Publications:
+      - 'Collections Blog': 'news.md'
+      - 'Journal Articles': 'journal-articles.md'
+      - 'Conference Presentations': 'presentations.md'
+      
+- BTAA GIS Conference:
+      - 'BTAA GIS Conference' : 'conference/index.md'
+      - 'Past Conferences': 'conference/past-conferences.md'
       
 - About:
       - 'About the BTAA-GIN' : 'about-btaa-gin.md'

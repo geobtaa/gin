@@ -2,6 +2,7 @@
 
 Visit the BTAA Geoportal at [geo.btaa.org](https://geo.btaa.org)
 
+
 !!! info "Key features"
 	* connects users to digital geospatial resources, including GIS datasets, web services, and digitized historical maps from multiple data clearinghouses and library catalogs
 	* saves researcher time by centralizing regional geospatial data discovery into a single interface
@@ -17,4 +18,4 @@ One of the primary outputs of the project is the BTAA Geoportal, a comprehensive
 
 The Geoportal is a useful tool because finding local geospatial data through a simple Google search can be difficult due to the lack of visibility of these datasets. The problem is that users need to know which agency is responsible for creating and distributing the data they are looking for and visit that agency's website to access the datasets. For instance, if you are researching a particular neighborhood in a city and need data on the roads, parks, parcels, and city council ward boundaries, you might need to check different state agencies, the city or the county website. But with the Geoportal, you can easily search by **What**, **Where**, and **When** without worrying about the **Who** or **Why**.
 
-Overall, the BTAA Geoportal provides an easy and comprehensive way for scholars to find and access geospatial resources from various sources, enabling them to focus on their research rather than the time-consuming task of finding the right data.
+The BTAA Geoportal helps scholars find and access geospatial resources from various sources, enabling them to focus on their research rather than the time-consuming task of finding the right data.
