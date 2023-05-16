@@ -9,6 +9,7 @@
   padding-bottom: 0;
 }
 
+
 .md-nav__item--section > .md-nav__link[for] {
     color: inherit;
 }
@@ -26,25 +27,13 @@
   font-weight: bold;
 }
 
-.md-header{
-  font-size: 16px;
+.md-header__topic{
+  font-size: 24px;
+  font-weight: normal;
   }
-  
-  .md-banner{
-/* 
-        display:inline-block:
-        text-align: right;
- */
-        color: #000
-        background: #fff;
-        padding: 1px;
-        padding-left:0px;
-        box-shadow: -16px 0 0 #FE8020;
-        text-align:center;
-        
-        }
+
  .md-banner a:link{
-    color:#FFFFFF;
+    color:#fff;
 }
 
 increase header size and fonts.md-header__topic  {

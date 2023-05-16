@@ -5,28 +5,43 @@ copyright : "2023"
 theme: 
       name: material
       highlightjs: true
-      logo: images/btaa-logo-white.png
-      palette:
-          primary: indigo
+      logo: images/globe-icon.png
+#       palette:
+#           primary: white
+#           accent: black
       custom_dir: overrides
       features:
             - navigation.top
-#             - navigation.indexes
-            - navigation.instant
+            - navigation.indexes
+#             - navigation.instant
             - navigation.tabs
-#             - navigation.tabs.sticky
+            - navigation.tabs.sticky
             - navigation.tracking
             - navigation.sections
-            - navigation.expand
+#             - navigation.expand
             - navigation.path
             - navigation.prune
             - toc.integrate
             - toc.follow
+            - announce.dismiss
     
 plugins:
       - table-reader
       - search
-      - glightbox
+      - open-in-new-tab
+      - glightbox:
+            touchNavigation: true
+            loop: false
+            effect: zoom
+            slide_effect: slide
+            width: 100%
+            height: 100%
+            zoomable: true
+            draggable: true
+            skip_classes:
+                  - custom-skip-class-name
+            auto_caption: true
+            caption_position: top
       - blog:
             categories: false
             archive: false
@@ -48,6 +63,7 @@ markdown_extensions:
       - tables
       - attr_list
       - md_in_html
+      - meta
       - admonition
       - pymdownx.critic
       - pymdownx.caret
@@ -76,6 +92,7 @@ markdown_extensions:
       - toc:
               toc_depth: 2
               permalink: true
+              permalink_title: Anchor link to this section for reference
 
 
 nav:
@@ -84,7 +101,7 @@ nav:
 
 - User Resources:
       - Tutorials:
-            - 'About': 'tutorials/index.md'
+            - 'tutorials/index.md'
             - '1. Types of Geospatial Information': 'tutorials/01_types-of-geospatial-information.md'
             - '2. Find Maps': 'tutorials/02_find-maps.md'
             - '3. Find Geospatial Data': 'tutorials/03_find-geospatial-data.md'
@@ -106,7 +123,7 @@ nav:
             - 'Census data'
             - 'Cite data':  'researchGuides.md'
                   
-- Documentation:
+- Program Documentation:
       - BTAA Geoportal:
             - 'About the Geoportal' : 'geoportal.md'
             - 'Metadata Handbook': 'metadataHandbook.md'
@@ -122,13 +139,18 @@ nav:
 - Publications:
       - 'Collections Blog': 'news.md'
       - 'Journal Articles': 'journal-articles.md'
-      - 'Conference Presentations': 'presentations.md'
+      - 'Presentations': 'presentations.md'
       
-- BTAA GIS Conference:
-      - 'BTAA GIS Conference' : 'conference/index.md'
-      - 'Past Conferences': 'conference/past-conferences.md'
+- Conference:
+      - 'index' : 'conference/index.md'
+      - Past Conferences:
+            - 2022: 'conference/2022/agenda.md'   
+      - Map Gallery:
+            - '2022' : 'conference/map-gallery/2022.md'
       
-- About:
+
+      
+- About Us:
       - 'About the BTAA-GIN' : 'about-btaa-gin.md'
       - Committees:
             - 'Executive': 'committees/executive.md'
