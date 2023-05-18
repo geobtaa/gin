@@ -38,4 +38,4 @@ For example with the following Elections dataset via PolicyMap:
 
 ## Database Descriptions
 
-{{ read_csv('tables/licensed-resources.csv') }}
+{{ read_csv('licensed-resources.csv') }}

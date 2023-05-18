@@ -1,11 +1,14 @@
-site_name: Big Ten Academic Alliance Geospatial Information Network
+site_name: Geospatial Information Network
 site_author: Big Ten Academic Alliance Geospatial Information Network
 copyright : "2023"
+noindex: true 
 
 theme: 
       name: material
       highlightjs: true
-      logo: images/globe-icon.png
+      logo: images/btaa-logo-white.png
+      font:
+            text: helvetica neue
 #       palette:
 #           primary: white
 #           accent: black
@@ -23,7 +26,7 @@ theme:
             - navigation.prune
             - toc.integrate
             - toc.follow
-            - announce.dismiss
+
     
 plugins:
       - table-reader
@@ -115,11 +118,11 @@ nav:
             - '11. Story Maps': 'tutorials/11_story-maps.md'
 
       - Search Guides:
-            - 'Geoportal Search strategies': 'search-strategies.md'
-            - 'Understanding metadata': 'understanding-metadata.md'
-            - 'Licensed data' : 'licensed-data.md'
+            - 'Geoportal Search strategies': 'guides/search-strategies.md'
+            - 'Understanding metadata': 'guides/understanding-metadata.md'
+            - 'Licensed data' : 'guides/licensed-data.md'
             - 'Fire insurance maps'     
-            - 'Public Land Survey System (PLSS) Plats'
+            - 'Public Land Survey System (PLSS) Plats' : 'guides/plss.md'
             - 'Census data'
             - 'Cite data':  'researchGuides.md'
                   

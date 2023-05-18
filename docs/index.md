@@ -10,6 +10,8 @@ hide:
   }
 </style>-->
 
+
+
 ![logo](images/globe.png){ align=left ; width="400" }
 
 <p style="margin:25px">
@@ -43,21 +45,22 @@ Find out more about our network and collaborative activites across the Big Ten A
 
 
 </div>
+
  
  
-<!--## External links to our project sites
+## External links to our project sites
 
 <div class="grid cards" markdown>
  
 - ### :material-map: [BTAA Geoportal :octicons-link-external-16:](https://geo.btaa.org) 
- Search for data and maps in the BTAA Geoportal { .card }
+ Search for data and maps in the BTAA Geoportal 
 
 - ###  :fontawesome-solid-blog: [Blog :octicons-link-external-16:](https://geobtaa.blogspot.com) 
-Read about interesting resources in our collections blog { .card  }
+Read about interesting resources in our collections blog 
 
-- ### [Metadata Handbook](https://z.umn.edu/gbl-handbook)
-jklkj { .card  }
+- ### :material-book-cog: [Metadata Handbook :octicons-link-external-16:](https://z.umn.edu/gbl-handbook)
+Consult our Metadata Handbook.
 
 </div>
- -->
+
 
