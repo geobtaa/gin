@@ -10,9 +10,11 @@ hide:
   }
 </style>-->
 
+!!! warning
 
+	this site is a work in progress and will be launched in June 2023. In the meantime, visit our current website at [https://z.umn.edu/geobtaa](https://z.umn.edu/geobtaa)
 
-![logo](images/globe.png){ align=left ; width="400" }
+![logo](images/simple-logo.png){ align=left ; width="400" }
 
 <p style="margin:25px">
 The Big Ten Academic Alliance Geospatial Information Network (BTAA-GIN) is  a collaboration of librarians and geospatial specialists from fourteen universities in the <a href = "https://btaa.org">Big Ten Academic Alliance</a>. Together, they maintain the BTAA Geoportal, create educational materials, document best practices for geospatial libraries, and contribute to the free and open source software community.
