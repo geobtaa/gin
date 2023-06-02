@@ -45,11 +45,11 @@ plugins:
                   - custom-skip-class-name
             auto_caption: true
             caption_position: top
-      - blog:
-            categories: false
-            archive: false
-      - optimize:
-            enabled: !ENV [CI, false]
+#      - blog:
+#            categories: false
+#            archive: false
+#      - optimize:
+#            enabled: !ENV [CI, false]
 #       - pdf-export:
 #             verbose: true
 #             media_type: print
@@ -124,7 +124,7 @@ nav:
             - 'Fire insurance maps'  : 'guides/fire-insurance.md'   
             - 'Public Land Survey System (PLSS) Plats' : 'guides/plss.md'
             - 'Census data' : 'guides/census.md'
-            - 'Cite data':  'researchGuides.md'
+            - 'Cite data':  'guides/cite-data.md'
                   
 - Program Documentation:
       - BTAA Geoportal:
