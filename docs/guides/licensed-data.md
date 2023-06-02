@@ -1,3 +1,7 @@
+---
+hide:
+ -navigation
+---
 
 ## What does “Licensed Data” mean?
 

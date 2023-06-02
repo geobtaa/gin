@@ -1,3 +1,8 @@
+---
+hide:
+ -navigation
+---
+
 # BTAA Geoportal search strategies
 
 ## Keyword search
