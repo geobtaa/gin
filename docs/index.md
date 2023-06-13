@@ -12,7 +12,7 @@ hide:
 
 !!! warning
 
-	this site is a work in progress and will be launched in June 2023. In the meantime, visit our current website at [https://z.umn.edu/geobtaa](https://z.umn.edu/geobtaa)
+	This site is a work in progress. In the meantime, visit our current website at [https://z.umn.edu/geobtaa](https://z.umn.edu/geobtaa)
 
 ![logo](images/simple-logo.png){ align=left ; width="400" }
 
