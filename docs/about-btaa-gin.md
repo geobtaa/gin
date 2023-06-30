@@ -1,6 +1,6 @@
 ---
 hide:
-  - toc
+
 ---
 
 ## What we do

@@ -21,6 +21,7 @@ theme:
             - navigation.tabs.sticky
             - navigation.tracking
             - navigation.sections
+            - navigation.footer
 #             - navigation.expand
             - navigation.path
             - navigation.prune
@@ -45,9 +46,12 @@ plugins:
                   - custom-skip-class-name
             auto_caption: true
             caption_position: top
-#      - blog:
-#            categories: false
-#            archive: false
+      - blog:
+           blog_dir: blog
+           categories: false
+           archive: true
+           post_date_format: medium
+#            archive_date_format: MMMM yyyy
 #      - optimize:
 #            enabled: !ENV [CI, false]
 #       - pdf-export:
@@ -135,9 +139,10 @@ nav:
             - 'Collection Development Policy': 'collection-development-policy.md'
             - 'Curation Priorities': 'curation-priorities.md'
       - Program Management:
-            - 'Status Updates': 'blog/index.md'
             - 'Roadmap' : 'roadmap'
             - 'Impact Report 2020' : 'impactReport_2022-05.md'
+- Status Updates:
+      - blog/index.md
 
 - Publications:
       - 'Collections Blog': 'news.md'
