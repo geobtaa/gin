@@ -8,9 +8,9 @@
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <meta content="Big Ten Academic Alliance Geospatial Information Network" name="author"/>
 <link href="../../assets/images/favicon.png" rel="icon"/>
-<meta content="mkdocs-1.4.3, mkdocs-material-9.1.18+insiders-4.36.1" name="generator"/>
+<meta content="mkdocs-1.5.2, mkdocs-material-9.1.21+insiders-4.39.0" name="generator"/>
 <title>Georeference - Geospatial Information Network</title>
-<link href="../../assets/stylesheets/main.9c6232c5.min.css" rel="stylesheet"/>
+<link href="../../assets/stylesheets/main.3a36e643.min.css" rel="stylesheet"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css?family=helvetica+neue:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
 <style>:root{--md-text-font:"helvetica neue";--md-code-font:"Roboto Mono"}</style>
@@ -109,6 +109,16 @@
       </a>
 </li>
 <li class="md-tabs__item">
+<a class="md-tabs__link" href="../../about-btaa-gin/">
+          
+  
+    
+  
+  About
+
+        </a>
+</li>
+<li class="md-tabs__item">
 <a class="md-tabs__link" href="../">
           
   
@@ -119,27 +129,7 @@
         </a>
 </li>
 <li class="md-tabs__item">
-<a class="md-tabs__link" href="../../geoportal/">
-          
-  
-    
-  
-  Program Documentation
-
-        </a>
-</li>
-<li class="md-tabs__item">
-<a class="md-tabs__link" href="../../blog/">
-          
-  
-    
-  
-  Status Updates
-
-        </a>
-</li>
-<li class="md-tabs__item">
-<a class="md-tabs__link" href="../../news/">
+<a class="md-tabs__link" href="../../metadataHandbook/">
           
   
     
@@ -149,22 +139,22 @@
         </a>
 </li>
 <li class="md-tabs__item">
+<a class="md-tabs__link" href="../../news/">
+        
+  
+    
+  
+  Blog
+
+      </a>
+</li>
+<li class="md-tabs__item">
 <a class="md-tabs__link" href="../../conference/">
           
   
     
   
   Conference
-
-        </a>
-</li>
-<li class="md-tabs__item">
-<a class="md-tabs__link" href="../../about-btaa-gin/">
-          
-  
-    
-  
-  About Us
 
         </a>
 </li>
@@ -199,6 +189,19 @@
 </a>
 </li>
 <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+<a class="md-nav__link" href="../../about-btaa-gin/">
+<span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+<span class="md-nav__icon md-icon"></span>
+</a>
+</li>
+<li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
 <a class="md-nav__link" href="../">
 <span class="md-ellipsis">
     
@@ -212,33 +215,7 @@
 </a>
 </li>
 <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
-<a class="md-nav__link" href="../../geoportal/">
-<span class="md-ellipsis">
-    
-  
-    Program Documentation
-  
-
-    
-  </span>
-<span class="md-nav__icon md-icon"></span>
-</a>
-</li>
-<li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
-<a class="md-nav__link" href="../../blog/">
-<span class="md-ellipsis">
-    
-  
-    Status Updates
-  
-
-    
-  </span>
-<span class="md-nav__icon md-icon"></span>
-</a>
-</li>
-<li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
-<a class="md-nav__link" href="../../news/">
+<a class="md-nav__link" href="../../metadataHandbook/">
 <span class="md-ellipsis">
     
   
@@ -250,25 +227,24 @@
 <span class="md-nav__icon md-icon"></span>
 </a>
 </li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../news/">
+<span class="md-ellipsis">
+    
+  
+    Blog
+  
+
+    
+  </span>
+</a>
+</li>
 <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
 <a class="md-nav__link" href="../../conference/">
 <span class="md-ellipsis">
     
   
     Conference
-  
-
-    
-  </span>
-<span class="md-nav__icon md-icon"></span>
-</a>
-</li>
-<li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
-<a class="md-nav__link" href="../../about-btaa-gin/">
-<span class="md-ellipsis">
-    
-  
-    About Us
   
 
     
@@ -335,7 +311,7 @@
 <article class="md-content__inner md-typeset">
 <h1 id="georeference">Georeference<a class="headerlink" href="#georeference" title="Anchor link to this section for reference">¶</a></h1>
 <p><em>This tutorial is part of an educational series produced by members of the <a href="https://geo.btaa.org">Big Ten Academic Alliance Geospatial Information Network</a>.</em></p>
-<p><span class="twemoji"><svg viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M224 256a128 128 0 1 0 0-256 128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3 0 498.7 13.3 512 29.7 512h388.6c16.4 0 29.7-13.3 29.7-29.7 0-98.5-79.8-178.3-178.3-178.3h-91.4z"></path></svg></span> Prepared by: Wenjie Wang, GIS Specialist, University of Illinois at Urbana-Champaign (wenjiew@illinois.edu). </p>
+<p><span class="twemoji"><svg viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M224 256a128 128 0 1 0 0-256 128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3 0 498.7 13.3 512 29.7 512h388.6c16.4 0 29.7-13.3 29.7-29.7 0-98.5-79.8-178.3-178.3-178.3h-91.4z"></path></svg></span> Prepared by: Wenjie Wang, GIS Specialist, University of Illinois at Urbana-Champaign (<a href="mailto:wenjiew@illinois.edu">wenjiew@illinois.edu</a>). </p>
 <p><span class="twemoji"><svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m11.89 10.34-1.34.7c-.14-.3-.31-.51-.52-.63-.21-.12-.41-.18-.58-.18-.9 0-1.34.59-1.34 1.77 0 .54.11.97.34 1.29.22.32.55.48 1 .48.58 0 .99-.27 1.23-.86l1.23.63c-.26.49-.62.87-1.09 1.15-.46.28-.97.42-1.53.42-.9 0-1.62-.27-2.17-.82C6.58 13.74 6.3 13 6.3 12c0-.95.28-1.7.83-2.26.56-.56 1.26-.84 2.1-.84 1.24-.01 2.13.48 2.66 1.44m5.77 0-1.32.7c-.14-.3-.34-.51-.53-.63-.21-.12-.41-.18-.6-.18-.89 0-1.34.59-1.34 1.77 0 .54.13.97.34 1.29.23.32.56.48 1 .48.59 0 1-.27 1.24-.86l1.25.63c-.28.49-.65.87-1.11 1.15-.47.28-.97.42-1.52.42-.9 0-1.63-.27-2.17-.82-.54-.55-.81-1.29-.81-2.29 0-.95.28-1.7.83-2.26.55-.56 1.25-.84 2.08-.84 1.26-.01 2.14.48 2.66 1.44M12 3.5a8.5 8.5 0 0 1 8.5 8.5 8.5 8.5 0 0 1-8.5 8.5A8.5 8.5 0 0 1 3.5 12 8.5 8.5 0 0 1 12 3.5M12 2A10 10 0 0 0 2 12a10 10 0 0 0 10 10 10 10 0 0 0 10-10A10 10 0 0 0 12 2Z"></path></svg></span> These slides and the accompanying activities are licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a> license.</p>
 <hr/>
 <h2 id="overview-of-georeferencing">Overview of Georeferencing<a class="headerlink" href="#overview-of-georeferencing" title="Anchor link to this section for reference">¶</a></h2>
@@ -343,7 +319,7 @@
 <h2 id="download-data">Download Data<a class="headerlink" href="#download-data" title="Anchor link to this section for reference">¶</a></h2>
 <ol>
 <li>
-<p>Open BTAA geoportal: https://geo.btaa.org/</p>
+<p>Open BTAA geoportal: <a href="https://geo.btaa.org/">https://geo.btaa.org/</a></p>
 </li>
 <li>
 <p>Search term “Hyde Park Community”</p>
@@ -450,7 +426,7 @@
 <p>This topic is optional. to publish a hosted layer, you will need publishing privileges in your ArcGIS organizational account.</p>
 </li>
 <li>
-<p>Publishing a tiled service to ArcGIS Online will consume credits, which are the currency used   across ArcGIS. To estimate how many credits you will need to perform specific transactions or store data, you can refer to this website: https://doc.arcgis.com/en/arcgis-online/administer/credits.htm</p>
+<p>Publishing a tiled service to ArcGIS Online will consume credits, which are the currency used   across ArcGIS. To estimate how many credits you will need to perform specific transactions or store data, you can refer to this website: <a href="https://doc.arcgis.com/en/arcgis-online/administer/credits.htm">https://doc.arcgis.com/en/arcgis-online/administer/credits.htm</a></p>
 </li>
 <li>
 <p>Sign in with your university account.</p>
@@ -494,7 +470,7 @@
 <p>Click Publish button to publish this service.</p>
 </li>
 <li>
-<p>Tile Packages can be used to save credits. You will not be charged for generating tiles. You will only be charged for tile storage. For more information, please refer to:  https://www.esri.com/about/newsroom/arcuser/use-tile-packages-to-save-credits/</p>
+<p>Tile Packages can be used to save credits. You will not be charged for generating tiles. You will only be charged for tile storage. For more information, please refer to:  <a href="https://www.esri.com/about/newsroom/arcuser/use-tile-packages-to-save-credits/">https://www.esri.com/about/newsroom/arcuser/use-tile-packages-to-save-credits/</a></p>
 </li>
 </ol>
 <figure>
