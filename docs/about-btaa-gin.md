@@ -6,9 +6,11 @@ hide:
 ---
 
 ## Who we are
+
 We are a collaboration of librarians and geospatial specialists from across the Big Ten Academic Alliance.
 
 ## Our Mission
+
 To **support the geospatial research community** by making resources easier to find and to **foster connections among geospatial library professionals** through our collaboration.
 
 * Our program aims to **support the geospatial research community** by building and maintaining a collective open-source spatial data infrastructure featuring metadata optimized for spatial discovery platforms. 
@@ -17,22 +19,38 @@ To **support the geospatial research community** by making resources easier to f
 
 ## Our Values
 
-### Collaboration & Connection
-* Provide a centralized resource discovery platform to connect data creators, providers, and consumers.
-* Provide a collaborative social infrastructure for librarians and geospatial specialists.
-* Create opportunities for engaging in joint research and sharing scholarly outputs.
+<div class="grid-home">
+  <div class="section">
+    <h3>Collaboration & Connection</h3>
+    <ul style="text-align: left;">
+      <li>Provide a centralized resource discovery platform to connect data creators, providers, and consumers.</li>
+      <li>Provide a collaborative social infrastructure for librarians and geospatial specialists.</li>
+      <li>Create opportunities for engaging in joint research and sharing scholarly outputs.</li>
+    </ul>
+  </div>
 
-### Diversity, Equity, & Accessibility
-* Lower barriers to accessing geospatial data across a wide range of communities.
-* Create educational resources fostering geospatial literacy.
-* Strive to identify resources that represent diversity in topics, geographic regions, time periods, communities, and languages.
+  <div class="section">
+    <h3>Diversity, Equity, & Accessibility</h3>
+    <ul style="text-align: left;">
+      <li>Lower barriers to accessing geospatial data across a wide range of communities.</li>
+      <li>Create educational resources fostering geospatial literacy.</li>
+      <li>Strive to identify resources that represent diversity in topics, geographic regions, time periods, communities, and languages.</li>
+    </ul>
+  </div>
 
-### Stewardship & Sustainability
-* Invest in open-source technology and communities.
-* Share metadata best practices and schema development.
-* Champion initiatives to preserve and archive digital geospatial assets.
+  <div class="section">
+    <h3>Stewardship & Sustainability</h3>
+    <ul style="text-align: left;">
+      <li>Invest in open-source technology and communities.</li>
+      <li>Share metadata best practices and schema development.</li>
+      <li>Champion initiatives to preserve and archive digital geospatial assets.</li>
+    </ul>
+  </div>
+</div>
+
 
 ## Our Vision
+
 To preserve and share at-risk digital geospatial assets by building a complete spatial data infrastructure.
 
 
@@ -40,8 +58,6 @@ To preserve and share at-risk digital geospatial assets by building a complete s
 ## Participating Institutions
 
 This Big Ten Academic Alliance Geospatial Information Network (BTAA-GIN) is collectively managed by librarians and geospatial specialists from fourteen universities in the [Big Ten Academic Alliance](http://btaa.org). 
-
-<img style="float: left; width:50%; margin: 25px" src="../images/institutions_2022.png">
 
 1. Indiana University Bloomington
 2. Michigan State University
@@ -70,8 +86,7 @@ Program Team Members contribute their knowledge of one or more areas in the fiel
 * Ryan Mattke - Project Lead
 * Karen Majewicz - Geospatial Product Manager
 * Eric Larson - Lead Application Developer
-* Alexander Danielson - Research Assistant
-* Melinda Kernik - Spatial Analyst and Curator
+* Owen Connolly - Research Assistant
 * Michael Berkowski - Web Developer
 * Michael Johnson - Web Analytics
 * Paul Bramscher - Linux Systems Administrator and Software Administrator 
@@ -87,10 +102,13 @@ For the Big Ten Academic Alliance Library Directors:
 * Kim Armstrong, BTAA CLI Big Ten Academic Alliance Director Library Initiatives 
 
 For operations at the University of Minnesota: 
+
 * John Butler, Associate University Librarian for Data & Technology - University of Minnesota (sponsor 2015-2021)
 * Kirsten Clark, Director, Access and Information Services - University of Minnesota (sponsor 2019-2021)
 * Claire Stewart, Associate University Librarian for Research & Learning - University of Minnesota (sponsor 2015-2019)
-* Executive Committee
+ 
+Executive Committee:
+
 * Barbara Dewey- Dean of University Libraries & Scholarly Communications, Penn State (2020)
 
 ### Graduate Research Assistant Alumni
@@ -102,9 +120,3 @@ For operations at the University of Minnesota:
 * Emily Ruetz (2018-2020)
 * Andrew Smith (2017-2019)
 * Lewei Hi (2017)
-
-
-## History
-
-
-{{ read_csv('tables/milestones.csv') }}

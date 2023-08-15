@@ -2,7 +2,7 @@
 
 The BTAA Geospatial Information Network has created a series of tutorials to showcase the practicality of the BTAA Geoportal for teaching and learning about maps, geospatial data, and GIS techniques. These tutorials cover a wide range of activities designed to meet the needs of instructors and students in a wide range of disciplines and levels of competency in geospatial data retrieval, use, and analysis.
 
-[**Types of Geospatial Information**](tutorials/01_types-of-geospatial-information.md), by Nicole Kong at Purdue University, introduces students to the most commonly used types of data in GIS. Using a range of visual and diagrammatic examples, it reviews the different data models that GIS professionals typically use to collect and share information, and which are discoverable through geodata portals.
+[**Types of Geospatial Information**](01_types-of-geospatial-information.md), by Nicole Kong at Purdue University, introduces students to the most commonly used types of data in GIS. Using a range of visual and diagrammatic examples, it reviews the different data models that GIS professionals typically use to collect and share information, and which are discoverable through geodata portals.
 
 [**Find a Map**](02_find-maps.md), by Danny Dotson at Ohio State University, is designed to help students locate a map for a given topic and use it in a document. This tutorial reviews the steps required to locate a relevant map, using the BTAA Geoportal, how to download or copy the scanned map, how to insert the map into a given document, and provides an overview of basic fair use and copyright implications for using these maps.
 

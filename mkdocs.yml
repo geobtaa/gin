@@ -72,7 +72,7 @@ markdown_extensions:
       - md_in_html
       - meta
       - admonition
-      - neoteroi.cards
+#      - neoteroi.cards
       - pymdownx.critic
       - pymdownx.caret
       - pymdownx.keys
@@ -111,6 +111,7 @@ nav:
 - About:
       - 'About the BTAA-GIN' : 'about-btaa-gin.md'
       - 'Committees': 'committees.md'
+      - 'History': 'history.md'
       
 
 - Technology:
@@ -132,7 +133,8 @@ nav:
             - '10. Zonal Stats Tool': 'tutorials/10_zonal-stats-tool.md'
             - '11. Story Maps': 'tutorials/11_story-maps.md'
 
-      - Search Guides:
+      - Research Guides:
+            - 'guides/index.md'
             - 'Geoportal Search strategies': 'guides/search-strategies.md'
             - 'Understanding metadata': 'guides/understanding-metadata.md'
             - 'Licensed data' : 'guides/licensed-data.md'

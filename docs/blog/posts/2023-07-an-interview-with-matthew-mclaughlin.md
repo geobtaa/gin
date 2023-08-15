@@ -10,13 +10,17 @@ tags:
 title: An Interview with Matthew McLaughlin
 ---
 
+
+
 # An Interview with Matthew McLaughlin
 
 :fontawesome-solid-user: Interviewer: Milan Budhathoki, GIS and Data Librarian, University of Maryland College Park 
 
 This interview is part of our Researcher Interview series that spotlights some of the interesting work being done using maps/GIS data at the Big Ten Academic Alliance institutions.
+
+![Matthew McLaughlin](https://lh6.googleusercontent.com/zmOrEuHjTVFogSCzGCeDNYBqBDsQBKMQNz6prNCjHBMoOXGTE3CC4SRwC5Ib0styjZcPERL3CkzgR8pxrg_4dOSxk-SPmRfKVuXrSwXqZvRiIGO323J_2zPuQZIlw7Yf4pmzEssJwri-7RufnqRM958=w324-h400){ width=300 align=left}
  
-![Matthew McLaughlin](https://lh6.googleusercontent.com/zmOrEuHjTVFogSCzGCeDNYBqBDsQBKMQNz6prNCjHBMoOXGTE3CC4SRwC5Ib0styjZcPERL3CkzgR8pxrg_4dOSxk-SPmRfKVuXrSwXqZvRiIGO323J_2zPuQZIlw7Yf4pmzEssJwri-7RufnqRM958=w324-h400){ width=300 }
+
 
 **Researcher Bio**: Matthew McLaughlin (Matt) is a senior lecturer and mixed media artist in the College of Arts and Humanities at the University of Maryland College Park. Through his artworks, Matt explores the human relationship with their environments, <!-- more -->particularly urban and suburban spaces, and examines how we interact with and observe the spaces we inhabit and modify to fulfill our wants and needs. By manipulating images/maps and re-contextualizing symbols, his work generates fresh spatial perspectives for viewers to contemplate when they confront their own connections with the environment. Webpages:
 

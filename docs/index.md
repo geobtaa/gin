@@ -4,65 +4,53 @@ hide:
  - toc
 ---
 
-<!--<style>
-.md-typeset h1 {
-    display: none;
-  }
-</style>-->
 
-!!! warning
+<body>
 
-	This site is a work in progress. In the meantime, visit our current website at [https://z.umn.edu/geobtaa](https://z.umn.edu/geobtaa)
+	<div class="hero-section">
+	    <h1>The Big Ten Academic Alliance Geospatial Information Network</h1>
+	    <p>Supporting the geospatial research community and fostering connections among geospatial library professionals</p>
+	    <div class="hero-buttons">
+	        <a href="https://geo.btaa.org" class="hero-button">Explore the BTAA Geoportal</a>
+	    </div>
+	</div>
 
-![logo](images/simple-logo.png){ align=left ; width="400" }
-
-<p style="margin:25px">
-The Big Ten Academic Alliance Geospatial Information Network (BTAA-GIN) is  a collaboration of librarians and geospatial specialists from fourteen universities in the <a href = "https://btaa.org">Big Ten Academic Alliance</a>. Together, they maintain the BTAA Geoportal, create educational materials, document best practices for geospatial libraries, and contribute to the free and open source software community.
-</p>
- 
- 
-<div class="grid cards" markdown>
-
-- ###  :fontawesome-solid-chalkboard-user: [User Resources ](tutorials)
-Learn how to find and use geospatial resources with our Tutorials and Research Guides
-{ .card  }
-
-- ###  :material-chart-pie-outline: [Program Documentation](geoportal)
-View documentation about the BTAA Geoportal, our metadata workflows, and our program guidelines.
-{ .card  }
-
- </div>
-
- 
-<div class="grid cards" markdown>
-
-- ###  :octicons-book-24: [Publications](news)
-Read our blog, journal articles, and presentations.
-{ .card  }
-
- - ###  :octicons-people-24: [About us](about-btaa-gin)
-Find out more about our network and collaborative activites across the Big Ten Academic Alliance.
-{ .card  }
-
-
-
-</div>
-
- 
- 
-## External links to our project sites
-
-<div class="grid cards" markdown>
- 
-- ### :material-map: [BTAA Geoportal :octicons-link-external-16:](https://geo.btaa.org) 
- Search for data and maps in the BTAA Geoportal 
-
-- ###  :fontawesome-solid-blog: [Blog :octicons-link-external-16:](https://geobtaa.blogspot.com) 
-Read about interesting resources in our collections blog 
-
-- ### :material-book-cog: [Metadata Handbook :octicons-link-external-16:](https://z.umn.edu/gbl-handbook)
-Consult our Metadata Handbook.
+    <div class="grid-home">
+        <div class="section">
+            <h2 class="grid-title">Find and Use Geospatial Resources</h2>
+            <p class="description">Learn how to find and use geospatial resources with our Tutorials and Research Guides.</p>
+            <div class="call-to-action">
+                <a href="tutorials">Tutorials</a> |
+                <a href="guides">Research Guides</a>
+            </div>
+        </div>
+        <div class="section">
+            <h2 class="grid-title">Collaborate & Contribute</h2>
+            <p class="description">Collaborative activities, best practices, software projects, and metadata workflows.</p>
+            <div class="call-to-action">
+                <a href="geoportal">Technology</a> |
+                <a href="metadataHandbook">Metadata Handbook</a>
+            </div>
+        </div>
+        <div class="section">
+            <h2 class="grid-title"> Stay Informed & Support Our Vision</h2>
+            <p class="description">Project updates, program guidelines, history, and milestones.</p>
+            <div class="call-to-action">
+                <a href="updates">Project Updates</a> |
+                <a href="history">History</a>
+            </div>
+        </div>
+    </div>
+    
+<div style="text-align: center;">
+<h2>Participating Institutions</h2>
+    
+<img src="images/BTAA-GIN-institutions.png" alt="Map of participating institutions" width= "75%">
 
 </div>
+  
+</body>
+</html>
+
 
 
