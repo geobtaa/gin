@@ -1,3 +1,29 @@
+body {
+  background-color: #f7f7f7; /* Light grey background */
+  font-family: Helvetica, sans-serif;
+}
+
+h2 {
+   color: #163b58;
+}
+
+/* Blog customizations */
+
+  .md-post--excerpt {
+  	background-color: #fff; /* White background */
+  	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  	padding: 20px; /* Padding inside the div */
+  	margin: 15px 0; /* Margin around the div */
+  	border-radius: 5px; /* Optional: Rounded corners */
+  	}
+  	
+   .md-post--excerpt .md-post__content img {
+	  width: 125px;
+	  float: right;
+	  margin: 10px;
+	}
+	
+
 /* set height of top menu */
 @media (min-width: 76.25em) {
   .md-header__button.md-logo {
@@ -64,9 +90,11 @@
 
 
 
+/* 
 .md-nav__item--section > .md-nav__link[for] {
     color: inherit;
 }
+ */
 
 
   .responsive-google-slides {
@@ -83,3 +111,74 @@
     width: 100% !important;
     height: 100% !important;
   }
+  
+  
+/* GRIDS and homepage */
+
+	.hero-section {
+		position: relative;
+		text-align: center;
+		padding: 60px 20px;
+		background-color: #f7f7f7;
+		color: #000;
+	}
+	.hero-background {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		z-index: -1;
+		object-fit: cover;
+	}
+	.hero-button {
+		display: inline-block;
+		padding: 10px 20px;
+		margin: 10px;
+		background-color: #163b58;
+		color: #fff !important;
+		text-decoration: none;
+		border-radius: 5px;
+	}
+   
+	.grid-home {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+	}
+	.section {
+		flex: 1 1 calc(33.333% - 16px);
+		background-color: #fff;
+		margin: 8px;
+		padding: 20px;
+		border: 1px solid #ddd;
+		box-sizing: border-box;
+		text-align: center;
+	}
+	
+	.md-typeset .grid-title {
+  		margin-top: 10px; /* Adjust this value as needed */
+		} 
+
+	.description {
+		margin: 1em;
+		color: #000;
+	}
+	.call-to-action {
+			color: #005E8E;
+			font-weight: 600;
+<!--  				background-color: #f7f7f7;
+			padding: 10px
+			border-radius: 3px;-->
+			transition: all 0.3s ease;
+			}
+			
+			.call-to-action:hover {
+			  color: #163b58; /* Change color on hover */
+			  background-color: #fff; /* Change background color on hover */
+			}
+	@media (max-width: 768px) {
+		.section {
+			flex: 1 1 100%;
+		}
+	}
