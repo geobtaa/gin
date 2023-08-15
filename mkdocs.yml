@@ -72,6 +72,7 @@ markdown_extensions:
       - md_in_html
       - meta
       - admonition
+      - neoteroi.cards
       - pymdownx.critic
       - pymdownx.caret
       - pymdownx.keys
@@ -85,6 +86,7 @@ markdown_extensions:
                     format: !!python/name:pymdownx.superfences.fence_code_format
                     showSequenceNumbers: true
       - pymdownx.snippets
+      - pymdownx.magiclink
       - pymdownx.emoji:
             emoji_index: !!python/name:materialx.emoji.twemoji
             emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -97,7 +99,7 @@ markdown_extensions:
                   kwds:
                         case: lower
       - toc:
-              toc_depth: 3
+              toc_depth: 2
               permalink: true
               permalink_title: Anchor link to this section for reference
 
@@ -105,6 +107,15 @@ markdown_extensions:
 nav:
 
 - Home: 'index.md'
+
+- About:
+      - 'About the BTAA-GIN' : 'about-btaa-gin.md'
+      - 'Committees': 'committees.md'
+      
+
+- Technology:
+      - 'BTAA Geoportal' : 'geoportal.md'
+      - 'Metadata Handbook': 'metadataHandbook.md'
 
 - User Resources:
       - Tutorials:
@@ -129,26 +140,23 @@ nav:
             - 'Public Land Survey System (PLSS) Plats' : 'guides/plss.md'
             - 'Census data' : 'guides/census.md'
             - 'Cite data':  'guides/cite-data.md'
-                  
-- Program Documentation:
-      - BTAA Geoportal:
-            - 'About the Geoportal' : 'geoportal.md'
-            - 'Metadata Handbook': 'metadataHandbook.md'
+            
+
+- Publications:
       - Program Guidelines:
             - 'Land acknowledgement action plan' : 'actionPlan.md' 
             - 'Collection Development Policy': 'collection-development-policy.md'
             - 'Curation Priorities': 'curation-priorities.md'
-      - Program Management:
-            - 'Roadmap' : 'roadmap'
-            - 'Impact Report 2020' : 'impactReport_2022-05.md'
-- Status Updates:
-      - blog/index.md
-
-- Publications:
-      - 'Collections Blog': 'news.md'
-      - 'Journal Articles': 'journal-articles.md'
-      - 'Presentations': 'presentations.md'
+      - Reports:
+            - 'Impact Report 2020': 'impactReport_2022-05.md'
+            - 'Document Library': 'document-library.md'
+      - Scholarship:
+            - 'Journal Articles': 'journal-articles.md'
+            - 'Presentations': 'presentations.md'
       
+- Blog:
+      - blog/index.md
+   
 - Conference:
       - 'index' : 'conference/index.md'
       - Past Conferences:
@@ -158,16 +166,7 @@ nav:
       
 
       
-- About Us:
-      - 'About the BTAA-GIN' : 'about-btaa-gin.md'
-      - Committees:
-            - 'Executive': 'committees/executive.md'
-            - 'Steering': 'committees/steering.md'
-            - 'Community Engagment & Education': 'committees/cee.md'
-            - 'Metadata': 'committees/metadata.md'
-            - 'Interface': 'committees/interface.md'
-            - 'Collections Development': 'committees/cd.md'
-      - 'Contact': 'contact.md'
+
 
 
 

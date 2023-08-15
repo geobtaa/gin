@@ -1,0 +1,20 @@
+---
+date: '2020-11-09'
+slug: 2020-11-featured-item-wisconsin-statewide-tax
+tags:
+- Featured items
+- Wisconsin
+- legacy-blogger
+title: 'Featured Item: Wisconsin Statewide Tax Parcels 2014-2020'
+---
+
+# Featured Item: Wisconsin Statewide Tax Parcels 2014-2020
+
+By Jaime Martindale
+
+#### Featured Item: Wisconsin Statewide Tax Parcels 2014-2020 Wisconsin Act 20, the biennial state budget for 2013-2015, created statutory directives for state and local governments to coordinate on the development of a statewide digital parcel map. The [Statewide Parcel Map Initiative](https://doa.wi.gov/FPages/FLocalGovtsGrants/FParcel-Initiative.aspx&sa=D&sntz=1&usg=AFQjCNGpZAZTBfFyvWjSJi9HEbagUb3r8Q) is an effort to create a digital parcel map for Wisconsin by aggregating local parcel datasets utilizing geographic information systems (GIS). The Parcel Initiative is a multi-faceted, multi-year collaborative effort of the Department of Administration, State Cartographer's Office, and local governments. The predecessor to the Statewide Parcel Initiative was the [LinkWISCONSIN Address Point and Parcel Mapping <!-- more --> Project](https://www.sco.wisc.edu/Fwp-content/Fuploads/F2017/F07/FAPPMP_Report_Web_September2014.pdf&sa=D&sntz=1&usg=AFQjCNE0bVBsblRnrpVfnPwlz60Yfzl7ug), which ran from July 2013 through September 2014. The Public Service Commission of Wisconsin (PSCW) launched a statewide broadband initiative with goals to map broadband service within the state, develop a vision for broadband in Wisconsin, and work to extend broadband access to underserved areas. The initiative included the creation of an interactive map to track broadband availability, speed, and providers. In an effort to add capabilities and value to broadband mapping, the PSCW approved the collaboration between the State Cartographer's Office (SCO) and the Wisconsin Land Information Program (WLIP) at the Department of Administration (DOA) to develop statewide address point and parcel layers based on county data. The [final address point layer](https://geo.btaa.org/catalog/F2AE9CD7C-DA9C-4726-A3A5-9ACBE59694E8&sa=D&sntz=1&usg=AFQjCNEJUu-dJtFzC8Qk3cRClEeSHxfSZA) totaled 2.7 million address points and [the parcel layer](https://geo.btaa.org/catalog/FF28237BE-9C8F-4ECF-BAAD-924CB2553185&sa=D&sntz=1&usg=AFQjCNHBRv51tCkBULCUmfVagBuA6zXS-g) totaled 3.7 million parcels. Both were published in 2014. 
+
+[![Image of tax parcels in Madison, Wisconsin 2020](https://blogger.googleusercontent.com/img/a/AVvXsEjAqzGTabdM6hHKKKw_D-ffQ019welJE9y_nvZb4TkvNq9ZM5cMSuapbveVV6Sv2v-pDRuMDy4ik-byLO6LD0BhgXlGIh9rJV7ZU1hBVs2ffDOlbgv-LUSuHH4hL0VSSx3JPdCXngRkKAtiGJ0rqfXg3i4n4vEyArUAf83zXnXamoEUin6e7RKI6b32vA=w1176-h511)](https://blogger.googleusercontent.com/img/a/AVvXsEjAqzGTabdM6hHKKKw_D-ffQ019welJE9y_nvZb4TkvNq9ZM5cMSuapbveVV6Sv2v-pDRuMDy4ik-byLO6LD0BhgXlGIh9rJV7ZU1hBVs2ffDOlbgv-LUSuHH4hL0VSSx3JPdCXngRkKAtiGJ0rqfXg3i4n4vEyArUAf83zXnXamoEUin6e7RKI6b32vA=s1280){ width="300" }
+
+ [Tax Parcels in Madison, Wisconsin 2020 (V6)](https://geo.btaa.org/catalog/FF05A5836-74A0-465D-9E26-591BCA81544B&sa=D&sntz=1&usg=AFQjCNEzTvg8qv0kAUtjYRec6HBvDkQS9A) Archived Wisconsin statewide parcel layers available from the [BTAA Geoportal](https://geo.btaa.org/F%3Ff/55Bdct_spatial_sm/55D/55B/55D%3DWisconsin/6f/55Bdct_subject_sm/55D/55B/55D%3DParcels/6q%3Dstatewide/BAND/Bparcels/6search_field%3Dall_fields&sa=D&sntz=1&usg=AFQjCNEOuaZN_6MJ2WSfqF9Vh84yMGP5FA) are valuable resources for tracking change in Wisconsin land ownership over time. Following LinkWISCONSIN in 2014, the first statewide parcel layer (V1) was published in 2015. Subsequent layers have been generated each year through 2020 (V6). V7 is slated for 2021. Have questions about these items, the BTAA geoportal, or maps and geospatial data in general? Please don’t hesitate to [contact our project team](https://geo.btaa.org/Ffeedback&sa=D&sntz=1&usg=AFQjCNERNbgXrpg6xAqzLip9xfSU2ZAfUQ)! Jaime Martindale is the Map and Geospatial Data Librarian at UW-Madison.*This was originally posted on blogger [here](https://geobtaa.blogspot.com/2020/11/featured-item-wisconsin-statewide-tax.html)*.
+

@@ -1,4 +1,10 @@
+!!! info ""
+
+	These scholarly articles describe collaborations and projects across the BTAA-GIN.
+
 Laura Kane McElfresh (2023) Creator Name Standardization Using Faceted Vocabularies in the BTAA Geoportal, Cataloging & Classification Quarterly, DOI: 10.1080/01639374.2023.2200430
+
+Majewicz, K., Martindale, J., & Kernik, M. (2022). Open Geospatial Data: A comparison of data cultures in local government, IASSIST Quarterly 46(1). (75% contribution) Available at: https://doi.org/10.29173/iq1013
 
 Battista, A., Majewicz, K., Balogh, S., & Hardy, D. (2018). Consortial Geospatial Data Collection: Toward Standards and Processes for Shared GeoBlacklight Metadata. Journal of Library Metadata, 1-18. DOI: https://doi.org/10.1080/19386389.2018.1443414
 

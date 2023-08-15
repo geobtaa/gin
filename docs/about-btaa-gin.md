@@ -1,6 +1,8 @@
 ---
 hide:
 
+    - toc
+
 ---
 
 ## Who we are
