@@ -46,11 +46,11 @@ plugins:
                   - custom-skip-class-name
             auto_caption: true
             caption_position: top
-      - blog:
-           blog_dir: blog
-           categories: false
-           archive: true
-           post_date_format: medium
+#       - blog:
+#            blog_dir: blog
+#            categories: false
+#            archive: true
+#            post_date_format: medium
 #            archive_date_format: MMMM yyyy
 #      - optimize:
 #            enabled: !ENV [CI, false]
@@ -71,6 +71,7 @@ markdown_extensions:
       - attr_list
       - md_in_html
       - meta
+      - footnotes
       - admonition
 #      - neoteroi.cards
       - pymdownx.critic
@@ -155,9 +156,13 @@ nav:
       - Scholarship:
             - 'Journal Articles': 'journal-articles.md'
             - 'Presentations': 'presentations.md'
+      - Legacy Governance:
+            - 'CIC Geospatial Data Discovery Project Charter (2015)': 'cic-charter.md'
+            - 'Proposal for a Geospatial Data Discovery Project Across the CIC (2015)': 'cic-proposal.md'
+            - 'A Spatial Data Infrastructure (SDI) for the BTAA': 'btaa-sdi-2019.md'
       
-- Blog:
-      - blog/index.md
+# - Blog:
+#       - blog/index.md
    
 - Conference:
       - 'index' : 'conference/index.md'
