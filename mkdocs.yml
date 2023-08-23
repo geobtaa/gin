@@ -33,6 +33,7 @@ plugins:
       - table-reader
       - search
       - open-in-new-tab
+      - tags
       - glightbox:
             touchNavigation: true
             loop: false
@@ -46,12 +47,12 @@ plugins:
                   - custom-skip-class-name
             auto_caption: true
             caption_position: top
-#       - blog:
-#            blog_dir: blog
-#            categories: false
-#            archive: true
-#            post_date_format: medium
-#            archive_date_format: MMMM yyyy
+      - blog:
+           blog_dir: blog
+           categories: false
+           archive: true
+           post_date_format: medium
+           archive_date_format: yyyy
 #      - optimize:
 #            enabled: !ENV [CI, false]
 #       - pdf-export:
@@ -118,6 +119,7 @@ nav:
 - Technology:
       - 'BTAA Geoportal' : 'geoportal.md'
       - 'Metadata Handbook': 'metadataHandbook.md'
+      - 'GEOMG': 'geomg.md'
 
 - User Resources:
       - Tutorials:
@@ -145,31 +147,30 @@ nav:
             - 'Cite data':  'guides/cite-data.md'
             
 
-- Publications:
-      - Program Guidelines:
-            - 'Land acknowledgement action plan' : 'actionPlan.md' 
-            - 'Collection Development Policy': 'collection-development-policy.md'
-            - 'Curation Priorities': 'curation-priorities.md'
-      - Reports:
-            - 'Impact Report 2020': 'impactReport_2022-05.md'
-            - 'Document Library': 'document-library.md'
-      - Scholarship:
-            - 'Journal Articles': 'journal-articles.md'
-            - 'Presentations': 'presentations.md'
-      - Legacy Governance:
-            - 'CIC Geospatial Data Discovery Project Charter (2015)': 'cic-charter.md'
-            - 'Proposal for a Geospatial Data Discovery Project Across the CIC (2015)': 'cic-proposal.md'
-            - 'A Spatial Data Infrastructure (SDI) for the BTAA': 'btaa-sdi-2019.md'
+- Document Library:
+      - Scholarly Publications:
+            - 'Journal Articles': 'library/articles.md'
+            - 'Presentations': 'library/presentations.md'
+      - Reports & Guidelines:
+            - 'Land acknowledgement action plan' : 'library/actionPlan.md' 
+            - 'Collection Development Policy': 'library/collection-development-policy.md'
+            - 'Curation Priorities': 'library/curation-priorities.md'
+            - 'Impact Report 2020': 'library/impactReport_2022-05.md'
+      - Proposals & Charters:
+            - 'A Spatial Data Infrastructure (SDI) for the BTAA': 'library/btaa-sdi-2019.md'
+            - 'CIC Geospatial Data Discovery Project Charter (2015)': 'library/cic-charter.md'
+            - 'Proposal for a Geospatial Data Discovery Project Across the CIC (2015)': 'library/cic-proposal.md'
       
-# - Blog:
-#       - blog/index.md
+- Blog:
+      - blog/index.md
    
-- Conference:
+- GIS Conference:
       - 'index' : 'conference/index.md'
+      - '2023': 'conference/2023/index.md'
       - Past Conferences:
             - 2022: 'conference/2022/agenda.md'   
-      - Map Gallery:
-            - '2022' : 'conference/map-gallery/2022.md'
+#       - Map Gallery:
+#             - '2022' : 'conference/map-gallery/2022.md'
       
 
       

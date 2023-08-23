@@ -46,16 +46,15 @@ Michigan State University
 
 _With the University of Minnesota as lead institution, we propose a collaborative pilot project to provide discoverability, facilitate access, and connect scholars across the CIC to geospatial data resources._ 
 
-We request an initial two-year investment of \$135,000 per year total from participating CIC institutions to jointly fund (equally split) the launching and populating of an Open Geoportal (OGP) instance for CIC institutions with the requisite metadata and technology project staffing and infrastructure to host the services. (1) The initial two years would serve as a pilot ‒ upon a successful evaluation of the effort, the project would seek additional support at a comparable level for an additional year for custom programming, metadata coordination, contribution to the OGP code base, and to facilitate the inclusion of any remaining CIC institutions (see Project Timeline in appendix). If the pilot and subsequent year proves successful, we would seek additional funding after three years to continue the services.
-
-{ .annotate }
-
-1.	Open Geoportal is an open source project with no cost to purchase/license the software. 
+We request an initial two-year investment of \$135,000 per year total from participating CIC institutions to jointly fund (equally split) the launching and populating of an Open Geoportal (OGP) instance for CIC institutions with the requisite metadata and technology project staffing and infrastructure to host the services. [^1] The initial two years would serve as a pilot ‒ upon a successful evaluation of the effort, the project would seek additional support at a comparable level for an additional year for custom programming, metadata coordination, contribution to the OGP code base, and to facilitate the inclusion of any remaining CIC institutions (see Project Timeline in appendix). If the pilot and subsequent year proves successful, we would seek additional funding after three years to continue the services.
 
 
-We further propose the creation of a CIC Geospatial Data Task Force responsible for advising the development of the pilot, determining the target minimum number of metadata records to be contributed by each participating institution, serving as liaisons with their home institutions, and coordinating the creation of metadata. The University of Minnesota is poised to take the lead on this project. The U-Spatial program, a campus-wide initiative with the Libraries as a partner, is a logical host for this project, with the Libraries’ Spatial Data Analyst/Curator acting as the project manager during the pilot phase. (1) A Metadata Coordinator would be hired at the beginning of the pilot phase. { .annotate }
+[^1]:	Open Geoportal is an open source project with no cost to purchase/license the software. 
 
-1.	[http://uspatial.umn.edu/summary](http://uspatial.umn.edu/summary) (scroll down to see partner list)
+
+We further propose the creation of a CIC Geospatial Data Task Force responsible for advising the development of the pilot, determining the target minimum number of metadata records to be contributed by each participating institution, serving as liaisons with their home institutions, and coordinating the creation of metadata. The University of Minnesota is poised to take the lead on this project. The U-Spatial program, a campus-wide initiative with the Libraries as a partner, is a logical host for this project, with the Libraries’ Spatial Data Analyst/Curator acting as the project manager during the pilot phase. [^2] A Metadata Coordinator would be hired at the beginning of the pilot phase.
+
+[^2]:	[http://uspatial.umn.edu/summary](http://uspatial.umn.edu/summary) (scroll down to see partner list)
 
 Much like the Digital Public Library of America model, OGP is a federated metadata aggregation service, with the added component of a well-designed geographic search interface (see Open Geoportal Overview in appendix). Collective investment in this project will allow the Libraries of the CIC to offer our academic communities a broader array and aggregation of spatial resources metadata, more robust geospatial data services, and the economies of leveraging common infrastructure across institutions. 
 
@@ -84,15 +83,13 @@ Several CIC institutions already have active members on the OGP Developers Group
 
 Scholars across academia increasingly demand access to geospatial data to facilitate their research. The 2012 CIC CLI conference ([Finding Our Way: Collaborative Strategies for Developing Geospatial Services](http://www.cic.net/calendar/conferences/library/2012/home)) focused on this demand. A group of CIC geospatial librarians has been working on how to best provide our users access to geospatial data. 
 
-Currently, most CIC libraries employ GIS specialists or librarians. (3) Including the University of Minnesota, nine CIC institutions have expressed interest in OGP. By collaborating, we can more effectively combine our efforts and expertise for the benefit of the consortium. Based on expressed interest and responses to a readiness survey, proposed participant institutions include: University of Illinois, University of Iowa, University of Maryland, University of Michigan, Michigan State University, University of Minnesota, Pennsylvania State University, Purdue University, and University of Wisconsin-Madison. { .annotate }
+Currently, most CIC libraries employ GIS specialists or librarians.[^3] Including the University of Minnesota, nine CIC institutions have expressed interest in OGP. By collaborating, we can more effectively combine our efforts and expertise for the benefit of the consortium. Based on expressed interest and responses to a readiness survey, proposed participant institutions include: University of Illinois, University of Iowa, University of Maryland, University of Michigan, Michigan State University, University of Minnesota, Pennsylvania State University, Purdue University, and University of Wisconsin-Madison.
 
-3.	[CIC Geospatial Activities Grid](https://docs.google.com/spreadsheets/d/1qDvI91SoO8ZJvHuyH6VBxbspZRRJP4_RZ5NrtkurQE4/edit?usp=sharing)
+[^3]:	[CIC Geospatial Activities Grid](https://docs.google.com/spreadsheets/d/1qDvI91SoO8ZJvHuyH6VBxbspZRRJP4_RZ5NrtkurQE4/edit?usp=sharing)
 
-Overall, the collaboration will benefit from the investments Minnesota has already made. The University of Minnesota has recently launched a beta version of their Open Geoportal instance, as well as a short video showing the functionality of University of Minnesota’s OGP site. (4) { .annotate }
+Overall, the collaboration will benefit from the investments Minnesota has already made. The University of Minnesota has recently launched a beta version of their Open Geoportal instance, as well as a short video showing the functionality of University of Minnesota’s OGP site.[^4]
 
-4.	[CIC Geospatial Activities Grid](https://docs.google.com/spreadsheets/d/1qDvI91SoO8ZJvHuyH6VBxbspZRRJP4_RZ5NrtkurQE4/edit?usp=sharing)
-
-[http://z.umn.edu/libogp](http://z.umn.edu/libogp) & [http://z.umn.edu/umnogpvideo](http://z.umn.edu/umnogpvideo) (note: no sound)
+[^4]:	[http://z.umn.edu/libogp](http://z.umn.edu/libogp) & [http://z.umn.edu/umnogpvideo](http://z.umn.edu/umnogpvideo) (note: no sound)
 
 **_Cost Model_**
 
@@ -113,9 +110,9 @@ If each participating institution were to individually implement OGP, likely cos
 
 ## Joining a National Movement
 
-OGP has been adopted by a number of prominent institutions. The strength and popularity of the OGP community is well documented and includes 30 partner institutions. (5) As of January 2015, there are six public instances of OGP. OGP projects have also been the recipient of grants from the Alfred P. Sloan Foundation, for technology development and a governance summit, and a National Leadership Grant from IMLS, for the University of New Hampshire PLACE project. { .annotate }
+OGP has been adopted by a number of prominent institutions. The strength and popularity of the OGP community is well documented and includes 30 partner institutions. [^5] As of January 2015, there are six public instances of OGP. OGP projects have also been the recipient of grants from the Alfred P. Sloan Foundation, for technology development and a governance summit, and a National Leadership Grant from IMLS, for the University of New Hampshire PLACE project.
 
-5. (5) [http://opengeoportal.org/events/](http://opengeoportal.org/events/) (scroll down to see partner list)
+[^5]: [http://opengeoportal.org/events/](http://opengeoportal.org/events/) (scroll down to see partner list)
 
 A node of universities on the east coast has emerged as a multi-institution prototype and several institutions in California are OGP partners. _The CIC is perfectly placed to take leadership in forming a midwest node._ The project manager would serve as an active member in the national OGP community by contributing to the further enhancement of this open source collaboration.
 
@@ -203,82 +200,54 @@ Collaboration costs (meetings, communications): $20,000
  
 
 
-## Year 2 Total: $135,000 :
+Year 2 Total: $135,000 :
 
-## Personnel:									$95,000
+Personnel: $95,000
 
+* UMN Spatial Data Analyst/Curator (¼ time)
+* Metadata Coordinator (full-time)
+* Graduate assistant (1 GA, ½ time in summer)
 
+Specialized Programming (contract out): $25,000 
 
-* 
-UMN Spatial Data Analyst/Curator (¼ time)
-
-
-* 
-Metadata Coordinator (full-time)
-
-
-* 
-Graduate assistant (1 GA, ½ time in summer)
-Specialized Programming (contract out)					$25,000 
-
-Technical Infrastructure							$15,000
-
-
+Technical Infrastructure: $15,000
 
 * Computer hardware maintenance (desktops/laptops)
 * Secure Amazon Web Hosting (Cloudnexa)
 
 Year 3 Total: $135,000  (_prospective_):
 
-Personnel:									$100,000
-
-
+Personnel: $100,000
 
 * UMN Spatial Data Analyst/Curator (¼ time)
 * Metadata Coordinator (full-time)
 * Graduate assistant (1 GA, ¼ time in fall) 
 
-Technical Infrastructure							$15,000
-
-
+Technical Infrastructure: $15,000
 
 * Computer hardware maintenance (desktops/laptops)
 * Secure Amazon Web Hosting (Cloudnexa)
 
-Collaboration costs (meetings, communications)				$20,000
-
-
+Collaboration costs (meetings, communications): $20,000
 
 * Update conference (travel, lodging & meals - 16 x $1000/person)
 * GIS & Metadata person from each institution
 * Two day conference logistical costs
 
 
-## 
-
-
 ## Open Geoportal Overview
 
 Technology diagram
 
+![alt_text](../images/ogp-diagram.png "image_tooltip")
 
-![alt_text](images/ogp-diagram.png "image_tooltip")
+User interface showing previewable data (roads in red) and extent (blue box) of data for item highlighted in the menu at left
 
-
-User interface showing previewable data (roads in red) and extent (blue box) 
-
-of data for item highlighted in the menu at left
-
-
-![alt_text](images/ogp-search.png "image_tooltip")
-
-
+![alt_text](../images/ogp-search.png "image_tooltip")
 
 ---
 
 *Attachment: Letter of support from Patrick Florance, Director, The Open Geoportal Project.*
-
-
 
 
 <!-- Footnotes themselves at the bottom. -->

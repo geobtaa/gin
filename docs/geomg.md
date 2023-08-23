@@ -1,16 +1,11 @@
 # About GEOMG
 
-**What is it?**
+	
+GEOMG / GeoBlacklight Admin is a [GeoBlacklight](https://github.com/geoblacklight/geoblacklight) plugin that provides a complex web-form for editing documents and an CSV-based import/export workflow for OpenGeoMetadata's [Aardvark schema](https://opengeometadata.org/ogm-aardvark/). 
 
-: [GEOMG](https://github.com/geobtaa/geomg) is a custom tool that functions as a backend metadata editor and manager for the GeoBlacklight application. 
+It is built on [Kithe](https://github.com/sciencehistory/kithe) and is a Rubygem port of the Big Ten Academic Alliance's production workflow tool [GEOMG](https://github.com/geobtaa/geomg).
 
-**Who uses it?**
-
-: BTAA-GIN [Operations technical staff](https://sites.google.com/umn.edu/btaa-gdp/about/community#h.gtto9fewuh3z) at the University of Minnesota
-
-**Who developed it?**
-
-: The BTAA Geoportal Lead Developer, Eric Larson, created GEOMG, with direction from the BTAA-GIN. It is based upon the [Kithe framework.](https://github.com/sciencehistory/kithe)
+----------------------
 
 **Can other GeoBlacklight projects adopt it?**
 

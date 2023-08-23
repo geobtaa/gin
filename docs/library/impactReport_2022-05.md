@@ -48,7 +48,7 @@ The reasons behind the success of the project and its impact are delivered in th
 
 
 **Matrix of BTAA Geospatial Data Project Impacts**
-![](images/impact-matrix.png)
+![](../images/impact-matrix.png)
 
 ## Impact #1: Participating institutions are now part of a spatial data infrastructure
 
@@ -228,8 +228,8 @@ With more professional opportunities for team members such as service/leadership
 
 
 **Examples of collaborative presentations by Task Force members**
-![](images/impact-poster.png){ width="300" }
-![](images/impact-presentation.png){ width="300" }
+![](../images/impact-poster.png){ width="300" }
+![](../images/impact-presentation.png){ width="300" }
 
 
 
