@@ -72,6 +72,11 @@ h2 {
 /*   border: 1px solid #AAA;   */
 }
 
+. md-ellipsis{
+  font-weight: 600; 
+  color:#000; !important;
+}
+
 .md-tabs__link {
   color: #fff;
   opacity: 100;
