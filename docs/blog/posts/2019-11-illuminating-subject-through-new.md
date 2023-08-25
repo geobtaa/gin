@@ -1,5 +1,5 @@
 ---
-date: '2019-11-18'
+date: 2019-11-18
 slug: 2019-11-illuminating-subject-through-new
 tags:
 - legacy-blogger

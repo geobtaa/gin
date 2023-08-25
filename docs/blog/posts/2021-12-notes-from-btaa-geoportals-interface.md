@@ -1,5 +1,5 @@
 ---
-date: '2021-12-16'
+date: 2021-12-16
 slug: 2021-12-notes-from-btaa-geoportals-interface
 tags:
 - committees

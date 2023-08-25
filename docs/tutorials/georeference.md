@@ -56,7 +56,7 @@ Georeferencing is a commonly used tool to accurately digitize data on a paper ma
 
 <figure markdown>
 
-![Fit Display](images/fit-display.PNG)<figcaption>Fit Scanned Map to Display</figcaption>
+![Fit Display](images/fit-display.png)<figcaption>Fit Scanned Map to Display</figcaption>
 
 </figure>
 
@@ -64,7 +64,7 @@ Georeferencing is a commonly used tool to accurately digitize data on a paper ma
 
 <figure markdown>
 
-![Set Coordinate System](images/set-coord-sys.PNG)<figcaption>Set Coordinate System</figcaption>
+![Set Coordinate System](images/set-coord-sys.png)<figcaption>Set Coordinate System</figcaption>
 
 </figure>
 
@@ -74,7 +74,7 @@ Georeferencing is a commonly used tool to accurately digitize data on a paper ma
 
 <figure markdown>
 
-![Add Control Points](images/control-points.PNG)<figcaption>Add Control Points</figcaption>
+![Add Control Points](images/control-points.png)<figcaption>Add Control Points</figcaption>
 
 </figure>
 
@@ -84,7 +84,7 @@ Georeferencing is a commonly used tool to accurately digitize data on a paper ma
 
 <figure markdown>
 
-![More Control Points](images/point-diagram.PNG)<figcaption>More Control Points</figcaption>
+![More Control Points](images/point-diagram.png)<figcaption>More Control Points</figcaption>
 
 </figure>
 
@@ -101,7 +101,7 @@ Georeferencing is a commonly used tool to accurately digitize data on a paper ma
 
 <figure markdown>
 
-![Residual Values](images/residual-values.PNG)<figcaption>Residual Values</figcaption>
+![Residual Values](images/residual-values.png)<figcaption>Residual Values</figcaption>
 
 </figure>
 
@@ -111,7 +111,7 @@ Georeferencing is a commonly used tool to accurately digitize data on a paper ma
 
 <figure markdown>
 
-![Transparency](images/transparency.PNG)<figcaption>Make Map Overlay Semi-Transparent</figcaption>
+![Transparency](images/transparency.png)<figcaption>Make Map Overlay Semi-Transparent</figcaption>
 
 </figure>
 
@@ -133,7 +133,7 @@ Georeferencing is a commonly used tool to accurately digitize data on a paper ma
 
 <figure markdown>
 
-![Share Service](images/share-service.PNG)
+![Share Service](images/share-service.png)
 <figcaption>Share as a Service</figcaption>
 
 </figure>
@@ -146,7 +146,7 @@ Georeferencing is a commonly used tool to accurately digitize data on a paper ma
 
 <figure markdown>
 
-![Enter Service Information](images/service-info.PNG)<figcaption>Enter Service Information</figcaption>
+![Enter Service Information](images/service-info.png)<figcaption>Enter Service Information</figcaption>
 
 </figure>
 
@@ -158,7 +158,7 @@ Georeferencing is a commonly used tool to accurately digitize data on a paper ma
 
 <figure markdown>
 
-![Scale Range](images/tile-scales.PNG)<figcaption>Define Scale Range for Tiles</figcaption>
+![Scale Range](images/tile-scales.png)<figcaption>Define Scale Range for Tiles</figcaption>
 
 </figure>
 
@@ -166,6 +166,6 @@ Georeferencing is a commonly used tool to accurately digitize data on a paper ma
 
 <figure markdown>
 
-![Open in ArcGIS Online](images/open-arcgis-online.PNG)<figcaption>Open in ArcGIS Online</figcaption>
+![Open in ArcGIS Online](images/open-arcgis-online.png)<figcaption>Open in ArcGIS Online</figcaption>
 
 </figure>

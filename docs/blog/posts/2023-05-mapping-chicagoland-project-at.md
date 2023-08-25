@@ -1,5 +1,5 @@
 ---
-date: '2023-05-11'
+date: 2023-05-11
 slug: 2023-05-mapping-chicagoland-project-at
 tags:
 - maps

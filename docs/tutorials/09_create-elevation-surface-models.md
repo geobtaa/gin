@@ -56,7 +56,7 @@ A LiDAR generated point cloud is a collection of points that stores 3D (XYZ) inf
 
 ## Download LiDAR Point Cloud
 
-1.  Go to [geo.btaa.org](geo.btaa.org).
+1.  Go to [geo.btaa.org](https://geo.btaa.org).
 
 2.  Under Explore Maps and Data , search for "DC LiDAR Point Cloud".
 

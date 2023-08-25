@@ -12,7 +12,7 @@ Plats (maps) of the public land survey of the United States are a valuable resou
 The survey work was done by the General Land Office (GLO), an agency of the Treasury Department until 1849 and thereafter a part of the Interior Department. In 1946, the GLO was merged with the Grazing Service to create the modern Bureau of Land Management (BLM), which continues to have responsibility for the Public Land Survey on public domain lands. The original surveys are often referred to as the Public Land Survey or the General Land Office Survey. 
 
 <figure markdown>
-  ![Minnesota plat](../images/plss-001.png){ width="400" }
+  ![Minnesota plat](images/plss-001.png){ width="400" }
   <figcaption>Example of a PLSS plat for the State of Minnesota showing T027N R20W
 <a href = "https://geo.btaa.org/catalog/t027r20w4fi01">https://geo.btaa.org/catalog/t027r20w4fi01</a>	</figcaption>
 </figure>
@@ -21,7 +21,7 @@ The survey work was done by the General Land Office (GLO), an agency of the Trea
 
 The work of the public land surveys was recorded in small notebooks that became the official record. Collectively these are known as the field notes. Within an individual township notebook, there is a predictable progression of entries. Most field notebooks include basic entries such as a Title Page, Sketch Map, Section Line Notes, Meander Notes, General Description, and an Affidavit. The field notes may or may not be directly connected to the plat itself in the geoportal, but links to where they can be accessed may be found in the metadata.	
 <figure markdown>
-  ![Wisconsin plat and field notes](../images/plss-002.png){ width="600" }
+  ![Wisconsin plat and field notes](images/plss-002.png){ width="600" }
   <figcaption>Example of linked survey notes for T01 R01 for Wisconsin found in the Description section
 <a href = "https://geo.btaa.org/catalog/W6MN5J4F346LQ8W">https://geo.btaa.org/catalog/W6MN5J4F346LQ8W</a>	</figcaption>
 </figure>
@@ -51,7 +51,7 @@ There are several options for finding a plat by place name:
 The GLO surveyed and mapped much of the midwest and western United States.  If plats for your area of interest are not available through the B1G Geoportal, you can search for them in the [BLM’s digital General Land Office Records](https://glorecords.blm.gov/). This website also provides access to surveyor field notes and guides to interpreting the PLSS. State governments also received a copy of the plat maps when they were certified.  Access to these copies is sometimes available through state historical societies, land offices, or map libraries.
 
 <figure markdown>
-  ![Wisconsin plat and field notes](../images/plss-003.png){ width="600" }
+  ![Wisconsin plat and field notes](images/plss-003.png){ width="600" }
   <figcaption>“Principal meridians and Baselines governing the United States Public Land Survey System” by the Bureau of Land Management
 </figcaption>
 </figure>

@@ -1,5 +1,5 @@
 ---
-date: '2020-08-17'
+date: 2020-08-17
 slug: 2020-08-featured-item-national-flood-hazard
 tags:
 - Iowa

@@ -1,5 +1,5 @@
 ---
-date: '2020-11-30'
+date: 2020-11-30
 slug: 2020-11-related-blog-to-read-spatial-reserves
 tags:
 - legacy-blogger

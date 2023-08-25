@@ -1,5 +1,5 @@
 ---
-date: '2022-01-06'
+date: 2022-01-06
 slug: 2022-01-hixson-plat-map-atlases-of-michigan
 tags:
 - michigan

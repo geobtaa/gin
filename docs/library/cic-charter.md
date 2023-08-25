@@ -1,3 +1,9 @@
+---
+tags:
+  - charters
+  - '2015'
+---
+
 # CIC Geospatial Data Discovery Project Charter
 
  2015

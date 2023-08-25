@@ -1,5 +1,5 @@
 ---
-date: '2020-01-13'
+date: 2020-01-13
 slug: 2020-01-featured-collection-nichols-arboretum
 tags:
 - legacy-blogger

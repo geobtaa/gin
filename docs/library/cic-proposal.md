@@ -1,3 +1,9 @@
+---
+tags:
+  - proposals
+  - '2015'
+---
+
 # Proposal for a Geospatial Data Discovery Project Across the CIC
 
 **February 2015**

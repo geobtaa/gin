@@ -1,5 +1,5 @@
 ---
-date: '2021-04-21'
+date: 2021-04-21
 slug: 2021-04-featured-item-shapefile-of-1968
 tags:
 - maps

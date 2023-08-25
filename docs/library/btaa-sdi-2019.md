@@ -1,7 +1,7 @@
 ---
 tags:
   - proposals
-  - 2019
+  - '2019'
 ---
 
 # A Spatial Data Infrastructure (SDI) for the BTAA

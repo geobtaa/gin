@@ -54,14 +54,14 @@ Locating metadata can be tricky, as it is usually *recommended* that data provid
 For the example below, I searched for “lakes rivers” and focused the map on the Minneapolis area. The first two results both appear to be possible options.
 
 <figure markdown>
-  ![IGeoportal search results](../images/lakes-rivers.png){ width="500" }
+  ![IGeoportal search results](images/lakes-rivers.png){ width="500" }
   <figcaption>Searching the BTAA Geoportal</figcaption>
 </figure>
 
 After clicking on one of the options, we can see the data extent (upper right), get basic information (green arrows), visit the data source (yellow arrow), or view the metadata directly (red arrow). There is also a citation option (purple arrow).
 
 <figure markdown>
-  ![IViewing an item page](../images/lakes-rivers-item-page.png){ width="500" }
+  ![IViewing an item page](images/lakes-rivers-item-page.png){ width="500" }
   <figcaption>The "Lakes and Rivers" item page</figcaption>
 </figure>
 
@@ -69,28 +69,28 @@ Clicking the Visit Source button provides us with even more information, includi
 
 
 <figure markdown>
-  ![Viewing an item page on the source website](../images/lakes-rivers-mngeo.png){ width="500" }
+  ![Viewing an item page on the source website](images/lakes-rivers-mngeo.png){ width="500" }
   <figcaption>"Lakes and Rivers" on the source website</figcaption>
 </figure>
 
 Clicking on the other option, we can still get basic information (green arrow) and visit the data source (yellow arrow), but there is no direct metadata link. However, in this case, there is the option of web services (purple arrow).
 
 <figure markdown>
-  ![Viewing option 2](../images/water.png){ width="500" }
+  ![Viewing option 2](images/water.png){ width="500" }
   <figcaption>The "Water" item page</figcaption>
 </figure>
 
 Clicking the Visit Source button does provide us with more information, including a View Metadata link.
 
 <figure markdown>
-  ![Viewing option 2 on the source website](../images/water-open-mpls.png){ width="500" }
+  ![Viewing option 2 on the source website](images/water-open-mpls.png){ width="500" }
   <figcaption>"Water" on the source website</figcaption>
 </figure>
 
 ...but sometimes that link does not provide us with much additional information. In this case, just a brief description.
 
 <figure markdown>
-  ![Water metadata](../images/water-metadata.png){ width="500" }
+  ![Water metadata](images/water-metadata.png){ width="500" }
   <figcaption>The metadata for "Water" on the source website</figcaption>
 </figure>
 
@@ -118,12 +118,12 @@ Though it often involves extra steps beyond finding useful geospatial data, the 
 Metadata records are often split into different categories of information.
 
 <figure markdown>
-  ![Lakes and Rivers metadata](../images/lakes-rivers-metadata.png){ width="500" }
+  ![Lakes and Rivers metadata](images/lakes-rivers-metadata.png){ width="500" }
   <figcaption>The metadata sections for "Lakes and Rivers"</figcaption>
 </figure>
 
 <figure markdown>
-  ![Metadata categories](../images/data-reporting.png){ width="500" }
+  ![Metadata categories](images/data-reporting.png){ width="500" }
   <figcaption>Metadata categories</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ Metadata records are often split into different categories of information.
 For example, the metadata might contain information about when the data was published or last edited, but also about when the data was originally created
 
 <figure markdown>
-  ![Time period](../images/time-period.png){ width="500" }
+  ![Time period](images/time-period.png){ width="500" }
   <figcaption>Temporal information</figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ For example, the metadata might contain information about when the data was publ
 The metadata will usually have bounding coordinates, but might also have a textual description of the spatial extent.
 
 <figure markdown>
-  ![Spatial information](../images/spatial-information.png){ width="500" }
+  ![Spatial information](images/spatial-information.png){ width="500" }
   <figcaption>Spatial information</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ The metadata will usually have bounding coordinates, but might also have a textu
 The metadata often contains information about what attribute information is included, which can be important in selecting the right data for your project, and can also help decode the attribute names.
 
 <figure markdown>
-  ![Attribute information](../images/attribute-information.png){ width="500" }
+  ![Attribute information](images/attribute-information.png){ width="500" }
   <figcaption>Attribute information</figcaption>
 </figure>
 
@@ -159,14 +159,14 @@ The metadata often contains information about what attribute information is incl
 Some data might be public domain.
 
 <figure markdown>
-  ![Constraints information](../images/rights-information-01.png){ width="500" }
+  ![Constraints information](images/rights-information-01.png){ width="500" }
   <figcaption>Constraints information</figcaption>
 </figure>
 
 While other data may be available, but have some restrictions on reuse
 
 <figure markdown>
-  ![License information](../images/rights-information-02.png){ width="500" }
+  ![License information](images/rights-information-02.png){ width="500" }
   <figcaption>License information</figcaption>
 </figure>
 
@@ -175,7 +175,7 @@ While other data may be available, but have some restrictions on reuse
 Data attribution and citation is also important, as it allows others to examine and/or replicate your work.  In the BTAA Geoportal, we provide a “Cite” link which will give you basic citation information about the data
 
 <figure markdown>
-  ![Citation](../images/cite.png){ width="500" }
+  ![Citation](images/cite.png){ width="500" }
   <figcaption>Cite widget in the BTAA Geoportal</figcaption>
 </figure>
 

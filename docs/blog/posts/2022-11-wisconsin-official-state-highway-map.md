@@ -1,5 +1,5 @@
 ---
-date: '2022-11-09'
+date: 2022-11-09
 slug: 2022-11-wisconsin-official-state-highway-map
 tags:
 - legacy-blogger

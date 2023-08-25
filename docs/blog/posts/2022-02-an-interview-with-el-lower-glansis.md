@@ -1,5 +1,5 @@
 ---
-date: '2022-02-16'
+date: 2022-02-16
 slug: 2022-02-an-interview-with-el-lower-glansis
 tags:
 - data provider interview

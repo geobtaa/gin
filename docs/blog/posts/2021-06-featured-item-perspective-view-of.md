@@ -1,5 +1,5 @@
 ---
-date: '2021-06-22'
+date: 2021-06-22
 slug: 2021-06-featured-item-perspective-view-of
 tags:
 - maps

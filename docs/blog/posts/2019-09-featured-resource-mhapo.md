@@ -1,5 +1,5 @@
 ---
-date: '2019-09-27'
+date: 2019-09-27
 slug: 2019-09-featured-resource-mhapo
 tags:
 - legacy-blogger

@@ -1,5 +1,5 @@
 ---
-date: '2021-03-24'
+date: 2021-03-24
 slug: 2021-03-an-interview-with-todd-schuble
 tags:
 - data provider interview

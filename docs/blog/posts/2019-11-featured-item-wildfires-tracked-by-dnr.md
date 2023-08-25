@@ -1,5 +1,5 @@
 ---
-date: '2019-11-25'
+date: 2019-11-25
 slug: 2019-11-featured-item-wildfires-tracked-by-dnr
 tags:
 - legacy-blogger

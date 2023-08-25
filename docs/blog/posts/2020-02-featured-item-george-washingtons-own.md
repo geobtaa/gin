@@ -1,5 +1,5 @@
 ---
-date: '2020-02-17'
+date: 2020-02-17
 slug: 2020-02-featured-item-george-washingtons-own
 tags:
 - legacy-blogger

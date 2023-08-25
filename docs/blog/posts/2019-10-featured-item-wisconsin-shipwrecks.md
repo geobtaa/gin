@@ -1,5 +1,5 @@
 ---
-date: '2019-10-28'
+date: 2019-10-28
 slug: 2019-10-featured-item-wisconsin-shipwrecks
 tags:
 - legacy-blogger

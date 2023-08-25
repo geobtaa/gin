@@ -1,5 +1,5 @@
 ---
-date: '2023-02-15'
+date: 2023-02-15
 slug: 2023-02-rutgers-joins-btaa-geoportal
 tags:
 - maps

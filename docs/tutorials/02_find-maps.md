@@ -46,7 +46,7 @@ Through completing this tutorial, students will:
 	* searching with the interactive map
 
 <figure markdown>
-  ![IGeoportal Homepage](../images/geoportal-homepage.png){ width="400" }
+  ![IGeoportal Homepage](images/geoportal-homepage.png){ width="400" }
   <figcaption>How to search from the BTAA Geoportal homepage</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ This section walks the user through finding a map of Greenland.
 #### 3. Click on the item with the title that starts with *A Map of Old Greenland or Øster Bygd & Wester Bygd : agreeable to Egede's late description of Greenland.*
 
 <figure markdown>
-  ![IGreenland Map Search](../images/greenland-search.png){ width="400" }
+  ![IGreenland Map Search](images/greenland-search.png){ width="400" }
   <figcaption>Search for an old map of Greenland</figcaption>
 </figure>
 
@@ -70,21 +70,21 @@ This section walks the user through finding a map of Greenland.
 #### 4. Review the image on the map's item page.
 
 <figure markdown>
-  ![IGreenland Map](../images/greenland-item-view.png){ width="400" }
+  ![IGreenland Map](images/greenland-item-view.png){ width="400" }
   <figcaption>The Item View page for old map of Greenland</figcaption>
 </figure>
 
 #### 5. Click the "Full Details" button to view the metadata about the map. This can help you decide if the item is useful.
 
 <figure markdown>
-  ![IGreenland Map](../images/greenland-full-details.png){ width="400" }
+  ![IGreenland Map](images/greenland-full-details.png){ width="400" }
   <figcaption>Metadata for the map</figcaption>
 </figure>
 
 #### 6. Click the "Cite" text in the right-hand panel. This displays a citation that you can copy into another document.
 
 <figure markdown>
-  ![IUMedia](../images/greenland-cite.png){ width="400" }
+  ![IUMedia](images/greenland-cite.png){ width="400" }
   <figcaption>The map hosted at the University of Minnesota</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ This section walks the user through finding a map of Greenland.
 You’ve now left the Geoportal and are on the University of Minnesota's digital library, UMedia. Sources go to a variety of sites with their own characteristics and options. You may find additional details and downloads at the source website.
 
 <figure markdown>
-  ![IUMedia](../images/greenland-umedia.png){ width="400" }
+  ![IUMedia](images/greenland-umedia.png){ width="400" }
   <figcaption>The map hosted at the University of Minnesota</figcaption>
 </figure>
 

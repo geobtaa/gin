@@ -1,5 +1,5 @@
 ---
-date: '2021-11-11'
+date: 2021-11-11
 slug: 2021-11-browse-bridge-datasets-what-are-items
 tags:
 - geodata

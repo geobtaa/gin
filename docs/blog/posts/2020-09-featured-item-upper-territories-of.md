@@ -1,5 +1,5 @@
 ---
-date: '2020-09-08'
+date: 2020-09-08
 slug: 2020-09-featured-item-upper-territories-of
 tags:
 - maps

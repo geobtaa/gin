@@ -1,5 +1,5 @@
 ---
-date: '2019-11-11'
+date: 2019-11-11
 slug: 2019-11-featured-collection-indianamap
 tags:
 - legacy-blogger

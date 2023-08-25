@@ -1,5 +1,5 @@
 ---
-date: '2021-10-06'
+date: 2021-10-06
 slug: 2021-10-featured-collection-michigan-survey
 tags:
 - michigan

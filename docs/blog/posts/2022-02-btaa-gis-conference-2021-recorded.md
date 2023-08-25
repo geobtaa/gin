@@ -1,5 +1,5 @@
 ---
-date: '2022-02-01'
+date: 2022-02-01
 slug: 2022-02-btaa-gis-conference-2021-recorded
 tags:
 - conference

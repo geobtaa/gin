@@ -1,5 +1,5 @@
 ---
-date: '2022-09-14'
+date: 2022-09-14
 slug: 2022-09-featured-item-lake-monroe-land
 tags:
 - legacy-blogger

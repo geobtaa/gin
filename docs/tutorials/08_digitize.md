@@ -42,12 +42,12 @@ In this tutorial, digitizing means the process of converting features on a paper
 * If you want to add new features to an existing feature class, you can simply open the feature class and skip this step.
 * To create a new feature class in ArcGIS Pro: Open the Catalog Pane, right-click on a Geodatabase, click on New -> feature class...
     <figure markdown>
-     ![Download image](../images/feature-class.png){ width="500" }
+     ![Download image](images/feature-class.png){ width="500" }
      <figcaption>Create a feature class from the Catalog Pane</figcaption>
     </figure>
  * In the Geoprocessing tool, enter the name for the new feature class, and then select the Geometry Type to be created. You can also select the coordinate system for your new feature class.
     <figure markdown>
-     ![Name your feature class](../images/create-feature-class.png){ width="500" }
+     ![Name your feature class](images/create-feature-class.png){ width="500" }
      <figcaption>Name your feature class</figcaption>
     </figure>
 
@@ -62,7 +62,7 @@ Before creating any new features, you should choose a scale at which you will di
 	* Delete features
 * ArcGIS allows you to edit data using edit tools
     <figure markdown>
-     ![Edit tools](../images/edit-data.png){ width="500" }
+     ![Edit tools](images/edit-data.png){ width="500" }
      <figcaption>Edit tools</figcaption>
     </figure>
 * Features are created in ArcGIS Pro using templates.
@@ -76,12 +76,12 @@ Before creating any new features, you should choose a scale at which you will di
 * You can use snapping tools to avoid editing errors. 
 * Snapping is the process of moving a feature to coincide with another point’s or feature’s coordinates when your pointer is within a specified distance (tolerance distance). 
     <figure markdown>
-     ![Snapping tools](../images/snapping.png){ width="500" }
+     ![Snapping tools](images/snapping.png){ width="500" }
      <figcaption>Snapping tools</figcaption>
     </figure>
     
     <figure markdown>
-     ![Snapping types](../images/snapping-types.png){ width="500" }
+     ![Snapping types](images/snapping-types.png){ width="500" }
      <figcaption>Snapping types</figcaption>
     </figure>
     
@@ -95,7 +95,7 @@ Before creating any new features, you should choose a scale at which you will di
 
 In case you need to modify any geometry you have digitized, ArcGIS Pro provides a whole list of tools allow you to reshape, move, or split the geometry of your features.
     <figure markdown>
-     ![Geometry editing](../images/geometry-editing.png){ width="300" }
+     ![Geometry editing](images/geometry-editing.png){ width="300" }
      <figcaption>Geometry editing</figcaption>
     </figure>
 
@@ -104,11 +104,11 @@ In case you need to modify any geometry you have digitized, ArcGIS Pro provides 
 
 After you have creed geometry for a feature, you can add the attributes for it. You can add attributes in the attribute table or Attributes pane. Add new fields if you need more columns in the attribute table.
     <figure markdown>
-     ![Feature attribute](../images/feature-attribute.png){ width="500" }
+     ![Feature attribute](images/feature-attribute.png){ width="500" }
      <figcaption>Feature attribute tools</figcaption>
     </figure>
     <figure markdown>
-     ![Feature attribute table](../images/feature-attribute-table.png){ width="500" }
+     ![Feature attribute table](images/feature-attribute-table.png){ width="500" }
      <figcaption>Feature attribute table</figcaption>
     </figure>
 
@@ -118,7 +118,7 @@ After you have creed geometry for a feature, you can add the attributes for it. 
 * Saving the project can’t guarantee to save your edits.
 * After you save your edits, you can’t undo the editing.
     <figure markdown>
-     ![SAve](../images/save.png){ width="300" }
+     ![SAve](images/save.png){ width="300" }
      <figcaption>Save edits</figcaption>
     </figure>
 

@@ -1,5 +1,5 @@
 ---
-date: '2020-10-26'
+date: 2020-10-26
 slug: 2020-10-btaa-gis-conference-registration-is-open
 tags:
 - legacy-blogger

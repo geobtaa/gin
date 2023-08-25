@@ -47,7 +47,7 @@ In a single layer
 
 <figure markdown>
 
-![Vector Data Types](../images/vector-data.png)<figcaption>Vector Data Types *Used by permission of Paul Bolstad, GIS Fundamentals</figcaption>
+![Vector Data Types](images/vector-data.png)<figcaption>Vector Data Types *Used by permission of Paul Bolstad, GIS Fundamentals</figcaption>
 
 </figure>
 
@@ -55,7 +55,7 @@ In a single layer
 
 <figure markdown>
 
-![Attribute Data](../images/attributes.png)<figcaption>Attribute Data</figcaption>
+![Attribute Data](images/attributes.png)<figcaption>Attribute Data</figcaption>
 
 </figure>
 
@@ -65,19 +65,19 @@ In a single layer
 
 <figure markdown>
 
-![Single Symbol](../images/single-symbol.png)<figcaption>Single Symbol</figcaption>
+![Single Symbol](images/single-symbol.png)<figcaption>Single Symbol</figcaption>
 
 </figure>
 
 <figure markdown>
 
-![Categorical Symbol](../images/categorical-symbol.png)<figcaption>Categorical Symbol</figcaption>
+![Categorical Symbol](images/categorical-symbol.png)<figcaption>Categorical Symbol</figcaption>
 
 </figure>
 
 <figure markdown>
 
-![Quantitative Symbol](../images/quantitative-symbol.png)<figcaption>Quantitative Symbol</figcaption>
+![Quantitative Symbol](images/quantitative-symbol.png)<figcaption>Quantitative Symbol</figcaption>
 
 </figure>
 
@@ -96,7 +96,7 @@ In a single layer
 
 <figure markdown>
 
-![Raster Data Types](../images/raster-data.png)<figcaption>Raster Data Types *Used by permission of Paul Bolstad, GIS Fundamentals</figcaption>
+![Raster Data Types](images/raster-data.png)<figcaption>Raster Data Types *Used by permission of Paul Bolstad, GIS Fundamentals</figcaption>
 
 </figure>
 
@@ -108,7 +108,7 @@ In a single layer
 
 <figure markdown>
 
-![Raster Two Types](../images/raster-two-types.png)<figcaption>Continuous and Categorical Data *Used by permission of Paul Bolstad, GIS Fundamentals</figcaption>
+![Raster Two Types](images/raster-two-types.png)<figcaption>Continuous and Categorical Data *Used by permission of Paul Bolstad, GIS Fundamentals</figcaption>
 
 </figure>
 
@@ -147,7 +147,7 @@ A scanned map stored as an image file.
 
 <figure markdown>
 
-![Scanned Map](../images/scan-map.png)<figcaption>A Scanned Map</figcaption>
+![Scanned Map](images/scan-map.png)<figcaption>A Scanned Map</figcaption>
 
 </figure>
 

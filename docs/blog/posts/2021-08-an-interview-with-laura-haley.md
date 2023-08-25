@@ -1,5 +1,5 @@
 ---
-date: '2021-08-13'
+date: 2021-08-13
 slug: 2021-08-an-interview-with-laura-haley
 tags:
 - data provider interview

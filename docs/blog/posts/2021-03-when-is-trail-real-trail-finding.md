@@ -1,5 +1,5 @@
 ---
-date: '2021-03-17'
+date: 2021-03-17
 slug: 2021-03-when-is-trail-real-trail-finding
 tags:
 - geodata

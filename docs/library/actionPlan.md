@@ -1,3 +1,9 @@
+---
+tags:
+- '2022'
+- program guidelines
+---
+
 # Big Ten Academic Alliance Geospatial Information Network (BTAA-GIN) Action Plan
 August 2022
 

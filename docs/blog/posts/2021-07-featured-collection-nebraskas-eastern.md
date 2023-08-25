@@ -1,5 +1,5 @@
 ---
-date: '2021-07-22'
+date: 2021-07-22
 slug: 2021-07-featured-collection-nebraskas-eastern
 tags:
 - featured collections

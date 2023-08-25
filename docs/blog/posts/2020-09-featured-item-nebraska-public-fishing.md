@@ -1,5 +1,5 @@
 ---
-date: '2020-09-27'
+date: 2020-09-27
 slug: 2020-09-featured-item-nebraska-public-fishing
 tags:
 - Featured items

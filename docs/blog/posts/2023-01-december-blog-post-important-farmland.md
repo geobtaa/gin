@@ -1,5 +1,5 @@
 ---
-date: '2023-01-10'
+date: 2023-01-10
 slug: 2023-01-december-blog-post-important-farmland
 tags:
 - legacy-blogger

@@ -1,5 +1,5 @@
 ---
-date: '2020-08-31'
+date: 2020-08-31
 slug: 2020-08-featured-collection-university-of
 tags:
 - featured collections

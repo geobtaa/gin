@@ -1,5 +1,5 @@
 ---
-date: '2020-02-24'
+date: 2020-02-24
 slug: 2020-02-cctv-data-in-geoportal
 tags:
 - legacy-blogger

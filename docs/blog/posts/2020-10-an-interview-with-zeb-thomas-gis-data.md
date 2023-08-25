@@ -1,5 +1,5 @@
 ---
-date: '2020-10-19'
+date: 2020-10-19
 slug: 2020-10-an-interview-with-zeb-thomas-gis-data
 tags:
 - data provider interview

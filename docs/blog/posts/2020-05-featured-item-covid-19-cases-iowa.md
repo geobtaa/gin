@@ -1,5 +1,5 @@
 ---
-date: '2020-05-04'
+date: 2020-05-04
 slug: 2020-05-featured-item-covid-19-cases-iowa
 tags:
 - legacy-blogger

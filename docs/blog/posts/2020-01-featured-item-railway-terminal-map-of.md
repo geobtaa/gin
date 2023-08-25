@@ -1,5 +1,5 @@
 ---
-date: '2020-01-27'
+date: 2020-01-27
 slug: 2020-01-featured-item-railway-terminal-map-of
 tags:
 - legacy-blogger

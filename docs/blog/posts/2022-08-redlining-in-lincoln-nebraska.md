@@ -1,5 +1,5 @@
 ---
-date: '2022-08-16'
+date: 2022-08-16
 slug: 2022-08-redlining-in-lincoln-nebraska
 tags:
 - maps

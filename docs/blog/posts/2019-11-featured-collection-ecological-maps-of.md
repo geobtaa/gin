@@ -1,5 +1,5 @@
 ---
-date: '2019-11-04'
+date: 2019-11-04
 slug: 2019-11-featured-collection-ecological-maps-of
 tags:
 - legacy-blogger

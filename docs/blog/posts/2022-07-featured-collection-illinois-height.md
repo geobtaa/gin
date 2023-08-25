@@ -1,5 +1,5 @@
 ---
-date: '2022-07-14'
+date: 2022-07-14
 slug: 2022-07-featured-collection-illinois-height
 tags:
 - Illinois

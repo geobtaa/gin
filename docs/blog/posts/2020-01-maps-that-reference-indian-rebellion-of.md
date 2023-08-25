@@ -1,5 +1,5 @@
 ---
-date: '2020-01-21'
+date: 2020-01-21
 slug: 2020-01-maps-that-reference-indian-rebellion-of
 tags:
 - legacy-blogger

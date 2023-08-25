@@ -1,5 +1,5 @@
 ---
-date: '2020-09-04'
+date: 2020-09-04
 slug: 2020-09-featured-item-europe-as-woman
 tags:
 - maps

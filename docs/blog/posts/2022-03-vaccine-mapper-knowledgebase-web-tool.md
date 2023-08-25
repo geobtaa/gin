@@ -1,5 +1,5 @@
 ---
-date: '2022-03-09'
+date: 2022-03-09
 slug: 2022-03-vaccine-mapper-knowledgebase-web-tool
 tags:
 - Maryland

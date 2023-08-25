@@ -1,5 +1,5 @@
 ---
-date: '2023-03-01'
+date: 2023-03-01
 slug: 2023-02-japanese-map-project-at-ohio-state
 tags:
 - maps

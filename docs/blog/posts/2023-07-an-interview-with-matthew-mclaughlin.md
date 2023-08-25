@@ -1,5 +1,5 @@
 ---
-date: '2023-07-13'
+date: 2023-07-13
 slug: 2023-07-an-interview-with-matthew-mclaughlin
 tags:
 - art

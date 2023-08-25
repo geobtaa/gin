@@ -1,5 +1,5 @@
 ---
-date: '2020-03-30'
+date: 2020-03-30
 slug: 2020-03-curators-picks-university-of-chicago
 tags:
 - legacy-blogger

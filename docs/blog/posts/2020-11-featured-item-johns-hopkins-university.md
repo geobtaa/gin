@@ -1,5 +1,5 @@
 ---
-date: '2020-11-02'
+date: 2020-11-02
 slug: 2020-11-featured-item-johns-hopkins-university
 tags:
 - Featured items

@@ -1,5 +1,5 @@
 ---
-date: '2020-09-21'
+date: 2020-09-21
 slug: 2020-09-an-interview-with-ann-burns-manager-of
 tags:
 - data provider interview
