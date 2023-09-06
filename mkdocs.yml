@@ -1,7 +1,7 @@
 site_name: Geospatial Information Network
 site_author: Big Ten Academic Alliance Geospatial Information Network
 copyright : "2023"
-noindex: true 
+#noindex: true 
 
 theme: 
       name: material
@@ -56,7 +56,7 @@ plugins:
            archive: true
            post_date_format: medium
            archive_date_format: yyyy
-      - optimize
+#      - optimize
 #           enabled:!ENV [CI, false]
 #       - pdf-export:
 #             verbose: true

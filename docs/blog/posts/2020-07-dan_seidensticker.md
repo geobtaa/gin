@@ -2,7 +2,7 @@
 date: 2020-07-30
 ---
 
-![](img/dan-s.jpg)
+![](https://geobtaa.github.io/gin/blog/img/dan-s.jpg)
 
 # An interview with Dan Seidensticker, GIS Specialist for Greater Madison MPO / City of Madison Planning
 
