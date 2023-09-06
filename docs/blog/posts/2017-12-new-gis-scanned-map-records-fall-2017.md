@@ -1,5 +1,5 @@
 ---
-date: '2017-12-11'
+date: 2017-12-11
 slug: 2017-12-new-gis-scanned-map-records-fall-2017
 tags:
 - legacy-blogger

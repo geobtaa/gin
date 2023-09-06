@@ -1,5 +1,5 @@
 ---
-date: '2020-11-09'
+date: 2020-11-09
 slug: 2020-11-featured-item-wisconsin-statewide-tax
 tags:
 - Featured items

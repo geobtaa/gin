@@ -107,21 +107,21 @@ Now that you have access to a web service, you will want to know how to use it i
   1. Open QGIS and go to the Layer drop down menu. Click Add Layer > Add ArcGIS FeatureServer Layer.
 
 	<figure markdown>
-	![Add an ArcGIS FeatureServer Layer in QGIS](../images/qgis-add-layer.jpg){ width="500" }
+	![Add an ArcGIS FeatureServer Layer in QGIS](images/qgis-add-layer.jpg){ width="500" }
 	<figcaption>Add an ArcGIS FeatureServer Layer in QGIS</figcaption>
 	</figure>
 
   2. In the window that opens, click “New” to establish a new connection between QGIS and the web service.
 
   	<figure markdown>
-   ![New server connection in QGIS](../images/qgis-connect.jpg){ width="500" }	<figcaption>New server connection in QGIS</figcaption>
+   ![New server connection in QGIS](images/qgis-connect.jpg){ width="500" }	<figcaption>New server connection in QGIS</figcaption>
 	</figure>
 
   3. Give your connection a meaningful name, like “Iowa Environment Data”
   4. Paste the URL obtained from the geoportal into the empty box next to “URL” and click “OK.”
 
     <figure markdown>
-   ![Name and enter your service URL](../images/qgis-name-service.jpg){ width="500" }	<figcaption>Name and enter your service URL</figcaption>
+   ![Name and enter your service URL](images/qgis-name-service.jpg){ width="500" }	<figcaption>Name and enter your service URL</figcaption>
 	</figure>
 	
 	!!! Warning
@@ -131,19 +131,19 @@ Now that you have access to a web service, you will want to know how to use it i
   5. The Server Connection window will appear. Highlight “Leaking Underground Storage Tanks” and click “Add” at the bottom of the window.
 
     <figure markdown>
-   ![Name and enter your service URL](../images/qgis-server-connection-window.jpg){ width="500" }	<figcaption>QGIS Server Connection Window</figcaption>
+   ![Name and enter your service URL](images/qgis-server-connection-window.jpg){ width="500" }	<figcaption>QGIS Server Connection Window</figcaption>
 	</figure>
 	
   6. “Leaking Underground Storage Tanks” will appear in your Table of Contents. If you have not added a base map, do so now. As you can see, the map window is crowded with many symbols, but you now have data from a web service in your map window!
 	
 	<figure markdown>
-   ![QGIS web service display](../images/qgis-underground-storage-tanks.jpg){ width="500" }	<figcaption>Iowa Leaking Underground Storage Tanks web service</figcaption>
+   ![QGIS web service display](images/qgis-underground-storage-tanks.jpg){ width="500" }	<figcaption>Iowa Leaking Underground Storage Tanks web service</figcaption>
 	</figure>
 	
   7. Look at the attribute table and play around with editing the symbology based on one of the fields. There is a lot of interesting info!
 
   	<figure markdown>
-   ![QGIS web service display](../images/qgis-underground-storage-tanks-styled.jpg){ width="500" }	<figcaption>Iowa Leaking Underground Storage Tanks web service with layer styling</figcaption>
+   ![QGIS web service display](images/qgis-underground-storage-tanks-styled.jpg){ width="500" }	<figcaption>Iowa Leaking Underground Storage Tanks web service with layer styling</figcaption>
 	</figure>
 	
 
@@ -153,32 +153,32 @@ Now that you have access to a web service, you will want to know how to use it i
    1. Open ArcGIS Pro, go to the Insert tab, and click “Connections.”
 
     <figure markdown>
-       ![ArcGIS Pro Insert Tab](../images/arcgis-pro-insert.png){ width="500" }<figcaption>ArcGIS Pro Insert Tab</figcaption>
+       ![ArcGIS Pro Insert Tab](images/arcgis-pro-insert.png){ width="500" }<figcaption>ArcGIS Pro Insert Tab</figcaption>
     </figure>
 2. Click “New ArcGIS Server.”	
     <figure markdown>
-	   ![ArcGIS Pro Connections](../images/arcgis-pro-connections.png){ width="500" }<figcaption>ArcGIS Pro Connections. In these options, you will also notice options for other types of web services. You can experiment with adding these later.</figcaption>
+	   ![ArcGIS Pro Connections](images/arcgis-pro-connections.png){ width="500" }<figcaption>ArcGIS Pro Connections. In these options, you will also notice options for other types of web services. You can experiment with adding these later.</figcaption>
     </figure>
 3. Paste the URL obtained from the geoportal into the empty box next to Server URL and click “OK.”
     <figure markdown>
-	   ![ArcGIS Pro Add Connection](../images/arcgis-pro-add-connection.png){ width="500" }.   <figcaption>ArcGIS Pro Add Connection</figcaption>
+	   ![ArcGIS Pro Add Connection](images/arcgis-pro-add-connection.png){ width="500" }.   <figcaption>ArcGIS Pro Add Connection</figcaption>
     </figure>
 4. In the Catalog window, open “Project,” expand “Servers,” and expand the service you just connected.
     <figure markdown>
-   ![ArcGIS Pro Project Tab](../images/arcgis-pro-project-tab.png){ width="500" }<figcaption>ArcGIS Pro Project Tab. Notice that you are connected to all the services the Iowa DNR offers.</figcaption>
+   ![ArcGIS Pro Project Tab](images/arcgis-pro-project-tab.png){ width="500" }<figcaption>ArcGIS Pro Project Tab. Notice that you are connected to all the services the Iowa DNR offers.</figcaption>
     </figure>
 5. Expand “OneStop” and “QueryEnvFacs.”
 6. Use “Leaking Underground Storage Tanks” and select “Add To Current Map.”
     <figure markdown>
-   ![ArcGIS Pro add web service](../images/arcgis-pro-add-to-map.png){ width="500" }<figcaption>ArcGIS Pro add web service</figcaption>
+   ![ArcGIS Pro add web service](images/arcgis-pro-add-to-map.png){ width="500" }<figcaption>ArcGIS Pro add web service</figcaption>
 	</figure>
 
     <figure markdown>
-   ![ArcGIS Pro map](../images/arcgis-pro-map.png){ width="500" }<figcaption>ArcGIS Pro map. You may need to zoom into your map in order to see the data, as it is scale-dependent upon loading in Pro. You will also notice that the map window is crowded with many symbols, but you now have data from a web service in your map window!</figcaption>
+   ![ArcGIS Pro map](images/arcgis-pro-map.png){ width="500" }<figcaption>ArcGIS Pro map. You may need to zoom into your map in order to see the data, as it is scale-dependent upon loading in Pro. You will also notice that the map window is crowded with many symbols, but you now have data from a web service in your map window!</figcaption>
 	</figure>
 7. Look at the attribute table and play around with editing the symbology based on one of the fields. There is a lot of interesting info!
     <figure markdown>
-   ![ArcGIS Pro attributes](../images/arcgis-pro-attributes.png){ width="500" }<figcaption>ArcGIS Pro attribute table</figcaption>
+   ![ArcGIS Pro attributes](images/arcgis-pro-attributes.png){ width="500" }<figcaption>ArcGIS Pro attribute table</figcaption>
 	</figure>
 
 ### ArcGIS Online
@@ -187,21 +187,21 @@ Make sure to select “An ArcGIS Server Web Service” for this data. You will a
 
 1. Open ArcGIS Online, go to the Add tab, and click “Add Layer from Web.”
     <figure markdown>
-   ![ArcGIS Online](../images/arcgis-online-add-layer.png){ width="500" }<figcaption>ArcGIS Online Add Layer</figcaption>
+   ![ArcGIS Online](images/arcgis-online-add-layer.png){ width="500" }<figcaption>ArcGIS Online Add Layer</figcaption>
 	</figure>
 2. Copy and paste the web service URL in the empty box next to “URL” and click “Add Layer.”
     <figure markdown>
-   ![ArcGIS Online](../images/arcgis-online-add-layer-from-web.png){ width="500" }<figcaption>ArcGIS Online Add Layer</figcaption>
+   ![ArcGIS Online](images/arcgis-online-add-layer-from-web.png){ width="500" }<figcaption>ArcGIS Online Add Layer</figcaption>
 	</figure>
 	
 	<figure markdown>
-   ![ArcGIS Online](../images/arcgis-online-content.png){ width="500" }<figcaption>ArcGIS Online Add Layer. ArcGIS Online will automatically add the data to your map window. You will notice that there is a high density of similar symbols, but you now have data from a web service in your map window!</figcaption>
+   ![ArcGIS Online](images/arcgis-online-content.png){ width="500" }<figcaption>ArcGIS Online Add Layer. ArcGIS Online will automatically add the data to your map window. You will notice that there is a high density of similar symbols, but you now have data from a web service in your map window!</figcaption>
 	</figure>
 	
 3. Look at the attribute table and play around with editing the symbology based on one of the fields. There is a lot of interesting info!
 
 	<figure markdown>
-   ![ArcGIS Online](../images/arcgis-online-attributes.png){ width="500" }<figcaption>ArcGIS Online Attribute Table</figcaption>
+   ![ArcGIS Online](images/arcgis-online-attributes.png){ width="500" }<figcaption>ArcGIS Online Attribute Table</figcaption>
 	</figure>
 
 
@@ -210,29 +210,29 @@ Now that you have access to a web service, you will want to know how to use it i
 
 1. Open ArcGIS Pro, open the Catalog window
 	<figure markdown>
-   ![ArcGIS Desktop](../images/arcgis-desktop-1.png){ width="500" }<figcaption>ArcGIS Desktop Catalog</figcaption>
+   ![ArcGIS Desktop](images/arcgis-desktop-1.png){ width="500" }<figcaption>ArcGIS Desktop Catalog</figcaption>
 	</figure>
 2. Maximize “GIS Servers” and click “Add ArcGIS Server.”
 	<figure markdown>
-   ![ArcGIS Desktop](../images/arcgis-desktop-2.png){ width="500" }<figcaption>ArcGIS Desktop - add ArcGIS Server</figcaption>
+   ![ArcGIS Desktop](images/arcgis-desktop-2.png){ width="500" }<figcaption>ArcGIS Desktop - add ArcGIS Server</figcaption>
 	</figure>
 3. Paste the web service URL into the box next to “Server URL” and click “Finish.”
 	<figure markdown>
-   ![ArcGIS Desktop](../images/arcgis-desktop-3.png){ width="500" }<figcaption>ArcGIS Desktop</figcaption>
+   ![ArcGIS Desktop](images/arcgis-desktop-3.png){ width="500" }<figcaption>ArcGIS Desktop</figcaption>
 	</figure>
 4. Choose “Use GIS Services” and click “Next.”
 	<figure markdown>
-   ![ArcGIS Desktop](../images/arcgis-desktop-4.png){ width="500" }<figcaption>ArcGIS Desktop</figcaption>
+   ![ArcGIS Desktop](images/arcgis-desktop-4.png){ width="500" }<figcaption>ArcGIS Desktop</figcaption>
 	</figure>
 5. In the Catalog window, expand the service you just connected. Expand “OneStop.”
 6. Drag and drop “QueryEnvFacs” into your map window. Add a basemap if you have not done so.
 7. In the Table of Contents, maximize “OneStop/QueryEnvFacs, find “Leaking Underground Storage Tanks” and tick the box next to it.
     <figure markdown>
-   ![ArcGIS Desktop](../images/arcgis-desktop-5.png){ width="500" }<figcaption>ArcGIS Desktop</figcaption>
+   ![ArcGIS Desktop](images/arcgis-desktop-5.png){ width="500" }<figcaption>ArcGIS Desktop</figcaption>
 	</figure>
 8. It is likely that you will not be able to see the symbols on the map. Zoom into a city or region and they will appear. You will notice that there is a high density of similar symbols, but you now have data from a web service in your map window!
 	<figure markdown>
-   ![ArcGIS Desktop](../images/arcgis-desktop-6.png){ width="500" }<figcaption>ArcGIS Desktop</figcaption>
+   ![ArcGIS Desktop](images/arcgis-desktop-6.png){ width="500" }<figcaption>ArcGIS Desktop</figcaption>
 	</figure>
 
 

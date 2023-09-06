@@ -1,5 +1,5 @@
 ---
-date: '2021-03-01'
+date: 2021-03-01
 slug: 2021-03-booklovers-map-of-british-isles
 tags:
 - maps

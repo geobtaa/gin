@@ -1,5 +1,5 @@
 ---
-date: '2021-07-14'
+date: 2021-07-14
 slug: 2021-07-an-interview-with-gary-motz
 tags:
 - Purdue

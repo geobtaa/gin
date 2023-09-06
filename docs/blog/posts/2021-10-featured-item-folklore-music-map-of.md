@@ -1,5 +1,5 @@
 ---
-date: '2021-10-14'
+date: 2021-10-14
 slug: 2021-10-featured-item-folklore-music-map-of
 tags:
 - music

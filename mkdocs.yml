@@ -9,20 +9,16 @@ theme:
       logo: images/btaa-logo-white.png
       font:
             text: helvetica neue
-#       palette:
-#           primary: white
-#           accent: black
       custom_dir: overrides
       features:
             - navigation.top
             - navigation.indexes
-#             - navigation.instant
+            - navigation.instant
             - navigation.tabs
             - navigation.tabs.sticky
             - navigation.tracking
             - navigation.sections
             - navigation.footer
-#             - navigation.expand
             - navigation.path
             - navigation.prune
 #             - toc.integrate
@@ -30,6 +26,14 @@ theme:
 
     
 plugins:
+      - tags:
+            tags_file: tags.md
+            tags_slugify: !!python/object/apply:pymdownx.slugs.slugify
+                  kwds:
+                        case: lower
+#             tags_extra_files:
+#                   date-tags.md: 
+#                         - libr
       - table-reader
       - search
       - open-in-new-tab
@@ -51,16 +55,16 @@ plugins:
            categories: false
            archive: true
            post_date_format: medium
-#            archive_date_format: MMMM yyyy
-#      - optimize:
-#            enabled: !ENV [CI, false]
+           archive_date_format: yyyy
+      - optimize
+#           enabled:!ENV [CI, false]
 #       - pdf-export:
 #             verbose: true
 #             media_type: print
 
 extra_css:
       - stylesheets/extra.css
-  
+
 extra_javascript:
       - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
       - javascripts/tablesort.js
@@ -71,8 +75,8 @@ markdown_extensions:
       - attr_list
       - md_in_html
       - meta
+      - footnotes
       - admonition
-#      - neoteroi.cards
       - pymdownx.critic
       - pymdownx.caret
       - pymdownx.keys
@@ -94,7 +98,6 @@ markdown_extensions:
                   custom_icons:
                         - overrides/.icons
       - pymdownx.tabbed:
-            alternate_style: true 
             slugify: !!python/object/apply:pymdownx.slugs.slugify
                   kwds:
                         case: lower
@@ -103,6 +106,9 @@ markdown_extensions:
               permalink: true
               permalink_title: Anchor link to this section for reference
 
+extra:
+      tags:
+            library: libr
 
 nav:
 
@@ -117,6 +123,7 @@ nav:
 - Technology:
       - 'BTAA Geoportal' : 'geoportal.md'
       - 'Metadata Handbook': 'metadataHandbook.md'
+      - 'GEOMG': 'geomg.md'
 
 - User Resources:
       - Tutorials:
@@ -144,27 +151,39 @@ nav:
             - 'Cite data':  'guides/cite-data.md'
             
 
-- Publications:
-      - Program Guidelines:
-            - 'Land acknowledgement action plan' : 'actionPlan.md' 
-            - 'Collection Development Policy': 'collection-development-policy.md'
-            - 'Curation Priorities': 'curation-priorities.md'
-      - Reports:
-            - 'Impact Report 2020': 'impactReport_2022-05.md'
-            - 'Document Library': 'document-library.md'
-      - Scholarship:
-            - 'Journal Articles': 'journal-articles.md'
-            - 'Presentations': 'presentations.md'
+- Document Library:
+      - 'library/index.md'
+      - Scholarly Publications:
+            - 'Journal Articles': 'library/articles.md'
+            - 'Presentations': 'library/presentations.md'
+      - Reports & Guidelines:
+            - 'Land acknowledgement action plan' : 'library/actionPlan.md' 
+            - 'Collection Development Policy': 'library/collection-development-policy.md'
+            - 'Curation Priorities': 'library/curation-priorities.md'
+            - 'Impact Report 2020': 'library/impactReport_2020-05.md'
+            - 'Analytics Working Group Report': 'library/analytics-working-group-report.md'
+      - Proposals & Charters:
+            - 'Continuation Proposal 2021': 'library/continuation_2021.md'
+            - 'A Spatial Data Infrastructure (SDI) for the BTAA': 'library/btaa-sdi-2019.md'
+            - 'Continuation Proposal 2019': 'library/continuation_2019.md'
+            - 'Continuation Proposal 2017': 'library/continuation_2017.md'
+            - 'CIC Geospatial Data Discovery Project Charter (2015)': 'library/cic-charter.md'
+            - 'Proposal for a Geospatial Data Discovery Project Across the CIC (2015)': 'library/cic-proposal.md'
+           
+            
+            
+            
       
 - Blog:
       - blog/index.md
    
-- Conference:
+- GIS Conference:
       - 'index' : 'conference/index.md'
+      - '2023': 'conference/2023/index.md'
       - Past Conferences:
             - 2022: 'conference/2022/agenda.md'   
-      - Map Gallery:
-            - '2022' : 'conference/map-gallery/2022.md'
+#       - Map Gallery:
+#             - '2022' : 'conference/map-gallery/2022.md'
       
 
       

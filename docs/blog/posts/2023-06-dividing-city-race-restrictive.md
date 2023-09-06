@@ -1,5 +1,5 @@
 ---
-date: '2023-06-13'
+date: 2023-06-13
 slug: 2023-06-dividing-city-race-restrictive
 tags:
 - legacy-blogger

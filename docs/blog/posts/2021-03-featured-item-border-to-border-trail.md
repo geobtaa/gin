@@ -1,5 +1,5 @@
 ---
-date: '2021-03-31'
+date: 2021-03-31
 slug: 2021-03-featured-item-border-to-border-trail
 tags:
 - geodata

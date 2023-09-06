@@ -1,5 +1,5 @@
 ---
-date: '2022-03-23'
+date: 2022-03-23
 slug: 2022-03-the-ripple-effect-of-interface-change
 tags:
 - interface

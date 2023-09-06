@@ -1,5 +1,5 @@
 ---
-date: '2022-05-25'
+date: 2022-05-25
 slug: 2022-05-rural-broadband-datasets
 tags:
 - Iowa

@@ -1,5 +1,5 @@
 ---
-date: '2022-11-03'
+date: 2022-11-03
 slug: 2022-11-btaa-gis-conference-2022-tuesday
 tags:
 - legacy-blogger

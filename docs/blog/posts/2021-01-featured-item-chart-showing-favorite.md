@@ -1,5 +1,5 @@
 ---
-date: '2021-01-25'
+date: 2021-01-25
 slug: 2021-01-featured-item-chart-showing-favorite
 tags:
 - maps

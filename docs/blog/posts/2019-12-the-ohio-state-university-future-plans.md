@@ -1,5 +1,5 @@
 ---
-date: '2019-12-16'
+date: 2019-12-16
 slug: 2019-12-the-ohio-state-university-future-plans
 tags:
 - legacy-blogger

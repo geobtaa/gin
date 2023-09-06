@@ -1,5 +1,5 @@
 ---
-date: '2020-11-17'
+date: 2020-11-17
 slug: 2020-11-an-interview-with-maurie-kelly-director
 tags:
 - data provider interview

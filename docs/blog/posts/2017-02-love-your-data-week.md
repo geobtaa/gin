@@ -1,5 +1,5 @@
 ---
-date: '2017-02-16'
+date: 2017-02-16
 slug: 2017-02-love-your-data-week
 tags:
 - legacy-blogger

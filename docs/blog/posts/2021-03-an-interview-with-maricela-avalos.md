@@ -1,5 +1,5 @@
 ---
-date: '2021-03-10'
+date: 2021-03-10
 slug: 2021-03-an-interview-with-maricela-avalos
 tags:
 - data provider interview

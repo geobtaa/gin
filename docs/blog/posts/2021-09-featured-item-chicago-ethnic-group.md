@@ -1,5 +1,5 @@
 ---
-date: '2021-09-24'
+date: 2021-09-24
 slug: 2021-09-featured-item-chicago-ethnic-group
 tags:
 - Featured items

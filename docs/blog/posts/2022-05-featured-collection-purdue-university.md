@@ -1,5 +1,5 @@
 ---
-date: '2022-05-20'
+date: 2022-05-20
 slug: 2022-05-featured-collection-purdue-university
 tags:
 - Purdue

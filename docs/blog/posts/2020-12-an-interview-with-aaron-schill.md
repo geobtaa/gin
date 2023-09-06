@@ -1,5 +1,5 @@
 ---
-date: '2020-12-07'
+date: 2020-12-07
 slug: 2020-12-an-interview-with-aaron-schill
 tags:
 - data provider interview

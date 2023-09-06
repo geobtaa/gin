@@ -1,5 +1,5 @@
 ---
-date: '2021-11-03'
+date: 2021-11-03
 slug: 2021-11-an-interview-with-tim-lauxmann-geodata
 tags:
 - data provider interview

@@ -1,5 +1,5 @@
 ---
-date: '2021-09-18'
+date: 2021-09-18
 slug: 2021-09-featured-collections-lidar-and-aerial
 tags:
 - Wisconsin

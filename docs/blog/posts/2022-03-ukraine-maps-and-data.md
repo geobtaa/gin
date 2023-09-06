@@ -1,5 +1,5 @@
 ---
-date: '2022-03-11'
+date: 2022-03-11
 slug: 2022-03-ukraine-maps-and-data
 tags:
 - legacy-blogger

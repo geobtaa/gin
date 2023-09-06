@@ -1,5 +1,5 @@
 ---
-date: '2019-09-17'
+date: 2019-09-17
 slug: 2019-09-curators-picks-michigan-state-university
 tags:
 - legacy-blogger

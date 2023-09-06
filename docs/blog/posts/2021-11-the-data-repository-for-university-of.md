@@ -1,5 +1,5 @@
 ---
-date: '2021-11-18'
+date: 2021-11-18
 slug: 2021-11-the-data-repository-for-university-of
 tags:
 - geodata

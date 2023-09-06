@@ -1,5 +1,5 @@
 ---
-date: '2022-11-30'
+date: 2022-11-30
 slug: 2022-11-the-adventures-of-mark-twain
 tags:
 - legacy-blogger

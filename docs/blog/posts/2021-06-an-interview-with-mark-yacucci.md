@@ -1,5 +1,5 @@
 ---
-date: '2021-06-30'
+date: 2021-06-30
 slug: 2021-06-an-interview-with-mark-yacucci
 tags:
 - data provider interview

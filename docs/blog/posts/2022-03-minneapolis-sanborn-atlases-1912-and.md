@@ -1,5 +1,5 @@
 ---
-date: '2022-03-02'
+date: 2022-03-02
 slug: 2022-03-minneapolis-sanborn-atlases-1912-and
 tags:
 - Featured items

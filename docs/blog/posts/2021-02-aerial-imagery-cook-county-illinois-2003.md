@@ -1,5 +1,5 @@
 ---
-date: '2021-02-15'
+date: 2021-02-15
 slug: 2021-02-aerial-imagery-cook-county-illinois-2003
 tags:
 - Illinois

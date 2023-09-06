@@ -1,5 +1,5 @@
 ---
-date: '2023-01-23'
+date: 2023-01-23
 slug: 2023-01-umn-institution-blog-post-jan-2023
 tags:
 - legacy-blogger

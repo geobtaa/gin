@@ -1,3 +1,9 @@
+---
+tags:
+  - reports
+  - '2020'
+---
+
 # IMPACT REPORT May 2020
 
 !!! abstract "Project Impacts: Executive Summary"
@@ -48,7 +54,7 @@ The reasons behind the success of the project and its impact are delivered in th
 
 
 **Matrix of BTAA Geospatial Data Project Impacts**
-![](images/impact-matrix.png)
+![](../images/impact-matrix.png)
 
 ## Impact #1: Participating institutions are now part of a spatial data infrastructure
 
@@ -96,13 +102,13 @@ The number of staff dedicated to GIS or cartographic cataloging activities varie
 
 Each library contributes $15,000 per year to participate in the project. This covered initial development costs and continues to cover ongoing maintenance. If each library established their own geoportal, it would cost approximately $60,000 to launch and $40,000 per year to maintain ‒ an average of $44,000 over five years. This results in an estimated direct cost avoidance/savings of $29,000 per institution per year. (See this sheet for a comparison of [cost estimates for building and maintaining Geodata@Wisconsin](https://docs.google.com/document/d/1fvkfobcVxjxCDcc0hWYx-nwyqWU7va3qLvvKRrZ-OUM/edit?usp=sharing))
 
-![](images/impact-compare.png)
+![](../images/impact-compare.png)
 
 By aggregating the costs of each geoportal together over five years, it would result in a total of $3,120,000 for 12 institutions. By contrast, the total five-year cost of the BTAA GDP Geoportal has been $1,926,300 — $825,000 in contributed funds and $1,101,300 in in-kind support ($318,800 for UMN management, technical infrastructure, and software development support and $782,500 for Task Force Member effort). The total UMN cost per year over five years is $78,760 ($15,000 direct; $63,760 in-kind). The total cost per year over five years for other institutions is $28,041 ($15,000 direct; $13,041 in-kind).
 
 
 **Comparing Five Year Aggregated Costs: 12 Local Geoportals vs. one BTAA GDP Geoportal**
-![](images/impact-cost3.png)
+![](../images/impact-cost3.png)
 
 
 ## Impact #2: Geospatial resources are easier to find
@@ -136,15 +142,15 @@ With the geoportal, a user does not need to know who created the data in order t
 #### Users can find public geospatial data records from nine different states, as well as cartographic resources from around the world
 
 **Centerpoints of Geoportal Resources in the United States**
-![](images/impact-analytics1.png)
+![](../images/impact-analytics1.png)
 
 
 **Geoportal Resources Worldwide**
-![](images/impact-homemap.png)
+![](../images/impact-homemap.png)
 
 
 **Location of the Geoportal Users in the United States by Metropolitan Area (2017-2019)**
-![](images/impact-analytics2.png)
+![](../images/impact-analytics2.png)
 
 
 #### Usage is increasing
@@ -160,9 +166,8 @@ From the period of March 2017-March 2020, we had 20,555 users. Analytics indicat
 Similar and complementary to the BTAA Cooperative Cataloging Project, the team is making unknown spatial data resources available for use by a range of patrons within and outside of our libraries. Ultimately, we are making collections of geospatial resources accessible to researchers of all types, whether they derive from our individual libraries’ collections or by our gathering open data from agencies outside of our libraries willing to share their datasets with others. Seamlessly bringing together disparate sources of geospatial data, whether in the form of datasets or georeferenced map images, makes possible novel ways researchers can tie geospatial information together with enlightening outcomes.
 
 **Spatial searching with the BTAA Geoportal
-**![](images/impact-search.png)
+**![](../images/impact-search.png)
 The BTAA Geoportal utilizes bounding box geographic coordinates from the metadata record to populate a map interface. This allows users to search by location throughout large collections, such as the Sanborn Map Collections from Pennsylvania State University. Most of the participating institutions are not able to offer this feature through their own digital library applications.
-
 
 
 _Comments from project members that highlight the impact of our shared infrastructure and the resulting improved resource discoverability_
@@ -228,8 +233,8 @@ With more professional opportunities for team members such as service/leadership
 
 
 **Examples of collaborative presentations by Task Force members**
-![](images/impact-poster.png){ width="300" }
-![](images/impact-presentation.png){ width="300" }
+![](../images/impact-poster.png){ width="300" }
+![](../images/impact-presentation.png){ width="300" }
 
 
 

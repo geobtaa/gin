@@ -1,5 +1,5 @@
 ---
-date: '2020-10-11'
+date: 2020-10-11
 slug: 2020-10-featured-item-map-showing-distribution
 tags:
 - maps

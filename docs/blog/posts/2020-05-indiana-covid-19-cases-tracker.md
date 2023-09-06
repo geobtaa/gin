@@ -1,5 +1,5 @@
 ---
-date: '2020-05-05'
+date: 2020-05-05
 slug: 2020-05-indiana-covid-19-cases-tracker
 tags:
 - legacy-blogger

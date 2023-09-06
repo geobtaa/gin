@@ -1,5 +1,5 @@
 ---
-date: '2019-09-30'
+date: 2019-09-30
 slug: 2019-09-featured-collection-hixson-plat-map
 tags:
 - legacy-blogger

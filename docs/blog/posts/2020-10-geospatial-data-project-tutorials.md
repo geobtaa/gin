@@ -1,5 +1,5 @@
 ---
-date: '2020-10-12'
+date: 2020-10-12
 slug: 2020-10-geospatial-data-project-tutorials
 tags:
 - legacy-blogger

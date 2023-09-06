@@ -1,5 +1,5 @@
 ---
-date: '2023-04-19'
+date: 2023-04-19
 slug: 2023-04-pole-position
 tags:
 - maps

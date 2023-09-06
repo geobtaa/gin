@@ -1,5 +1,5 @@
 ---
-date: '2022-04-21'
+date: 2022-04-21
 slug: 2022-04-featured-item-national-farmers-market
 tags:
 - Featured items

@@ -1,5 +1,5 @@
 ---
-date: '2021-04-07'
+date: 2021-04-07
 slug: 2021-04-an-interview-with-julia-fischer
 tags:
 - data provider interview

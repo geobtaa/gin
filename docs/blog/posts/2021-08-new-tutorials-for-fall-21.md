@@ -1,5 +1,5 @@
 ---
-date: '2021-08-16'
+date: 2021-08-16
 slug: 2021-08-new-tutorials-for-fall-21
 tags:
 - legacy-blogger

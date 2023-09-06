@@ -1,5 +1,5 @@
 ---
-date: '2022-10-05'
+date: 2022-10-05
 slug: 2022-10-collection-highlight-government-open
 tags:
 - legacy-blogger

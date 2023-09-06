@@ -1,5 +1,5 @@
 ---
-date: '2020-01-06'
+date: 2020-01-06
 slug: 2020-01-featured-collection-earthstat
 tags:
 - legacy-blogger

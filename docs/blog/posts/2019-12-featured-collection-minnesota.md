@@ -1,5 +1,5 @@
 ---
-date: '2019-12-09'
+date: 2019-12-09
 slug: 2019-12-featured-collection-minnesota
 tags:
 - legacy-blogger

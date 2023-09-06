@@ -1,5 +1,5 @@
 ---
-date: '2019-10-21'
+date: 2019-10-21
 slug: 2019-10-highlights-from-penn-state-contributions
 tags:
 - legacy-blogger

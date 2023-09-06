@@ -1,5 +1,5 @@
 ---
-date: '2022-02-09'
+date: 2022-02-09
 slug: 2022-02-afrique-de-la-mappemonde-portugaise
 tags:
 - legacy-blogger

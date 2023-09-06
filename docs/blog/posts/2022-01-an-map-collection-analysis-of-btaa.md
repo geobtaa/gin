@@ -1,5 +1,5 @@
 ---
-date: '2022-01-18'
+date: 2022-01-18
 slug: 2022-01-an-map-collection-analysis-of-btaa
 tags:
 - maps

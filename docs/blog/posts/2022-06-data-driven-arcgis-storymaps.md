@@ -1,5 +1,5 @@
 ---
-date: '2022-06-09'
+date: 2022-06-09
 slug: 2022-06-data-driven-arcgis-storymaps
 tags:
 - Iowa

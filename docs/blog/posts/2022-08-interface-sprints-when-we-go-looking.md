@@ -1,5 +1,5 @@
 ---
-date: '2022-08-24'
+date: 2022-08-24
 slug: 2022-08-interface-sprints-when-we-go-looking
 tags:
 - committees

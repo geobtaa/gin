@@ -1,5 +1,5 @@
 ---
-date: '2019-12-02'
+date: 2019-12-02
 slug: 2019-12-featured-item-facility-geofence-iowa
 tags:
 - legacy-blogger

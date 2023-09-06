@@ -1,5 +1,5 @@
 ---
-date: '2020-03-02'
+date: 2020-03-02
 slug: 2020-03-geoportal-tip-opening-dataset-in-arcgis
 tags:
 - legacy-blogger

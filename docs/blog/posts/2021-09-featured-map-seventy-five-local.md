@@ -1,5 +1,5 @@
 ---
-date: '2021-09-07'
+date: 2021-09-07
 slug: 2021-09-featured-map-seventy-five-local
 tags:
 - Featured items
