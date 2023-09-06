@@ -80,7 +80,6 @@ Effective use of all these services will likely save you a lot of time downloadi
 !!! Question
     Can you think of any drawbacks or reasons why it might be preferable to download, process, and manage your own data?
 
-For additional information about these services, navigate to the [glossary page](/glossary).
 
 
 ## Locating Services

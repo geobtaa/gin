@@ -7,7 +7,7 @@ hide:
 
 Licensed data is data that is authorized for use by an individual university, or by multiple universities in the Big Ten Academic Alliance through a subscription. It is paid for by an institution for affiliates to use, unlike free public use data.
 
-Licensed data records <span style="text-decoration:underline;">do not</span> link directly to datasets you can download like our other public geoportal records do. Download is dependent on the database itself (see database descriptions below for common uses and data format availability).
+Licensed data records do **not** link directly to datasets you can download like our other public geoportal records do. Download is dependent on the database itself (see database descriptions below for common uses and data format availability).
 
 ## How to identify licensed data:
 

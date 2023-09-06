@@ -52,3 +52,10 @@ The following quotes are anecdotes from Task Force members about using the BTAA 
 
 	Joe A., an archaeologist, came to a Geography Awareness Week showcase that the University was putting on. I'd been invited to present that night, and I ended up talking about the Geoportal, but I didn’t have a lot of time to answer questions because there were other presenters and a short time span. Anyway, Joe emailed me the next day saying that he went on the Geoportal and that he had everything from Boone County in just a few clicks. He referred to it as "early Christmas." I believe he was aware that we had township atlases of that sort, but he didn’t realize we had *georeferenced* historical atlases online like that for download, as it directly related to some research project that he and a colleague had been working on, where they were downloading and georeferencing plats one at a time. I haven’t really spoken with him since, but they seemed to be relieved at the reduced workload.
 
+## Code Repository
+
+The code for the BTAA Geoportal is available on GitHub at https://github.com/geobtaa/geoportal
+
+The geoportal is built with [Geoblacklight](https://geoblacklight.org), a multi-institutional open-source collaboration for finding and sharing geospatial data. We are also active contributors to the GeoBlacklight project.
+
+The technical infrastructure for the project is provided by the University of Minnesota Libraries Web Development department.

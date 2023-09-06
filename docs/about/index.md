@@ -1,7 +1,6 @@
 ---
 hide:
 
-    - toc
 
 ---
 
@@ -9,18 +8,19 @@ hide:
 
 We are a collaboration of librarians and geospatial specialists from across the Big Ten Academic Alliance.
 
+
+
 ## Our Mission
 
-To **support the geospatial research community** by making resources easier to find and to **foster connections among geospatial library professionals** through our collaboration.
-
-* Our program aims to **support the geospatial research community** by building and maintaining a collective open-source spatial data infrastructure featuring metadata optimized for spatial discovery platforms. 
-
+* To **support the geospatial research community** by making resources easier to find and to **foster connections among geospatial library professionals** through our collaboration.</li>
+* Our program aims to **support the geospatial research community** by building and maintaining a collective open-source spatial data infrastructure featuring metadata optimized for spatial discovery platforms.
 * We **foster connections among geospatial library professionals**, the Big Ten Academic Alliance, and the BIG Collection by sharing expertise and utilizing collective resources while cultivating a culture of deep collaboration and interdependence.
+
 
 ## Our Values
 
-<div class="grid-home">
-  <div class="section">
+<div class="grid-container">
+  <div class="section two-in-row">
     <h3>Collaboration & Connection</h3>
     <ul style="text-align: left;">
       <li>Provide a centralized resource discovery platform to connect data creators, providers, and consumers.</li>
@@ -29,7 +29,7 @@ To **support the geospatial research community** by making resources easier to f
     </ul>
   </div>
 
-  <div class="section">
+  <div class="section two-in-row">
     <h3>Diversity, Equity, & Accessibility</h3>
     <ul style="text-align: left;">
       <li>Lower barriers to accessing geospatial data across a wide range of communities.</li>
@@ -38,7 +38,9 @@ To **support the geospatial research community** by making resources easier to f
     </ul>
   </div>
 
-  <div class="section">
+
+<div class="grid-container">
+  <div class="section one-in-row">
     <h3>Stewardship & Sustainability</h3>
     <ul style="text-align: left;">
       <li>Invest in open-source technology and communities.</li>
@@ -78,7 +80,7 @@ This Big Ten Academic Alliance Geospatial Information Network (BTAA-GIN) is coll
 
 Program Team Members contribute their knowledge of one or more areas in the fields of libraries, geography, GIS, maps, metadata, cataloguing, web development, or project management. 
 
-{{ read_csv('tables/teamMembers-2023.csv') }}
+{{ read_csv('../tables/teamMembers-2023.csv') }}
 
 ## University of Minnesota Operations Staff
 

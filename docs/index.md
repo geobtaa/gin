@@ -15,16 +15,18 @@ hide:
 	    </div>
 	</div>
 
-    <div class="grid-home">
-        <div class="section">
+    <div class="grid-container">
+    
+        <div class="section three-in-row">
             <h2 class="grid-title">Find and Use Geospatial Resources</h2>
             <p class="description">Learn how to find and use geospatial resources with our Tutorials and Research Guides.</p>
             <div class="call-to-action">
                 <a href="tutorials">Tutorials</a> |
                 <a href="guides">Research Guides</a>
             </div>
-        </div>
-        <div class="section">
+    	</div>
+        
+        <div class="section three-in-row">
             <h2 class="grid-title">Collaborate & Contribute</h2>
             <p class="description">Collaborative activities, best practices, software projects, and metadata workflows.</p>
             <div class="call-to-action">
@@ -32,7 +34,8 @@ hide:
                 <a href="metadataHandbook">Metadata Handbook</a>
             </div>
         </div>
-        <div class="section">
+        
+        <div class="section three-in-row">
             <h2 class="grid-title"> Stay Informed & Support Our Vision</h2>
             <p class="description">Project updates, program guidelines, history, and milestones.</p>
             <div class="call-to-action">
@@ -40,6 +43,7 @@ hide:
                 <a href="history">History</a>
             </div>
         </div>
+        
     </div>
     
 <div style="text-align: center;">

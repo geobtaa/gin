@@ -3,6 +3,7 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
+
 h2 {
    color: #163b58;
 }
@@ -140,26 +141,63 @@ h2 {
 		display: inline-block;
 		padding: 10px 20px;
 		margin: 10px;
-		background-color: #163b58;
+		background-color: #005E8E;
 		color: #fff !important;
 		text-decoration: none;
 		border-radius: 5px;
+
+	}
+	
+	.hero-button:hover {
+	
+		background-color: #163b58;
+/* 		color: #000 !important; */
+		
 	}
    
-	.grid-home {
+	.grid-container {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-between;
 	}
 	.section {
-		flex: 1 1 calc(33.333% - 16px);
 		background-color: #fff;
 		margin: 8px;
 		padding: 20px;
 		border: 1px solid #ddd;
 		box-sizing: border-box;
 		text-align: center;
+		transition: all 0.3s ease;
+		transform: translateY(0);
+		flex: 1 1 calc(33.333% - 16px);
 	}
+
+	/* Hover state */
+	.section:hover {
+	  transform: translateY(-5px);
+	  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+	  
+/* 
+	  
+		One in a row	.one-in-row {
+		flex: 1 1 calc(100% - 16px);
+	}
+
+	Two in a row	.two-in-row {
+		flex: 1 1 calc(50% - 16px);
+	}
+
+	Three in a row	.three-in-row {
+		flex: 1 1 calc(33.333% - 16px);
+	}
+
+	Four in a row	.four-in-row {
+		flex: 1 1 calc(25% - 16px);
+	}
+ */
+
+	  
+	  
 	
 	.md-typeset .grid-title {
   		margin-top: 10px; /* Adjust this value as needed */
@@ -169,10 +207,9 @@ h2 {
 		margin: 1em;
 		color: #000;
 	}
-	.call-to-action {
+	.call-to-action { /* the links at the bottom of the boxes */
 			color: #005E8E;
 			font-weight: 600;
-<!--  				background-color: #f7f7f7;
 			padding: 10px
 			border-radius: 3px;-->
 			transition: all 0.3s ease;
@@ -187,3 +224,15 @@ h2 {
 			flex: 1 1 100%;
 		}
 	}
+	
+/* 
+	Base state	.grid-box {
+	  transition: all 0.3s ease;
+	  transform: translateY(0);
+	}
+
+	Hover state	.grid-box:hover {
+	  transform: translateY(-10px);
+	  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+}
+ */
