@@ -10,7 +10,7 @@ title: An interview with Ann Burns, Manager of Geospatial Technology for SEMCOG
 
 # An interview with Ann Burns, Manager of Geospatial Technology for SEMCOG
 
-By Kathleen Weessies An interview with Ann Burns, Manager of Geospatial Technology for SEMCOG 
+By Kathleen Weessies
 
 [![](https://blogger.googleusercontent.com/img/a/AVvXsEiYKSubG9p2JcFx4lrgqddNbVBx7A5bqhYZTGetGewRTjcZtvnEMw55iZC270wA2REvq3DQ9L2C7hydGumtlp8TWiO2zMLeA5hja1JszCMlOA99aMz8BtTOznVWyvExkteo2YDsbz4543fxhzuh4nMCju-fxcrYz85tzGnl8tUog3qrMjdNwZubqSWVXw=s320)](https://blogger.googleusercontent.com/img/a/AVvXsEiYKSubG9p2JcFx4lrgqddNbVBx7A5bqhYZTGetGewRTjcZtvnEMw55iZC270wA2REvq3DQ9L2C7hydGumtlp8TWiO2zMLeA5hja1JszCMlOA99aMz8BtTOznVWyvExkteo2YDsbz4543fxhzuh4nMCju-fxcrYz85tzGnl8tUog3qrMjdNwZubqSWVXw=s960){ width="300" }
 
