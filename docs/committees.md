@@ -16,12 +16,12 @@ Committee Charge
 
 ## Program Committees
 
-## Technical Operations Committee
+### Technical Operations Committee
 
-## Community Engagement Committee
+### Community Engagement Committee
 
-## Knowledge Committee
+### Knowledge Committee
 
-## Coordination Committee
+### Coordination Committee
 
 ![](images/matrix-committees.png)
