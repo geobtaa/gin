@@ -154,6 +154,14 @@ h2 {
 /* 		color: #000 !important; */
 		
 	}
+	
+	.grid-cards {
+	background-color: #fff;
+	width="100%";
+	margin: 8px;
+	padding: 20px;
+	border: 1px solid #ddd;
+	}
    
 	.grid-container {
 		display: flex;
@@ -176,29 +184,8 @@ h2 {
 	.section:hover {
 	  transform: translateY(-5px);
 	  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
-	  
-/* 
-	  
-		One in a row	.one-in-row {
-		flex: 1 1 calc(100% - 16px);
-	}
+        }
 
-	Two in a row	.two-in-row {
-		flex: 1 1 calc(50% - 16px);
-	}
-
-	Three in a row	.three-in-row {
-		flex: 1 1 calc(33.333% - 16px);
-	}
-
-	Four in a row	.four-in-row {
-		flex: 1 1 calc(25% - 16px);
-	}
- */
-
-	  
-	  
-	
 	.md-typeset .grid-title {
   		margin-top: 10px; /* Adjust this value as needed */
 		} 
@@ -236,3 +223,54 @@ h2 {
 	  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
 }
  */
+ 
+ /* Persona card style */
+.persona-card {
+	background-color: #fff;
+	margin: 8px;
+	padding: 20px;
+	border: 1px solid #ddd;
+	box-sizing: border-box;
+	text-align: left;
+	transition: all 0.3s ease;
+	transform: translateY(0);
+}
+
+.persona-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+  }
+
+/* Image and title wrapper */
+.persona-header {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+/* Persona image */
+.persona-card .persona-header .persona-image {
+    width: 200px;
+    height: auto;
+}
+
+
+
+/* Persona subsections */
+.persona-section {
+		background-color: #fff;
+		margin: 8px;
+		padding: 20px;
+		border: 1px solid #ddd;
+		box-sizing: border-box;
+		text-align: left;
+		transition: all 0.3s ease;
+		transform: translateY(0);
+		flex: 1 1 calc(33.333% - 16px);
+}
+
+/* Hover effect */
+.persona-card:hover {
+	transform: translateY(-5px);
+	box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+}
