@@ -12,9 +12,19 @@ We are a collaboration of librarians and geospatial specialists from across the 
 
 ## Our Mission
 
-* To **support the geospatial research community** by making resources easier to find and to **foster connections among geospatial library professionals** through our collaboration.</li>
-* Our program aims to **support the geospatial research community** by building and maintaining a collective open-source spatial data infrastructure featuring metadata optimized for spatial discovery platforms.
-* We **foster connections among geospatial library professionals**, the Big Ten Academic Alliance, and the BIG Collection by sharing expertise and utilizing collective resources while cultivating a culture of deep collaboration and interdependence.
+<div class="grid-container">
+  <div class="section">
+  
+  <ul style="text-align: left;">
+
+<li>To <b>support the geospatial research community</b> by making resources easier to find and to <b>foster connections among geospatial library professionals</b> through our collaboration.</li>
+<li>Our program aims to <b>support the geospatial research community</b> by building and maintaining a collective open-source spatial data infrastructure featuring metadata optimized for spatial discovery platforms.</li>
+<li>We <b>foster connections among geospatial library professionals</b>, the Big Ten Academic Alliance, and the BIG Collection by sharing expertise and utilizing collective resources while cultivating a culture of deep collaboration and interdependence.</li>
+
+</ul>
+
+  </div>
+  </div>
 
 
 ## Our Values
@@ -57,4 +67,10 @@ We are a collaboration of librarians and geospatial specialists from across the 
 
 ## Our Vision
 
-To preserve and share at-risk digital geospatial assets by building a complete spatial data infrastructure.
+<div class="grid-container">
+  <div class="section">
+
+<p> To preserve and share at-risk digital geospatial assets by building a complete spatial data infrastructure.</p>
+
+</div>
+</div>

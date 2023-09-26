@@ -1,6 +1,6 @@
 site_name: Geospatial Information Network
 site_author: Big Ten Academic Alliance Geospatial Information Network
-copyright : "2023"
+# copyright : "&copy; 2016-2023"
 noindex: true 
 
 theme: 
@@ -18,22 +18,18 @@ theme:
             - navigation.tabs.sticky
             - navigation.tracking
             - navigation.sections
-            - navigation.footer
             - navigation.path
             - navigation.prune
-#            - toc.integrate
             - toc.follow
 
     
 plugins:
       - tags:
-            tags_file: tags.md
             tags_slugify: !!python/object/apply:pymdownx.slugs.slugify
                   kwds:
                         case: lower
-#             tags_extra_files:
-#                   date-tags.md: 
-#                         - libr
+            tags_file: library/index.md
+                      
       - table-reader
       - search
       - open-in-new-tab
@@ -50,13 +46,13 @@ plugins:
                   - custom-skip-class-name
             auto_caption: true
             caption_position: top
-      - blog:
-           blog_dir: blog
-           categories: false
-           archive: true
-           post_date_format: medium
-           archive_date_format: yyyy
-      - optimize
+#       - blog:
+#            blog_dir: blog
+#            categories: false
+#            archive: true
+#            post_date_format: medium
+#            archive_date_format: yyyy
+#       - optimize
 #           enabled:!ENV [CI, false]
 #       - pdf-export:
 #             verbose: true
@@ -91,6 +87,8 @@ markdown_extensions:
                     showSequenceNumbers: true
       - pymdownx.snippets
       - pymdownx.magiclink
+      - pymdownx.tasklist:
+            custom_checkbox: true
       - pymdownx.emoji:
             emoji_index: !!python/name:materialx.emoji.twemoji
             emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -102,13 +100,19 @@ markdown_extensions:
                   kwds:
                         case: lower
       - toc:
-              toc_depth: 2
+              toc_depth: 3
               permalink: true
               permalink_title: Anchor link to this section for reference
 
 extra:
+      generator: false
       tags:
             library: libr
+      social:
+            - icon: material/email 
+              link: https://geo.btaa.org/feedback
+            - icon: simple/youtube
+              link: https://www.youtube.com/@geobtaa1585
 
 nav:
 
@@ -117,8 +121,8 @@ nav:
 - About:
     - 'about/index.md'
     - 'Participants': 'about/participants.md'
-    - 'Committees': 'committees.md'
-    - 'History': 'history.md'
+    - 'Committees': 'about/committees.md'
+    - 'History': 'about/history.md'
       
 
 - Technology:
@@ -134,7 +138,7 @@ nav:
         - 'Understanding metadata': 'guides/understanding-metadata.md'
         - 'Citing geospatial data':  'guides/cite-data.md'
         - 'Licensed data' : 'guides/licensed-data.md'
-        - 'Census data' : 'guides/census.md'
+        - 'U.S. Census data' : 'guides/census.md'
         - 'Fire insurance maps'  : 'guides/fire-insurance.md'   
         - 'Public Land Survey System (PLSS) Plats' : 'guides/plss.md'
 
@@ -157,14 +161,20 @@ nav:
     - 'library/index.md'
     - Scholarly Publications:
         - 'Journal Articles': 'library/articles.md'
-        - 'Presentations': 'library/presentations.md'
+#         - 'Presentations': 'library/presentations.md'
     - Reports & Guidelines:
-        - 'Land acknowledgement action plan' : 'library/actionPlan.md' 
+        - 'Analytics Working Group Report': 'library/analytics-working-group-report.md'
+        - 'Best Practices for ArcGIS Hubs': 'library/best-practices-open-data-portals.md'
         - 'Collection Development Policy': 'library/collection-development-policy.md'
         - 'Curation Priorities': 'library/curation-priorities.md'
+        - 'Diverse Collections Report': 'library/diverse-collections.md'
         - 'Impact Report 2020': 'library/impactReport_2020-05.md'
-        - 'Analytics Working Group Report': 'library/analytics-working-group-report.md'
-        - 'User Personas for the BTAA Geoportal': 'library/user-personas.md'
+        - 'Land acknowledgement Action Plan' : 'library/actionPlan.md' 
+        - 'Licensed Data Implementation': 'library/licensed-data-implementation.md'
+        - 'Original Content Guidelines': 'library/original-content.md'
+        - 'Rates of Change for Open Data': 'library/rates-of-change.md'
+        - 'Staff Time for Ephemeral Data': 'library/ephemeral-costs.md'
+        - 'User Personas': 'library/user-personas.md'
     - Proposals & Charters:
         - 'Continuation Proposal 2021': 'library/continuation_2021.md'
         - 'A Spatial Data Infrastructure (SDI) for the BTAA': 'library/btaa-sdi-2019.md'
@@ -173,18 +183,17 @@ nav:
         - 'CIC Geospatial Data Discovery Project Charter (2015)': 'library/cic-charter.md'
         - 'Proposal for a Geospatial Data Discovery Project Across the CIC (2015)': 'library/cic-proposal.md'
            
-                    
-      
 - Blog:
     - blog/index.md
    
 - GIS Conference:
     - 'index' : 'conference/index.md'
-    - '2023': 'conference/2023/index.md'
+    - 2023 Agenda: 'conference/2023.md'
+    - Map Gallery Guidelines: 'conference/map-guidelines.md'
     - Past Conferences:
-        - 2022: 'conference/2022/agenda.md'   
-    #       - Map Gallery:
-    #             - '2022' : 'conference/map-gallery/2022.md'
+        - 2022: 'conference/2022.md'   
+        - 2021: 'conference/2021.md'
+        - 2020: 'conference/2020.md'
       
 
       

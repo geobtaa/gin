@@ -30,8 +30,8 @@ hide:
             <h2 class="grid-title">Collaborate & Contribute</h2>
             <p class="description">Collaborative activities, best practices, software projects, and metadata workflows.</p>
             <div class="call-to-action">
-                <a href="geoportal">Technology</a> |
-                <a href="metadataHandbook">Metadata Handbook</a>
+                <a href="technology">Technology</a> |
+                <a href="technology/metadataHandbook">Metadata Handbook</a>
             </div>
         </div>
         
@@ -39,8 +39,8 @@ hide:
             <h2 class="grid-title"> Stay Informed & Support Our Vision</h2>
             <p class="description">Project updates, program guidelines, history, and milestones.</p>
             <div class="call-to-action">
-                <a href="updates">Project Updates</a> |
-                <a href="history">History</a>
+                <a href="about/index">About</a> |
+                <a href="about/history">History</a>
             </div>
         </div>
         

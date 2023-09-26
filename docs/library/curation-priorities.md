@@ -1,3 +1,9 @@
+---
+tags:
+  - program guidelines
+  - '2021'
+---
+
 # Curation Priorities
 
 :fontawesome-solid-user: Authors: BTAA Collection Development & Education Outreach Committee; Product Manager

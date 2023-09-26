@@ -1,3 +1,9 @@
+---
+tags:
+  - program guidelines
+  - '2021'
+---
+
 # BTAA Geoportal Collection Development Policy
 
 :fontawesome-solid-user: Authors: BTAA Collection Development & Education Outreach Committee
