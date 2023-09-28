@@ -3,6 +3,11 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
+.md-content {
+      background-color: #fff;
+}
+
+
 a {
       text-decoration: underline;
       text-underline-offset: 0.1em;
@@ -107,7 +112,6 @@ h2 {
 .md-nav__link {
   text-decoration: none !important;
 }
-
 
 
 /* 
