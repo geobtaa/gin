@@ -7,7 +7,6 @@ body {
       background-color: #fff;
 }
 
-
 a {
       text-decoration: underline;
       text-underline-offset: 0.1em;
@@ -75,9 +74,11 @@ h2 {
   background-color: #005E8E;
 }
 
+/* 
  .md-banner a:link{
     color:#fff;
 }
+ */
 
 .md-tabs, .md-tabs__item { 
   background-color: #005E8E;
@@ -90,6 +91,7 @@ h2 {
 . md-ellipsis{
   font-weight: 600; 
   color:#000; !important;
+  background-color:transparent !important;
 }
 
 .md-tabs__link {
@@ -112,13 +114,6 @@ h2 {
 .md-nav__link {
   text-decoration: none !important;
 }
-
-
-/* 
-.md-nav__item--section > .md-nav__link[for] {
-    color: inherit;
-}
- */
 
 
   .responsive-google-slides {
