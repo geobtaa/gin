@@ -14,7 +14,7 @@ hide:
 	    </div>
 	</div>
 
-    <div class="grid-container" style="background-color: #f7f7f7;">
+    <div class="grid-container">
     
         <div class="section three-in-row">
             <h2 class="grid-title">Find and Use Geospatial Resources</h2>
@@ -45,7 +45,7 @@ hide:
         
     </div>
     
-<div style="text-align: center; background-color: #f7f7f7; padding-top:2em;">
+<div style="text-align: center; padding-top:2em;">
 <h2>Participating Institutions</h2>
     
 <img src="images/BTAA-GIN-institutions.png" alt="Map of participating institutions" width= "75%">
