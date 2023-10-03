@@ -46,12 +46,12 @@ plugins:
                   - custom-skip-class-name
             auto_caption: true
             caption_position: top
-#       - blog:
-#            blog_dir: blog
-#            categories: false
-#            archive: true
-#            post_date_format: medium
-#            archive_date_format: yyyy
+      - blog:
+            blog_dir: updates
+            categories: false
+            archive: false
+            post_date_format: medium
+            archive_date_format: yyyy
 #       - optimize
 #           enabled:!ENV [CI, false]
 #       - pdf-export:
@@ -119,81 +119,80 @@ nav:
 - Home: 'index.md'
 
 - About:
-    - 'about/index.md'
-    - 'Participants': 'about/participants.md'
-    - 'Committees': 'about/committees.md'
-    - 'History': 'about/history.md'
+      - 'about/index.md'
+      - 'Participants': 'about/participants.md'
+      - 'Committees': 'about/committees.md'
+      - 'History': 'about/history.md'
+      - 'Updates': 
+            'updates/index.md'
       
 
 - Technology:
-    - 'technology/index.md'
-    - 'BTAA Geoportal': 'technology/geoportal.md'
-    - 'Admin Toolkit': 'technology/geomg.md'
-    - 'Metadata Handbook': 'technology/metadataHandbook.md'
+      - 'technology/index.md'
+      - 'BTAA Geoportal': 'technology/geoportal.md'
+      - 'Admin Toolkit': 'technology/geomg.md'
+      - 'Metadata Handbook': 'technology/metadataHandbook.md'
 
 - User Resources:
-    - Research Guides:
-        - 'guides/index.md'
-        - 'BTAA Geoportal Search strategies': 'guides/search-strategies.md'
-        - 'Understanding metadata': 'guides/understanding-metadata.md'
-        - 'Citing geospatial data':  'guides/cite-data.md'
-        - 'Licensed data' : 'guides/licensed-data.md'
-        - 'U.S. Census data' : 'guides/census.md'
-        - 'Fire insurance maps'  : 'guides/fire-insurance.md'   
-        - 'Public Land Survey System (PLSS) Plats' : 'guides/plss.md'
+      - Research Guides:
+              - 'guides/index.md'
+              - 'BTAA Geoportal Search strategies': 'guides/search-strategies.md'
+              - 'Understanding metadata': 'guides/understanding-metadata.md'
+              - 'Citing geospatial data':  'guides/cite-data.md'
+              - 'Licensed data' : 'guides/licensed-data.md'
+              - 'U.S. Census data' : 'guides/census.md'
+              - 'Fire insurance maps'  : 'guides/fire-insurance.md'   
+              - 'Public Land Survey System (PLSS) Plats' : 'guides/plss.md'
 
-    - Tutorials:
-        - 'tutorials/index.md'
-        - '1. Types of Geospatial Information': 'tutorials/01_types-of-geospatial-information.md'
-        - '2. Find Maps': 'tutorials/02_find-maps.md'
-        - '3. Find Geospatial Data': 'tutorials/03_find-geospatial-data.md'
-        - '4. Evaluate Geospatial Information': 'tutorials/04_evaluate-geospatial-information.md'
-        - '5. Web Services': 'tutorials/05_web-services.md'
-        - '6. Link Tabular Data': 'tutorials/06_link-tabular-data.md'
-        - '7. Georeference': 'tutorials/07_georeference.md'
-        - '8. Digitize': 'tutorials/08_digitize.md'
-        - '9. Create Elevation Surface Models': 'tutorials/09_create-elevation-surface-models.md'
-        - '10. Zonal Stats Tool': 'tutorials/10_zonal-stats-tool.md'
-        - '11. Story Maps': 'tutorials/11_story-maps.md'
+      - Tutorials:
+              - 'tutorials/index.md'
+              - '1. Types of Geospatial Information': 'tutorials/01_types-of-geospatial-information.md'
+              - '2. Find Maps': 'tutorials/02_find-maps.md'
+              - '3. Find Geospatial Data': 'tutorials/03_find-geospatial-data.md'
+              - '4. Evaluate Geospatial Information': 'tutorials/04_evaluate-geospatial-information.md'
+              - '5. Web Services': 'tutorials/05_web-services.md'
+              - '6. Link Tabular Data': 'tutorials/06_link-tabular-data.md'
+              - '7. Georeference': 'tutorials/07_georeference.md'
+              - '8. Digitize': 'tutorials/08_digitize.md'
+              - '9. Create Elevation Surface Models': 'tutorials/09_create-elevation-surface-models.md'
+              - '10. Zonal Stats Tool': 'tutorials/10_zonal-stats-tool.md'
+              - '11. Story Maps': 'tutorials/11_story-maps.md'
       
 
 - Document Library:
-    - 'library/index.md'
-    - Scholarly Publications:
+      - 'library/index.md'
+      - Scholarly Publications:
         - 'Journal Articles': 'library/articles.md'
 #         - 'Presentations': 'library/presentations.md'
-    - Reports & Guidelines:
-        - 'Analytics Working Group Report': 'library/analytics-working-group-report.md'
-        - 'Best Practices for ArcGIS Hubs': 'library/best-practices-open-data-portals.md'
-        - 'Collection Development Policy': 'library/collection-development-policy.md'
-        - 'Curation Priorities': 'library/curation-priorities.md'
-        - 'Diverse Collections Report': 'library/diverse-collections.md'
-        - 'Impact Report 2020': 'library/impactReport_2020-05.md'
-        - 'Land acknowledgement Action Plan' : 'library/actionPlan.md' 
-        - 'Licensed Data Implementation': 'library/licensed-data-implementation.md'
-        - 'Original Content Guidelines': 'library/original-content.md'
-        - 'Rates of Change for Open Data': 'library/rates-of-change.md'
-        - 'Staff Time for Ephemeral Data': 'library/ephemeral-costs.md'
-        - 'User Personas': 'library/user-personas.md'
-    - Proposals & Charters:
-        - 'Continuation Proposal 2021': 'library/continuation_2021.md'
-        - 'A Spatial Data Infrastructure (SDI) for the BTAA': 'library/btaa-sdi-2019.md'
-        - 'Continuation Proposal 2019': 'library/continuation_2019.md'
-        - 'Continuation Proposal 2017': 'library/continuation_2017.md'
-        - 'CIC Geospatial Data Discovery Project Charter (2015)': 'library/cic-charter.md'
-        - 'Proposal for a Geospatial Data Discovery Project Across the CIC (2015)': 'library/cic-proposal.md'
-           
-- Blog:
-    - blog/index.md
+      - Reports & Guidelines:
+              - 'Analytics Working Group Report': 'library/analytics-working-group-report.md'
+              - 'Best Practices for ArcGIS Hubs': 'library/best-practices-open-data-portals.md'
+              - 'Collection Development Policy': 'library/collection-development-policy.md'
+              - 'Curation Priorities': 'library/curation-priorities.md'
+              - 'Diverse Collections Report': 'library/diverse-collections.md'
+              - 'Impact Report 2020': 'library/impactReport_2020-05.md'
+              - 'Land acknowledgement Action Plan' : 'library/actionPlan.md' 
+              - 'Licensed Data Implementation': 'library/licensed-data-implementation.md'
+              - 'Original Content Guidelines': 'library/original-content.md'
+              - 'Rates of Change for Open Data': 'library/rates-of-change.md'
+              - 'Staff Time for Ephemeral Data': 'library/ephemeral-costs.md'
+              - 'User Personas': 'library/user-personas.md'
+      - Proposals & Charters:
+              - 'Continuation Proposal 2021': 'library/continuation_2021.md'
+              - 'A Spatial Data Infrastructure (SDI) for the BTAA': 'library/btaa-sdi-2019.md'
+              - 'Continuation Proposal 2019': 'library/continuation_2019.md'
+              - 'Continuation Proposal 2017': 'library/continuation_2017.md'
+              - 'CIC Geospatial Data Discovery Project Charter (2015)': 'library/cic-charter.md'
+              - 'Proposal for a Geospatial Data Discovery Project Across the CIC (2015)': 'library/cic-proposal.md'
    
 - GIS Conference:
-    - 'index' : 'conference/index.md'
-    - 2023 Agenda: 'conference/2023.md'
-    - Map Gallery Guidelines: 'conference/map-guidelines.md'
-    - Past Conferences:
-        - 2022: 'conference/2022.md'   
-        - 2021: 'conference/2021.md'
-        - 2020: 'conference/2020.md'
+      - 'index' : 'conference/index.md'
+      - 2023 Agenda: 'conference/2023.md'
+      - Map Gallery Guidelines: 'conference/map-guidelines.md'
+      - Past Conferences:
+              - 2022: 'conference/2022.md'   
+              - 2021: 'conference/2021.md'
+              - 2020: 'conference/2020.md'
       
 
       
