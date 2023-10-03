@@ -1,13 +1,12 @@
 body {
-/*   background-color: #f7f7f7; */ /* Light grey background */
+  background-color: #f7f7f7; Light grey background
   font-family: Helvetica, sans-serif;
 }
 
-/* 
 .md-content {
       background-color: #fff;
 }
- */
+
 
 a {
       text-decoration: underline;
@@ -156,9 +155,10 @@ h2 {
 		position: relative;
 		text-align: center;
 		padding: 60px 20px;
+		margin-bottom: 30px;
 		background-color: #f7f7f7;
 		color: #000;
-		border-width: .5em;
+		border-width: 3px;
 		border-color: #b9b9b9;
 		border-style: solid;
 	}
