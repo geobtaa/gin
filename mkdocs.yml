@@ -5,8 +5,10 @@ noindex: true
 
 theme: 
       name: material
+      palette:
+            primary: white
       highlightjs: true
-      logo: images/btaa-logo-white.png
+      logo: images/gin-full.jpeg
       font:
             text: helvetica neue
       custom_dir: overrides
@@ -21,6 +23,7 @@ theme:
             - navigation.path
             - navigation.prune
             - toc.follow
+            - toc.integrate
 
     
 plugins:
@@ -187,9 +190,10 @@ nav:
    
 - GIS Conference:
       - 'index' : 'conference/index.md'
-      - 2023 Agenda: 'conference/2023.md'
+  
       - Map Gallery Guidelines: 'conference/map-guidelines.md'
       - Past Conferences:
+              - 2023: 'conference/2023.md'
               - 2022: 'conference/2022.md'   
               - 2021: 'conference/2021.md'
               - 2020: 'conference/2020.md'
