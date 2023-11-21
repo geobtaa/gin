@@ -292,10 +292,11 @@ padding: 20px;
 }
 .call-to-action { /* the links at the bottom of the boxes */
             color: #FF6B6B;
-            font-weight: 600;
-            padding: 10px
+            font-weight: 500;
+            padding: 20px
             border-radius: 3px;-->
             transition: all 0.3s ease;
+            background-color: #fff;
             }
             
             .call-to-action:hover {
