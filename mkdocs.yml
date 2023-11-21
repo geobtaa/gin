@@ -5,25 +5,34 @@ noindex: true
 
 theme: 
       name: material
+      palette:
+            primary: white      
       highlightjs: true
-      logo: images/btaa-logo-white.png
+      logo: images/gin-full.jpeg
       font:
-            text: helvetica neue
+            text: Libre Franklin
       custom_dir: overrides
       features:
-            - navigation.top
-            - navigation.indexes
             - navigation.instant
+            - navigation.instant.prefetch
+            - navigation.instant.progress
+            - navigation.tracking
             - navigation.tabs
             - navigation.tabs.sticky
-            - navigation.tracking
+            - navigation.sections
+            - navigation.expand
+            - navigation.path
+#             - navigation.prune
+            - navigation.indexes
+            - navigation.top
             - navigation.sections
             - navigation.path
-            - navigation.prune
             - toc.follow
+            - toc.integrate
 
     
 plugins:
+      - privacy
       - tags:
             tags_slugify: !!python/object/apply:pymdownx.slugs.slugify
                   kwds:
@@ -73,6 +82,9 @@ markdown_extensions:
       - meta
       - footnotes
       - admonition
+#       - mdx_truly_sane_lists:
+#             nested_indent: 4
+#             truly_sane: True
       - pymdownx.critic
       - pymdownx.caret
       - pymdownx.keys
@@ -187,9 +199,10 @@ nav:
    
 - GIS Conference:
       - 'index' : 'conference/index.md'
-      - 2023 Agenda: 'conference/2023.md'
+  
       - Map Gallery Guidelines: 'conference/map-guidelines.md'
       - Past Conferences:
+              - 2023: 'conference/2023.md'
               - 2022: 'conference/2022.md'   
               - 2021: 'conference/2021.md'
               - 2020: 'conference/2020.md'

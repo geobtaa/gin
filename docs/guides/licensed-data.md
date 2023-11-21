@@ -1,8 +1,3 @@
----
-hide:
- -navigation
----
-
 ## What does “Licensed Data” mean?
 
 Licensed data is data that is authorized for use by an individual university, or by multiple universities in the Big Ten Academic Alliance through a subscription. It is paid for by an institution for affiliates to use, unlike free public use data.

@@ -1,8 +1,3 @@
----
-hide:
- -navigation
----
-
 # Understanding metadata
 
 This brief video tutorial defines what geospatial metadata is and how Geoportal users can locate and interact with it. 

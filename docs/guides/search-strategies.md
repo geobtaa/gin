@@ -1,8 +1,3 @@
----
-hide:
- -navigation
----
-
 # BTAA Geoportal search strategies
 
 ## Text searches

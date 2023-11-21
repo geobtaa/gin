@@ -1,8 +1,3 @@
----
-hide:
- -navigation
----
-
 # Locating and Using U.S. Census Data
 
 ## What is census data?

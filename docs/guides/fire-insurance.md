@@ -1,9 +1,3 @@
----
-hide:
- -navigation
----
-
-
 # Fire Insurance Maps Research Guide
 
 
