@@ -24,10 +24,10 @@ Geographic Information Systems (GIS) can use several different types of data. Th
 
 ## Geospatial Information Types
 
-* Most GIS data is stored in one of the following data models:
-	  * Vector
-	  * Raster
-	  * Tabular
+- Most GIS data is stored in one of the following data models:
+    - Vector
+    - Raster
+    - Tabular
 
 * Geospatial information can also be extracted from scanned maps.
 

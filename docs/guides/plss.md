@@ -1,8 +1,3 @@
----
-hide:
- -navigation
----
-
 # Locating and Understanding Public Land Survey System (PLSS) Plats
 
 ##What are PLSS Plats?

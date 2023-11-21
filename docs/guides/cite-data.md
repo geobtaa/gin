@@ -1,6 +1,5 @@
 # Citing geospatial data
 
-
 BTAA Geportal users will find information for citation elements in several places: within the geoportal itself, in metadata embedded in downloaded datasets, and from original data producer websites/portals. The Citation Guide offers helpful suggestions on the best places to find relevant citation content.
 
 ## Why citing data is important
