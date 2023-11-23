@@ -10,16 +10,12 @@ body {
       background-color: #fafafa;
 }
 
-/* 
-:root {
-  --md-primary-fg-color:  #005E8E;
-}
- */
 
 /* Hyperlinks */
 a {
       color: #005E8E !important;   
 }
+
 
 a:hover {
       color: #163b58 !important; /* Darker shade on hover */
@@ -165,6 +161,10 @@ h2 {
 
 a.md-nav__link a.md-nav__link--active {
       border-bottom: 1px solid;
+}
+
+.md-nav md-nav--secondary{
+      background-color: orange !important;
 }
 
 

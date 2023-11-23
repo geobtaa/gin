@@ -6,7 +6,7 @@ noindex: true
 theme: 
       name: material
       palette:
-            primary: white      
+            primary: white    
       highlightjs: true
       logo: images/gin-full.jpeg
       font:
@@ -20,13 +20,12 @@ theme:
             - navigation.tabs
             - navigation.tabs.sticky
             - navigation.sections
-            - navigation.expand
-            - navigation.path
+            # - navigation.expand
+#             - navigation.path
 #             - navigation.prune
             - navigation.indexes
             - navigation.top
             - navigation.sections
-            - navigation.path
             - toc.follow
             - toc.integrate
 
@@ -34,10 +33,14 @@ theme:
 plugins:
       - privacy
       - tags:
+            tags_compare_reverse: true
             tags_slugify: !!python/object/apply:pymdownx.slugs.slugify
                   kwds:
                         case: lower
-            tags_file: library/index.md
+#             tags_file: library/index.md
+            tags_extra_files:
+                  library/dates.md: ['2018', '2019','2020','2021','2022','2023','2024','2025']
+                  library/topics.md: [reports, proposals, guidelines, charters, practices]
                       
       - table-reader
       - search
@@ -112,7 +115,8 @@ markdown_extensions:
                   kwds:
                         case: lower
       - toc:
-              toc_depth: 3
+              toc_depth: 2
+              title: On this page
               permalink: true
               permalink_title: Anchor link to this section for reference
 
@@ -120,6 +124,23 @@ extra:
       generator: false
       tags:
             library: libr
+            '2012': '2012'
+            '2015': '2015'
+            '2016': '2016'
+            '2017': '2017'
+            '2018': '2018'
+            '2019': '2019'
+            '2020': '2020'
+            '2021': '2021'
+            '2022': '2022'
+            '2023': '2023'
+            '2024': '2024'
+            '2025': '2025'
+            'reports': reports
+            'proposals': proposals
+            'program guidelines': guidelines
+            'charters': charters
+            'best practices': practices
       social:
             - icon: material/email 
               link: https://geo.btaa.org/feedback
@@ -137,6 +158,8 @@ nav:
       - 'History': 'about/history.md'
       - 'Updates': 
             'updates/index.md'
+            
+
       
 
 - Technology:
@@ -172,30 +195,30 @@ nav:
       
 
 - Document Library:
-      - 'library/index.md'
-      - Scholarly Publications:
-        - 'Journal Articles': 'library/articles.md'
-#         - 'Presentations': 'library/presentations.md'
-      - Reports & Guidelines:
-              - 'Analytics Working Group Report': 'library/analytics-working-group-report.md'
-              - 'Best Practices for ArcGIS Hubs': 'library/best-practices-open-data-portals.md'
-              - 'Collection Development Policy': 'library/collection-development-policy.md'
-              - 'Curation Priorities': 'library/curation-priorities.md'
-              - 'Diverse Collections Report': 'library/diverse-collections.md'
-              - 'Impact Report 2020': 'library/impactReport_2020-05.md'
-              - 'Land acknowledgement Action Plan' : 'library/actionPlan.md' 
-              - 'Licensed Data Implementation': 'library/licensed-data-implementation.md'
-              - 'Original Content Guidelines': 'library/original-content.md'
-              - 'Rates of Change for Open Data': 'library/rates-of-change.md'
-              - 'Staff Time for Ephemeral Data': 'library/ephemeral-costs.md'
-              - 'User Personas': 'library/user-personas.md'
-      - Proposals & Charters:
-              - 'Continuation Proposal 2021': 'library/continuation_2021.md'
-              - 'A Spatial Data Infrastructure (SDI) for the BTAA': 'library/btaa-sdi-2019.md'
-              - 'Continuation Proposal 2019': 'library/continuation_2019.md'
-              - 'Continuation Proposal 2017': 'library/continuation_2017.md'
-              - 'CIC Geospatial Data Discovery Project Charter (2015)': 'library/cic-charter.md'
-              - 'Proposal for a Geospatial Data Discovery Project Across the CIC (2015)': 'library/cic-proposal.md'
+      - Browse:
+            - 'By topic': 'library/topics.md'
+            - 'By date': 'library/dates.md'
+      - All Documents:
+#             - 'Presentations': 'library/presentations.md'
+            - 'Analytics Working Group Report': 'library/analytics-working-group-report.md'
+            - 'Best Practices for ArcGIS Hubs': 'library/best-practices-open-data-portals.md'
+            - 'Collection Development Policy': 'library/collection-development-policy.md'
+            - 'Curation Priorities': 'library/curation-priorities.md'
+            - 'Diverse Collections Report': 'library/diverse-collections.md'
+            - 'Impact Report 2020': 'library/impactReport_2020-05.md'
+            - 'Land acknowledgement Action Plan' : 'library/actionPlan.md' 
+            - 'Licensed Data Implementation': 'library/licensed-data-implementation.md'
+            - 'Original Content Guidelines': 'library/original-content.md'
+            - 'Rates of Change for Open Data': 'library/rates-of-change.md'
+            - 'Staff Time for Ephemeral Data': 'library/ephemeral-costs.md'
+            - 'User Personas': 'library/user-personas.md'
+            - 'Continuation Proposal 2021': 'library/continuation_2021.md'
+            - 'A Spatial Data Infrastructure (SDI) for the BTAA': 'library/btaa-sdi-2019.md'
+            - 'Continuation Proposal 2019': 'library/continuation_2019.md'
+            - 'Continuation Proposal 2017': 'library/continuation_2017.md'
+            - 'CIC Geospatial Data Discovery Project Charter (2015)': 'library/cic-charter.md'
+            - 'Proposal for a Geospatial Data Discovery Project Across the CIC (2015)': 'library/cic-proposal.md'
+            - 'Journal Articles': 'library/articles.md'
    
 - GIS Conference:
       - 'index' : 'conference/index.md'
