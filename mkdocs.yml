@@ -5,10 +5,11 @@ noindex: true
 
 theme: 
       name: material
+      favicon: images/btaa-geodata.png
       palette:
-            primary: white    
+#             primary: white    
       highlightjs: true
-      logo: images/gin-full.jpeg
+      logo: images/gin-white.png
       font:
             text: Libre Franklin
       custom_dir: overrides
@@ -165,7 +166,7 @@ nav:
 - Technology:
       - 'technology/index.md'
       - 'BTAA Geoportal': 'technology/geoportal.md'
-      - 'Admin Toolkit': 'technology/geomg.md'
+      - 'Admin Toolkit': 'technology/gbl-admin.md'
       - 'Metadata Handbook': 'technology/metadataHandbook.md'
 
 - User Resources:
@@ -222,13 +223,14 @@ nav:
    
 - GIS Conference:
       - 'index' : 'conference/index.md'
-  
       - Map Gallery Guidelines: 'conference/map-guidelines.md'
       - Past Conferences:
               - 2023: 'conference/2023.md'
               - 2022: 'conference/2022.md'   
               - 2021: 'conference/2021.md'
               - 2020: 'conference/2020.md'
+              
+- Blog: 'https://geobtaa.blogspot.com'
       
 
       

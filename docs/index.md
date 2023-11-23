@@ -7,11 +7,13 @@ hide:
 <body>
 
 	<div class="hero-section" >
-	
 	    <h1>The Big Ten Academic Alliance Geospatial Information Network</h1>
+	    
 	   	    <p>Supporting the geospatial research community and fostering connections among geospatial library professionals</p>
+	   	    
 	    <div class="hero-buttons">
 	        <a href="https://geo.btaa.org" class="hero-button">Explore the BTAA Geoportal</a>
+	        
 	    </div>
 	</div>
 	

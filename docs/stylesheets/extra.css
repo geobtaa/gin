@@ -10,24 +10,43 @@ body {
       background-color: #fafafa;
 }
 
+:root {
+  --md-primary-fg-color:        #005E8E;
+}
 
 /* Hyperlinks */
-a {
-      color: #005E8E !important;   
-}
 
+a {
+      text-decoration: underline;
+      text-underline-offset: 0.12em;
+      text-decoration-thickness: 5\1px;
+
+}
 
 a:hover {
-      color: #163b58 !important; /* Darker shade on hover */
       text-decoration: underline;
-      text-underline-offset: 0.1em;
+      text-underline-offset: 0.12em;
       text-decoration-thickness: 5\1px;
-      text-decoration-style: dash;
 }
 
+
 /* Headers */
-h2 {
-      color: #163b58;   
+
+.md-typeset h1 {
+      color: #000;
+}
+
+
+.md-typeset h2 {
+      color: #163b58;  
+      font-size: 1.4em;
+      font-weight: 600; 
+}
+
+.md-typeset h3 {
+      color: #760f13;  
+      font-size: 1em;
+      font-weight: 600; 
 }
 
 /* Main Content Styles */
@@ -96,15 +115,15 @@ h2 {
 }
 
 .md-tabs__link {
-      color: #163b58; !important;
+      color: #fff; !important;
       opacity: 100;
-      font-size: 1.75em;
+      font-size: 1.8em;
       text-decoration: none !important;
       transition: color 0.3s ease; 
 }
 
 .md-tabs__link:hover {
-      color: #163b58; !important; /* Darker shade on hover */
+
       border-bottom: 1px solid;
 }
 
@@ -139,7 +158,7 @@ h2 {
 
 .md-sidebar--primary {
       width: 20%;
-      color: #fff !important;
+      /* color: #fff !important; */
       
 
 }
@@ -291,7 +310,7 @@ padding: 20px;
       color: #000;
 }
 .call-to-action { /* the links at the bottom of the boxes */
-            color: #FF6B6B;
+            color: #760f13;
             font-weight: 500;
             padding: 20px
             border-radius: 3px;-->

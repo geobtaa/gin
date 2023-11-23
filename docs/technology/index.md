@@ -11,13 +11,13 @@ We build and contribute to open-source geospatial library tools.
 
 
   <div class="section">
-    <h2><a href="geomg">Admin Toolkit</a></h2>
+    <h2><a href="gbl-admin">Admin Toolkit</a></h2>
     <p>'GeoBlacklight Admin' is our custom tool for ingesting, editing, and managing resources for the BTAA Geoportal.</p>
   </div>
 
 
   <div class="section">
-    <h2><a href="metadataHandbook.md">Metadata Handbook</a></h2>
+    <h2><a href="metadataHandbook">Metadata Handbook</a></h2>
     <p>Documentation, tutorials, and python recipes for BTAA Geoportal metadata</p>
   </div>
   
