@@ -12,7 +12,11 @@ body {
 
 :root {
   --md-primary-fg-color:        #005E8E;
+  --md-secondary-fg-color:        #fafafa;
 }
+
+
+
 
 /* Hyperlinks */
 
@@ -27,7 +31,9 @@ a:hover {
       text-decoration: underline;
       text-underline-offset: 0.12em;
       text-decoration-thickness: 5\1px;
+
 }
+
 
 
 /* Headers */
@@ -98,7 +104,22 @@ a:hover {
   .md-header__title {
     display: none;
   }
+  
+/*   -----FOOTER---------- */
+  
 
+  .md-footer {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+
+
+.md-social__link svg {
+  max-height: 2rem;
+}
+
+  
 
 /* ------------ TOP MENU STYLES ------------------- */
 
