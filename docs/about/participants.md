@@ -4,8 +4,6 @@ We are a collaboration of library-affiliated staff from Big Ten Academic Allianc
 
 ## Participating Institutions
 
-This Big Ten Academic Alliance Geospatial Information Network (BTAA-GIN) is collectively managed by librarians and geospatial specialists from fourteen universities in the [Big Ten Academic Alliance](http://btaa.org). 
-
 ![](../images/BTAA-GIN-institutions-crop.png){ align=right width=60% }
 
 1. Indiana University Bloomington

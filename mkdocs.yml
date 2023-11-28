@@ -1,13 +1,14 @@
 site_name: Geospatial Information Network
 site_author: Big Ten Academic Alliance Geospatial Information Network
-# copyright : "&copy; 2016-2023"
+site_url: https://geobtaa.github.io/gin/
+copyright : "&copy; 2016-2023 Big Ten Academic Alliance Geospatial Information Network"
 noindex: true 
 
 theme: 
       name: material
       favicon: images/btaa-geodata.png
-      palette:
-#             primary: white    
+#       palette:
+#             scheme: gin    
       highlightjs: true
       logo: images/gin-white.png
       font:
@@ -86,9 +87,6 @@ markdown_extensions:
       - meta
       - footnotes
       - admonition
-#       - mdx_truly_sane_lists:
-#             nested_indent: 4
-#             truly_sane: True
       - pymdownx.critic
       - pymdownx.caret
       - pymdownx.keys
@@ -157,6 +155,7 @@ nav:
       - 'Committees': 'about/committees.md'
       - 'Guiding Principles': 'about/btaa-gin.md'
       - 'History': 'about/history.md'
+      - 'Contact us': 'https://geo.btaa.org/feedback'
 #       - 'Updates': 
 #             'updates/index.md'
                  
