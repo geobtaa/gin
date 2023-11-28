@@ -1,25 +1,33 @@
+## Who we are
+
+We are a collaboration of library-affiliated staff from Big Ten Academic Alliance universities. The BTAA-GIN program is part of the [Big Ten Academic Alliance Library Initiatives](https://btaa.org/library/Libraries).
+
 ## Participating Institutions
 
 This Big Ten Academic Alliance Geospatial Information Network (BTAA-GIN) is collectively managed by librarians and geospatial specialists from fourteen universities in the [Big Ten Academic Alliance](http://btaa.org). 
 
-* Indiana University Bloomington
-* Michigan State University
-* Ohio State University
-* Pennsylvania State University
-* Purdue University
-* Rutgers University-New Brunswick
-* University of Chicago
-* University of Illinois at Urbana­-Champaign
-* University of Iowa
-* University of Maryland
-* University of Michigan
-* University of Minnesota
-* University of Nebraska-Lincoln
-* University of Wisconsin-­Madison
+![](../images/BTAA-GIN-institutions-crop.png){ align=right width=60% }
+
+1. Indiana University Bloomington
+1. Michigan State University
+1. Ohio State University
+1. Pennsylvania State University
+1. Purdue University
+1. Rutgers University-New Brunswick
+1. University of Chicago
+1. University of Illinois at Urbana­-Champaign
+1. University of Iowa
+1. University of Maryland
+1. University of Michigan
+1. University of Minnesota
+1. University of Nebraska-Lincoln
+1. University of Wisconsin-­Madison
+
+---
 
 ##  Team Members
 
-Program Team Members contribute their knowledge of one or more areas in the fields of libraries, geography, GIS, maps, metadata, cataloguing, web development, or project management. 
+Our Team Members form the core of BTAA-GIN, each contributing a different set of skills and insights. Their collective expertise spans a range of disciplines: from the information-focused skills of geospatial science, data management, and metadata to the cultural realm of map cataloging and cartographic history. They also bring critical perspectives on social justice and web accessibility, alongside technical skills in software development, web accessibility, and interface usability. 
 
 {{ read_csv('../tables/teamMembers-2023.csv') }}
 

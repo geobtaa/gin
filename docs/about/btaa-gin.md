@@ -1,20 +1,10 @@
----
-hide:
-
-
----
-
-## Who we are
-
-We are a collaboration of librarians and geospatial specialists from across the Big Ten Academic Alliance.
-
-
+#  BTAA-GIN Guiding Principles
 
 ## Our Mission
 
 * To support the geospatial research community by making resources easier to find and to foster connections among geospatial library professionals through our collaboration.
-* Our program aims to support the geospatial research community by building and maintaining a collective open-source spatial data infrastructure featuring metadata optimized for spatial discovery platforms.
-* We foster connections among geospatial library professionals, the Big Ten Academic Alliance, and the BIG Collection by sharing expertise and utilizing collective resources while cultivating a culture of deep collaboration and interdependence.
+    * Our program aims to support the geospatial research community by building and maintaining a collective open-source spatial data infrastructure featuring metadata optimized for spatial discovery platforms.
+    * We foster connections among geospatial library professionals, the Big Ten Academic Alliance, and the BIG Collection by sharing expertise and utilizing collective resources while cultivating a culture of deep collaboration and interdependence.
 
 ## Our Values
 
@@ -35,7 +25,6 @@ We are a collaboration of librarians and geospatial specialists from across the 
 * Invest in open-source technology and communities.
 * Share metadata best practices and schema development.
 * Champion initiatives to preserve and archive digital geospatial assets.
-
 
 
 ## Our Vision

@@ -1,4 +1,4 @@
-# BTAA Geoportal
+# About the BTAA Geoportal
 
 Visit the BTAA Geoportal at [geo.btaa.org](https://geo.btaa.org)
 

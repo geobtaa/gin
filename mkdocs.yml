@@ -21,7 +21,7 @@ theme:
             - navigation.tabs
             - navigation.tabs.sticky
             - navigation.sections
-            # - navigation.expand
+            - navigation.expand
 #             - navigation.path
 #             - navigation.prune
             - navigation.indexes
@@ -59,12 +59,12 @@ plugins:
                   - custom-skip-class-name
             auto_caption: true
             caption_position: top
-      - blog:
-            blog_dir: updates
-            categories: false
-            archive: false
-            post_date_format: medium
-            archive_date_format: yyyy
+#       - blog:
+#             blog_dir: updates
+#             categories: false
+#             archive: false
+#             post_date_format: medium
+#             archive_date_format: yyyy
 #       - optimize
 #           enabled:!ENV [CI, false]
 #       - pdf-export:
@@ -153,46 +153,42 @@ nav:
 # - Home: 'index.md'
 
 - About:
-      - 'about/index.md'
-      - 'Participants': 'about/participants.md'
+      - 'Who we are': 'about/participants.md'
       - 'Committees': 'about/committees.md'
+      - 'Guiding Principles': 'about/btaa-gin.md'
       - 'History': 'about/history.md'
-      - 'Updates': 
-            'updates/index.md'
-            
+#       - 'Updates': 
+#             'updates/index.md'
+                 
 
-      
+- Technology: 
+      - 'Technology projects': 'technology/projects.md'
+      - 'About the BTAA Geoportal': 'technology/geoportal.md'
 
-- Technology:
-      - 'technology/index.md'
-      - 'BTAA Geoportal': 'technology/geoportal.md'
-      - 'Admin Toolkit': 'technology/gbl-admin.md'
-      - 'Metadata Handbook': 'technology/metadataHandbook.md'
+# - User Resources:
+- Research Guides:
+        - 'guides/index.md'
+        - 'BTAA Geoportal Search strategies': 'guides/search-strategies.md'
+        - 'Understanding metadata': 'guides/understanding-metadata.md'
+        - 'Citing geospatial data':  'guides/cite-data.md'
+        - 'Licensed data' : 'guides/licensed-data.md'
+        - 'U.S. Census data' : 'guides/census.md'
+        - 'Fire insurance maps'  : 'guides/fire-insurance.md'   
+        - 'Public Land Survey System (PLSS) Plats' : 'guides/plss.md'
 
-- User Resources:
-      - Research Guides:
-              - 'guides/index.md'
-              - 'BTAA Geoportal Search strategies': 'guides/search-strategies.md'
-              - 'Understanding metadata': 'guides/understanding-metadata.md'
-              - 'Citing geospatial data':  'guides/cite-data.md'
-              - 'Licensed data' : 'guides/licensed-data.md'
-              - 'U.S. Census data' : 'guides/census.md'
-              - 'Fire insurance maps'  : 'guides/fire-insurance.md'   
-              - 'Public Land Survey System (PLSS) Plats' : 'guides/plss.md'
-
-      - Tutorials:
-              - 'tutorials/index.md'
-              - '1. Types of Geospatial Information': 'tutorials/01_types-of-geospatial-information.md'
-              - '2. Find Maps': 'tutorials/02_find-maps.md'
-              - '3. Find Geospatial Data': 'tutorials/03_find-geospatial-data.md'
-              - '4. Evaluate Geospatial Information': 'tutorials/04_evaluate-geospatial-information.md'
-              - '5. Web Services': 'tutorials/05_web-services.md'
-              - '6. Link Tabular Data': 'tutorials/06_link-tabular-data.md'
-              - '7. Georeference': 'tutorials/07_georeference.md'
-              - '8. Digitize': 'tutorials/08_digitize.md'
-              - '9. Create Elevation Surface Models': 'tutorials/09_create-elevation-surface-models.md'
-              - '10. Zonal Stats Tool': 'tutorials/10_zonal-stats-tool.md'
-              - '11. Story Maps': 'tutorials/11_story-maps.md'
+- Tutorials:
+        - 'tutorials/index.md'
+        - '1. Types of Geospatial Information': 'tutorials/01_types-of-geospatial-information.md'
+        - '2. Find Maps': 'tutorials/02_find-maps.md'
+        - '3. Find Geospatial Data': 'tutorials/03_find-geospatial-data.md'
+        - '4. Evaluate Geospatial Information': 'tutorials/04_evaluate-geospatial-information.md'
+        - '5. Web Services': 'tutorials/05_web-services.md'
+        - '6. Link Tabular Data': 'tutorials/06_link-tabular-data.md'
+        - '7. Georeference': 'tutorials/07_georeference.md'
+        - '8. Digitize': 'tutorials/08_digitize.md'
+        - '9. Create Elevation Surface Models': 'tutorials/09_create-elevation-surface-models.md'
+        - '10. Zonal Stats Tool': 'tutorials/10_zonal-stats-tool.md'
+        - '11. Story Maps': 'tutorials/11_story-maps.md'
       
 
 - Document Library:
@@ -223,14 +219,15 @@ nav:
    
 - GIS Conference:
       - 'index' : 'conference/index.md'
-      - Map Gallery Guidelines: 'conference/map-guidelines.md'
+      - Map Gallery: 'conference/map-gallery.md'
       - Past Conferences:
               - 2023: 'conference/2023.md'
               - 2022: 'conference/2022.md'   
               - 2021: 'conference/2021.md'
               - 2020: 'conference/2020.md'
               
-- Blog: 'https://geobtaa.blogspot.com'
+- Blog ↗: 'https://geobtaa.blogspot.com'
+
       
 
       

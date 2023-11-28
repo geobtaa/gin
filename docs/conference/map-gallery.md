@@ -1,14 +1,14 @@
 # Map Gallery
 
-[:map: Browse our conference map gallery. :octicons-link-external-24:](https://geobtaa.github.io/Map-Gallery-Update/)
+[:map:  Visit our conference map gallery.  :octicons-link-external-24:](https://geobtaa.github.io/Map-Gallery-Update/){ .md-button }
 
 ## Guidelines for submission 
 
-!!! info
+!!! warning inline end " "
 
 	Submissions for the 2023 conference are closed. Watch this space for announcements for future galleries.
 	
-The 2023 BTAA GIS Conference provides an opportunity to showcase your creativity using GIS tools and techniques. You can submit either a static map (.jpg ) or interactive map (i.e, story map, dashboard). We welcome all sorts of maps or apps regardless of any software platform you used to create/design them. Guidelines and format for the submission are given below:
+The annual BTAA GIS Conference provides an opportunity to showcase your creativity using GIS tools and techniques. You can submit either a static map (.jpg ) or interactive map (i.e, story map, dashboard). We welcome all sorts of maps or apps regardless of any software platform you used to create/design them. Guidelines and format for the submission are given below:
 
 ## Static Map (digital)
 

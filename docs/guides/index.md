@@ -7,7 +7,7 @@ hide:
 
 Our Research Guides provide help on using the BTAA Geoportal as well as general finding aids for topical resources.
 
-## BTAA Geoportal Basics
+## Using the BTAA Geoportal
 
 [**BTAA Geoportal search strategies**](search-strategies.md): Start here to learn how to search for resources in the [BTAA Geoportal](https://geo.btaa.org)
 

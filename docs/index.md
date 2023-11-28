@@ -10,6 +10,7 @@ hide:
 	    <h1>The Big Ten Academic Alliance Geospatial Information Network</h1>
 	    
 	   	    <p>Supporting the geospatial research community and fostering connections among geospatial library professionals</p>
+	   	  
 	   	    
 	    <div class="hero-buttons">
 	        <a href="https://geo.btaa.org" class="hero-button">Explore the BTAA Geoportal</a>
@@ -33,10 +34,10 @@ hide:
         
         <div class="section three-in-row">
             <h2 class="grid-title">Collaborate & Contribute</h2>
-            <p class="description">Collaborative activities, best practices, software projects, and metadata workflows.</p>
+            <p class="description">Learn about our collaborative software projects, metadata workflows, and events.</p>
             <div class="call-to-action">
-                <a href="technology">Technology</a> |
-                <a href="technology/metadataHandbook">Metadata Handbook</a>
+                <a href="technology/projects">Technology Projects</a> |
+                <a href="conference">GIS Conference</a>
             </div>
         </div>
         
@@ -44,19 +45,13 @@ hide:
             <h2 class="grid-title"> Stay Informed & Support Our Vision</h2>
             <p class="description">Project updates, program guidelines, history, and milestones.</p>
             <div class="call-to-action">
-                <a href="about/index">About</a> |
+                <a href="about">About</a> |
                 <a href="about/history">History</a>
             </div>
         </div>
         
     </div>
-    
-<div style="text-align: center; padding-top:2em;">
-<h2>Participating Institutions</h2>
-    
-<img src="images/BTAA-GIN-institutions.png" alt="Map of participating institutions" width= "75%">
-
-</div>
+ 
   
 </body>
 </html>
