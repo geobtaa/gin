@@ -46,6 +46,7 @@ plugins:
       - table-reader
       - search
       - open-in-new-tab
+      - optimize
       - glightbox:
             touchNavigation: true
             loop: false
@@ -65,8 +66,7 @@ plugins:
 #             archive: false
 #             post_date_format: medium
 #             archive_date_format: yyyy
-#       - optimize
-#           enabled:!ENV [CI, false]
+
 #       - pdf-export:
 #             verbose: true
 #             media_type: print
